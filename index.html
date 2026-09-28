@@ -118,7 +118,6 @@
   .hero > * { min-width: 0; }
   .hero-tags { display: flex; flex-wrap: wrap; gap: 12px; }
   .tag { white-space: normal; }
-  .hero-meta { margin-top: 24px; display: flex; flex-wrap: wrap; gap: 8px 24px; font-size: 15px; }
   .hero-actions { margin-top: 28px; display: flex; flex-wrap: wrap; gap: 12px; }
   .btn {
     display: inline-flex; align-items: center; justify-content: center; gap: 8px; min-height: 46px; padding: 0 22px;
@@ -130,12 +129,11 @@
   .btn-primary { background: var(--accent); border-color: var(--accent); color: var(--on-accent); }
   .btn-primary:hover { background: transparent; color: var(--text); }
   @media (max-width: 760px) {
-    .hero { grid-template-columns: minmax(0, 38%) minmax(0, 1fr); grid-template-areas: "portrait info" "actions actions"; gap: 20px 16px; }
+    .hero { grid-template-columns: minmax(0, 42%) minmax(0, 1fr); grid-template-areas: "portrait info" "actions actions"; gap: 20px 16px; align-items: center; }
     .hero-info { align-self: center; }
-    .hero-name { font-size: clamp(24px, 7vw, 30px); margin-bottom: 12px; }
-    .hero-tags { gap: 8px; }
+    .hero-name { font-size: clamp(22px, 6vw, 28px); margin-bottom: 12px; }
+    .hero-tags { gap: 8px; flex-direction: column; align-items: flex-start; }
     .tag { padding: 6px 12px; font-size: 13.5px; }
-    .hero-meta { margin-top: 14px; font-size: 13.5px; }
     .hero-actions { margin-top: 0; }
   }
 
@@ -187,6 +185,7 @@
   .stat dd { margin: 0; order: -1; }
   .stat-value { display: block; font-family: var(--font-en); font-size: clamp(36px, 4vw, 52px); font-weight: 600; line-height: 1.1; color: var(--text); direction: ltr; text-align: start; }
   .stat-value .suf { color: var(--accent); }
+  html[dir="rtl"] .stat-value { text-align: right; }
   .stat-label { font-size: 14px; }
   @media (max-width: 860px) { .stats-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 
@@ -306,9 +305,6 @@
       <div class="hero-tags">
         <span class="tag" data-i18n="hero.tag1">خبيرة التحول والتمكين</span>
         <span class="tag" data-i18n="hero.tag2">تمكين المنافع واستدامة التحول</span>
-      </div>
-      <div class="hero-meta">
-        <span data-i18n="contact.cityValue">الرياض، المملكة العربية السعودية</span>
       </div>
     </div>
     <div class="hero-actions">
