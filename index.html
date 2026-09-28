@@ -22,7 +22,7 @@
 </script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&family=Readex+Pro:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
   /* ================= المتغيرات ================= */
   :root {
@@ -41,9 +41,10 @@
     --band-accent: #d4b06a;
     --band-line: #2a3b54;
 
-    --font-head: 'Readex Pro', system-ui, sans-serif;
-    --font-body: 'Readex Pro', system-ui, sans-serif;
-    --font-mono: 'Readex Pro', system-ui, sans-serif;  /* الأرقام بالخط نفسه مع أرقام جدولية */
+    /* الخط نفسه المستخدم في منصة بيانات قطاع المحاماة، للعربية والإنجليزية والأرقام */
+    --font-head: 'IBM Plex Sans Arabic', Tahoma, Arial, sans-serif;
+    --font-body: 'IBM Plex Sans Arabic', Tahoma, Arial, sans-serif;
+    --font-mono: 'IBM Plex Sans Arabic', Tahoma, Arial, sans-serif;
 
     --radius: 3px;
     --radius-sm: 2px;
@@ -53,11 +54,6 @@
     --header-h: 72px;
     --ease: cubic-bezier(.2, .7, .2, 1);
   }
-  /* العربية: Almarai — الإنجليزية: Readex Pro */
-  html[lang="ar"] { --font-head: 'Almarai', system-ui, sans-serif; --font-body: 'Almarai', system-ui, sans-serif; --font-mono: 'Almarai', system-ui, sans-serif; }
-  html[lang="ar"] body { font-weight: 400; }
-  html[lang="ar"] h1, html[lang="ar"] h2, html[lang="ar"] h3, html[lang="ar"] .brand-name { font-weight: 700; }
-  html[lang="ar"] .hero-title, html[lang="ar"] .contact-title { font-weight: 800; }
   @media (prefers-color-scheme: dark) {
     :root:not([data-theme="light"]) {
       color-scheme: dark;
@@ -79,7 +75,7 @@
   @media (prefers-reduced-motion: no-preference) { html { scroll-behavior: smooth; } }
   body {
     margin: 0; background: var(--bg); color: var(--text);
-    font-family: var(--font-body); font-size: 17px; font-weight: 300; line-height: 1.9;
+    font-family: var(--font-body); font-size: 17px; font-weight: 400; line-height: 1.9;
     -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility;
     transition: background-color .3s var(--ease), color .3s var(--ease);
   }
@@ -163,7 +159,7 @@
     display: grid; grid-template-columns: auto 1fr; column-gap: clamp(20px, 3vw, 40px); align-items: end;
     margin-bottom: clamp(44px, 6vw, 80px); padding-bottom: 28px; border-bottom: 1px solid var(--line);
   }
-  .section-index { font-family: var(--font-mono); font-size: clamp(56px, 8vw, 112px); line-height: .9; font-weight: 300; color: transparent; -webkit-text-stroke: 1px var(--line-strong); grid-row: span 2; }
+  .section-index { font-family: var(--font-mono); font-size: clamp(56px, 8vw, 112px); line-height: .9; font-weight: 400; color: transparent; -webkit-text-stroke: 1px var(--line-strong); grid-row: span 2; }
   .eyebrow { font-size: 14px; font-weight: 600; color: var(--accent); }
   html[lang="en"] .eyebrow { text-transform: uppercase; letter-spacing: .12em; font-size: 12px; }
   .section-title { font-size: clamp(28px, 3.6vw, 46px); text-wrap: balance; }
@@ -198,7 +194,7 @@
   .hero-grid { display: grid; gap: clamp(40px, 6vw, 96px); grid-template-columns: minmax(0, 1.45fr) minmax(0, 1fr); align-items: end; }
   .hero-positioning { display: inline-flex; align-items: center; gap: 14px; color: var(--accent); font-weight: 600; font-size: 16px; margin-bottom: 28px; }
   .hero-positioning::before { content: ""; width: 40px; height: 1px; background: currentColor; }
-  .hero-title { font-size: clamp(42px, 6.6vw, 92px); font-weight: 600; line-height: 1.2; margin-bottom: 32px; text-wrap: balance; }
+  .hero-title { font-size: clamp(42px, 6.6vw, 92px); font-weight: 700; line-height: 1.2; margin-bottom: 32px; text-wrap: balance; }
   html[lang="en"] .hero-title { line-height: 1.02; letter-spacing: -0.03em; }
   .hero-title .t2 { display: block; color: var(--accent); }
   .hero-bio { color: var(--muted); font-size: clamp(17px, 1.45vw, 20px); max-width: 620px; margin-bottom: 44px; }
@@ -247,7 +243,7 @@
   .stat { display: flex; flex-direction: column; padding: clamp(40px, 5vw, 72px) clamp(16px, 2.4vw, 36px); }
   .stat + .stat { border-inline-start: 1px solid var(--band-line); }
   .stat dd { margin: 0; order: -1; }
-  .stat-value { display: block; font-family: var(--font-mono); font-size: clamp(44px, 5.4vw, 76px); font-weight: 300; line-height: 1.1; margin-bottom: 16px; white-space: nowrap; direction: ltr; text-align: start; }
+  .stat-value { display: block; font-family: var(--font-mono); font-size: clamp(44px, 5.4vw, 76px); font-weight: 500; line-height: 1.1; margin-bottom: 16px; white-space: nowrap; direction: ltr; text-align: start; }
   html[dir="rtl"] .stat-value { text-align: end; }
   .stat-value .suf { color: var(--band-accent); }
   .stat-label { color: var(--band-muted); font-size: 15px; max-width: 220px; }
