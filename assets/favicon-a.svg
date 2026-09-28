@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="square" stroke-linejoin="miter">
+<style>svg{color:#15191a}.acc{stroke:#0b6153}.acc-f{fill:#0b6153}@media (prefers-color-scheme:dark){svg{color:#e9eded}.acc{stroke:#5cc2ae}.acc-f{fill:#5cc2ae}}</style>
+<rect x="4" y="4" width="40" height="40" rx="2.5" stroke-width="2.5"/>
+<path d="M12 13l6 10 6-10M18 23v12"/>
+<path d="M28 23v12h5a6 6 0 0 0 0-12h-5"/>
+<path class="acc" d="M28 23V13h4a5 5 0 0 1 0 10"/>
+</svg>

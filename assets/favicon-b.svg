@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="square" stroke-linejoin="miter">
+<style>svg{color:#15191a}.acc{stroke:#0b6153}.acc-f{fill:#0b6153}@media (prefers-color-scheme:dark){svg{color:#e9eded}.acc{stroke:#5cc2ae}.acc-f{fill:#5cc2ae}}</style>
+<rect x="4" y="4" width="40" height="40" rx="2.5" stroke-width="2.5"/>
+<path d="M35 13v14H13v-6"/>
+<rect x="16.5" y="32" width="5" height="5" rx=".5" fill="currentColor" stroke="none"/>
+<rect class="acc-f" x="26.5" y="32" width="5" height="5" rx=".5" stroke="none"/>
+</svg>
