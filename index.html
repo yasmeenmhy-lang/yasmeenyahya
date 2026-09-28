@@ -185,6 +185,14 @@
   .card { border: 1px solid var(--line); border-radius: var(--radius); background: var(--bg); transition: border-color .3s var(--ease), transform .3s var(--ease); }
   .card:hover { border-color: var(--line-strong); transform: translateY(-3px); }
 
+
+  /* مواضع مؤقتة للصور والشعارات إلى حين استلامها */
+  .ph { background: var(--surface); color: var(--muted); display: flex; align-items: center; justify-content: center; font-size: 14px; }
+  .project-visual.ph { padding: 0; }
+  .org-logo { display: flex; align-items: center; justify-content: center; width: 72px; height: 72px; border: 1px dashed var(--line-strong); border-radius: var(--radius); color: var(--muted); font-size: 11px; text-align: center; line-height: 1.4; padding: 4px; background: var(--surface); }
+  .org-logo img { width: 100%; height: 100%; object-fit: contain; }
+  .org-logo-sm { width: 40px; height: 40px; font-size: 9px; }
+
   /* ================= الواجهة ================= */
   .hero { padding-block: calc(var(--header-h) + clamp(40px, 7vw, 104px)) 0; }
   .hero-grid { display: grid; gap: clamp(40px, 6vw, 96px); grid-template-columns: minmax(0, 1.45fr) minmax(0, 1fr); align-items: end; }
@@ -295,14 +303,14 @@
   @media (max-width: 660px) { .projects-grid { grid-template-columns: 1fr; } }
 
   /* ================= المسار المهني ================= */
-  .tl-item { display: grid; grid-template-columns: 220px 1fr; gap: 12px 48px; padding-block: 36px; border-bottom: 1px solid var(--line); }
+  .tl-item { display: grid; grid-template-columns: 220px 72px 1fr; gap: 12px 48px; padding-block: 36px; border-bottom: 1px solid var(--line); }
   .tl-item:first-child { padding-top: 0; }
   .tl-period { font-family: var(--font-mono); font-size: 20px; color: var(--text); white-space: nowrap; }
   .tl-period .now { display: inline-block; margin-inline-start: 8px; width: 8px; height: 8px; background: var(--accent); border-radius: 1px; vertical-align: middle; }
   .tl-role { font-size: clamp(20px, 2vw, 25px); margin-bottom: 4px; }
   .tl-org { color: var(--accent); font-weight: 600; font-size: 15px; margin-bottom: 10px; }
   .tl-desc { color: var(--muted); font-size: 15px; max-width: 720px; }
-  @media (max-width: 700px) { .tl-item { grid-template-columns: 1fr; } .tl-period { font-size: 16px; } }
+  @media (max-width: 700px) { .tl-item { grid-template-columns: 72px 1fr; } .tl-period { grid-column: 1 / -1; } .tl-period { font-size: 16px; } }
 
   /* ================= المؤهلات ================= */
   .creds { background: var(--surface); }
@@ -495,28 +503,28 @@
 
       <ul class="projects-grid" role="list">
         <li class="card project reveal" data-cat="c1">
-          <div class="project-visual" role="img" aria-label="رسم تجريدي لسلسلة القيمة من فجوات السوق إلى الاستدامة" data-i18n-aria="alt.p1"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="square" stroke-linejoin="miter" aria-hidden="true"> <path d="M20 170H300" stroke-width="1" stroke-dasharray="2 4" opacity=".45"/> <path d="M61 146H106V132M115 122H160V108M169 98H214V84M223 74H268V60"/> <path d="M103 138l3-3 3 3M157 114l3-3 3 3M211 90l3-3 3 3M265 66l3-3 3 3"/> <rect x="43" y="137" width="18" height="18" rx="2" stroke-dasharray="3 2.5"/> <rect x="97" y="113" width="18" height="18" rx="2"/> <path d="M101 122h10M106 117v10" stroke-width="1"/> <rect x="151" y="89" width="18" height="18" rx="2"/> <path d="M155 93h10v10h-10z" stroke-width="1"/> <rect class="acc" x="205" y="65" width="18" height="18" rx="2"/> <path class="acc-f" stroke="none" d="M210 70h8v8h-8z"/> <rect x="259" y="41" width="18" height="18" rx="2"/> <rect x="255" y="37" width="26" height="26" rx="3" stroke-width="1"/> <path d="M52 166v8M106 166v8M160 166v8M214 166v8M268 166v8" stroke-width="1"/> </svg></div>
-          <div class="project-body"><div class="project-meta"><span class="project-cat" data-i18n="cat.c1">الاستراتيجية والقطاع</span><span class="project-no">P—01</span></div><h3 class="project-title" data-i18n="p1.t">استراتيجية تطوير قطاع المحاماة</h3><p class="project-result" data-i18n="p1.r">خطة تطوير مستقبلية تربط فجوات السوق بمحفظة مشاريع تطويرية، بالتعاون مع الهيئة السعودية للمحامين.</p></div>
+          <div class="project-visual ph" role="img" aria-label="صورة المشروع (موضع مؤقت)" data-i18n-aria="alt.p1"><span class="ph-text" data-i18n="ph.projectImage">صورة المشروع</span></div>
+          <div class="project-body"><div class="project-meta"><span class="project-cat" data-i18n="cat.c1">الاستراتيجية والقطاع</span><span class="org-logo org-logo-sm" aria-hidden="true" data-i18n="ph.orgLogo">شعار الجهة</span></div><h3 class="project-title" data-i18n="p1.t">استراتيجية تطوير قطاع المحاماة</h3><p class="project-result" data-i18n="p1.r">خطة تطوير مستقبلية تربط فجوات السوق بمحفظة مشاريع تطويرية، بالتعاون مع الهيئة السعودية للمحامين.</p></div>
         </li>
         <li class="card project reveal" data-cat="c2">
-          <div class="project-visual" role="img" aria-label="رسم تجريدي لمسار مشروع يستمر في دورة استدامة بعد التسليم" data-i18n-aria="alt.p2"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="square" stroke-linejoin="miter" aria-hidden="true"> <path d="M20 170H300" stroke-width="1" stroke-dasharray="2 4" opacity=".45"/> <path d="M34 100h90"/> <path d="M47.5 97.5h5v5h-5zM75.5 97.5h5v5h-5zM103.5 97.5h5v5h-5z" fill="currentColor" stroke="none"/> <path class="acc" d="M132 76v48M139 76v48" stroke-width="1.5"/> <path d="M147 100h13"/> <path d="M156 96l4 4-4 4"/> <rect x="164" y="48" width="124" height="104" rx="4"/> <path d="M222 44l4 4-4 4M284 96l4 4 4-4M230 148l-4 4 4 4M160 78l4-4 4 4"/> <path d="M160.5 44.5h7v7h-7zM284.5 44.5h7v7h-7zM284.5 148.5h7v7h-7zM160.5 148.5h7v7h-7z" fill="currentColor" stroke="none"/> <rect x="206" y="80" width="40" height="40" rx="2" stroke-width="1" stroke-dasharray="2 3"/> </svg></div>
-          <div class="project-body"><div class="project-meta"><span class="project-cat" data-i18n="cat.c2">التمكين والاستدامة</span><span class="project-no">P—02</span></div><h3 class="project-title" data-i18n="p2.t">منهجية استدامة مشاريع وزارة العدل</h3><p class="project-result" data-i18n="p2.r">منهجية اعتمدها معالي وزير العدل، وطُبّقت على مشاريع 2022 و2023 لحماية القيمة بعد التسليم.</p></div>
+          <div class="project-visual ph" role="img" aria-label="صورة المشروع (موضع مؤقت)" data-i18n-aria="alt.p2"><span class="ph-text" data-i18n="ph.projectImage">صورة المشروع</span></div>
+          <div class="project-body"><div class="project-meta"><span class="project-cat" data-i18n="cat.c2">التمكين والاستدامة</span><span class="org-logo org-logo-sm" aria-hidden="true" data-i18n="ph.orgLogo">شعار الجهة</span></div><h3 class="project-title" data-i18n="p2.t">منهجية استدامة مشاريع وزارة العدل</h3><p class="project-result" data-i18n="p2.r">منهجية اعتمدها معالي وزير العدل، وطُبّقت على مشاريع 2022 و2023 لحماية القيمة بعد التسليم.</p></div>
         </li>
         <li class="card project reveal" data-cat="c3">
-          <div class="project-visual" role="img" aria-label="رسم تجريدي لتحليل الوضع الراهن والخيارات والنموذج الموصى به" data-i18n-aria="alt.p3"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="square" stroke-linejoin="miter" aria-hidden="true"> <path d="M20 170H300" stroke-width="1" stroke-dasharray="2 4" opacity=".45"/> <rect x="36" y="86" width="28" height="28" rx="2"/> <path d="M42 96h16M42 104h10" stroke-width="1"/> <path d="M64 100h26M90 52v96M90 52h56M90 100h56M90 148h56"/> <path d="M142 48l4 4-4 4M142 96l4 4-4 4M142 144l4 4-4 4" /> <rect x="152" y="44" width="16" height="16" rx="2"/><rect x="152" y="140" width="16" height="16" rx="2"/> <path d="M174 52h40v48M174 148h40v-48" stroke-dasharray="3 3"/> <rect class="acc" x="152" y="92" width="16" height="16" rx="2"/> <path class="acc" d="M168 100h86"/> <path class="acc" d="M250 96l4 4-4 4"/> <rect x="258" y="80" width="40" height="40" rx="2"/> <path class="acc-f" stroke="none" d="M273 95h10v10h-10z"/> </svg></div>
-          <div class="project-body"><div class="project-meta"><span class="project-cat" data-i18n="cat.c3">دعم القرار</span><span class="project-no">P—03</span></div><h3 class="project-title" data-i18n="p3.t">دراسة إنشاء إدارة الشؤون الحكومية المشتركة</h3><p class="project-result" data-i18n="p3.r">مقارنة دولية وتحليل للفجوات والمخاطر ونموذج تنظيمي مقترح، عُرضت على معالي الوزير في يونيو 2025.</p></div>
+          <div class="project-visual ph" role="img" aria-label="صورة المشروع (موضع مؤقت)" data-i18n-aria="alt.p3"><span class="ph-text" data-i18n="ph.projectImage">صورة المشروع</span></div>
+          <div class="project-body"><div class="project-meta"><span class="project-cat" data-i18n="cat.c3">دعم القرار</span><span class="org-logo org-logo-sm" aria-hidden="true" data-i18n="ph.orgLogo">شعار الجهة</span></div><h3 class="project-title" data-i18n="p3.t">دراسة إنشاء إدارة الشؤون الحكومية المشتركة</h3><p class="project-result" data-i18n="p3.r">مقارنة دولية وتحليل للفجوات والمخاطر ونموذج تنظيمي مقترح، عُرضت على معالي الوزير في يونيو 2025.</p></div>
         </li>
         <li class="card project reveal" data-cat="c1">
-          <div class="project-visual" role="img" aria-label="رسم تجريدي لشبكة من 38 عقدة حول مركز تنسيق" data-i18n-aria="alt.p4"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="square" stroke-linejoin="miter" aria-hidden="true"> <path d="M160 84L160 38M163 84L181 23M165 85L193 41M168 86L221 31M170 87L223 51M172 89L254 47M173 91L246 66M175 94L277 69M176 96L259 85M176 99L288 94M176 101L262 105M176 104L284 119M175 106L254 125M173 109L267 143M172 111L235 142M170 113L239 162M168 114L209 155M165 115L202 174M163 116L177 162M160 116L160 178M157 116L143 162M155 115L118 174M152 114L111 155M150 113L81 162M148 111L85 142M147 109L53 143M145 106L66 125M144 104L36 119M144 101L58 105M144 99L32 94M144 96L61 85M145 94L43 69M147 91L74 66M148 89L66 47M150 87L97 51M152 86L99 31M155 85L127 41M157 84L139 23" stroke-width=".75" opacity=".32"/> <path d="M157.5 35.5h5v5h-5zM178.5 20.5h5v5h-5zM190.5 38.5h5v5h-5zM218.5 28.5h5v5h-5zM220.5 48.5h5v5h-5zM251.5 44.5h5v5h-5zM243.5 63.5h5v5h-5zM274.5 66.5h5v5h-5zM256.5 82.5h5v5h-5zM285.5 91.5h5v5h-5zM259.5 102.5h5v5h-5zM281.5 116.5h5v5h-5zM251.5 122.5h5v5h-5zM264.5 140.5h5v5h-5zM232.5 139.5h5v5h-5zM236.5 159.5h5v5h-5zM206.5 152.5h5v5h-5zM199.5 171.5h5v5h-5zM174.5 159.5h5v5h-5zM157.5 175.5h5v5h-5zM140.5 159.5h5v5h-5zM115.5 171.5h5v5h-5zM108.5 152.5h5v5h-5zM78.5 159.5h5v5h-5zM82.5 139.5h5v5h-5zM50.5 140.5h5v5h-5zM63.5 122.5h5v5h-5zM33.5 116.5h5v5h-5zM55.5 102.5h5v5h-5zM29.5 91.5h5v5h-5zM58.5 82.5h5v5h-5zM40.5 66.5h5v5h-5zM71.5 63.5h5v5h-5zM63.5 44.5h5v5h-5zM94.5 48.5h5v5h-5zM96.5 28.5h5v5h-5zM124.5 38.5h5v5h-5zM136.5 20.5h5v5h-5z" fill="currentColor" stroke="none"/> <rect x="146" y="86" width="28" height="28" rx="3"/> <rect class="acc-f" x="153" y="93" width="14" height="14" rx="2" stroke="none"/> </svg></div>
-          <div class="project-body"><div class="project-meta"><span class="project-cat" data-i18n="cat.c1">الاستراتيجية والقطاع</span><span class="project-no">P—04</span></div><h3 class="project-title" data-i18n="p4.t">لقاء التعاون مع شركات المحاماة الدولية</h3><p class="project-result" data-i18n="p4.r">جمع 38 شركة أجنبية مرخّصة مع وزارات العدل والاستثمار والتجارة لفتح فرص الاستثمار والتدريب والتوطين.</p></div>
+          <div class="project-visual ph" role="img" aria-label="صورة المشروع (موضع مؤقت)" data-i18n-aria="alt.p4"><span class="ph-text" data-i18n="ph.projectImage">صورة المشروع</span></div>
+          <div class="project-body"><div class="project-meta"><span class="project-cat" data-i18n="cat.c1">الاستراتيجية والقطاع</span><span class="org-logo org-logo-sm" aria-hidden="true" data-i18n="ph.orgLogo">شعار الجهة</span></div><h3 class="project-title" data-i18n="p4.t">لقاء التعاون مع شركات المحاماة الدولية</h3><p class="project-result" data-i18n="p4.r">جمع 38 شركة أجنبية مرخّصة مع وزارات العدل والاستثمار والتجارة لفتح فرص الاستثمار والتدريب والتوطين.</p></div>
         </li>
         <li class="card project reveal" data-cat="c2">
-          <div class="project-visual" role="img" aria-label="رسم تجريدي لمراحل التقييم والتصميم والتمكين والتبني" data-i18n-aria="alt.p5"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="square" stroke-linejoin="miter" aria-hidden="true"> <path d="M20 170H300" stroke-width="1" stroke-dasharray="2 4" opacity=".45"/> <path d="M40 150h56v-28h56v-28h56v-28h72"/> <path d="M276 62l4 4-4 4"/> <path d="M96 150v20M152 122v48M208 94v76" stroke-width="1" stroke-dasharray="2 4" opacity=".6"/> <rect x="61" y="129" width="14" height="14" rx="2"/> <rect x="117" y="101" width="14" height="14" rx="2"/> <rect x="173" y="73" width="14" height="14" rx="2"/> <rect class="acc-f" x="229" y="45" width="14" height="14" rx="2" stroke="none"/> </svg></div>
-          <div class="project-body"><div class="project-meta"><span class="project-cat" data-i18n="cat.c2">التمكين والاستدامة</span><span class="project-no">P—05</span></div><h3 class="project-title" data-i18n="p5.t">مركز التميّز لإدارة التغيير</h3><p class="project-result" data-i18n="p5.r">حوّل إدارة التغيير إلى قدرة على مستوى البرنامج بأدوات ومعايير قبول وأدوار محددة، دُمجت في ميثاق التحول.</p></div>
+          <div class="project-visual ph" role="img" aria-label="صورة المشروع (موضع مؤقت)" data-i18n-aria="alt.p5"><span class="ph-text" data-i18n="ph.projectImage">صورة المشروع</span></div>
+          <div class="project-body"><div class="project-meta"><span class="project-cat" data-i18n="cat.c2">التمكين والاستدامة</span><span class="org-logo org-logo-sm" aria-hidden="true" data-i18n="ph.orgLogo">شعار الجهة</span></div><h3 class="project-title" data-i18n="p5.t">مركز التميّز لإدارة التغيير</h3><p class="project-result" data-i18n="p5.r">حوّل إدارة التغيير إلى قدرة على مستوى البرنامج بأدوات ومعايير قبول وأدوار محددة، دُمجت في ميثاق التحول.</p></div>
         </li>
         <li class="card project reveal" data-cat="c3">
-          <div class="project-visual" role="img" aria-label="رسم تجريدي لمصفوفة ومخطط أعمدة لجودة البيانات والكفاءة" data-i18n-aria="alt.p6"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="square" stroke-linejoin="miter" aria-hidden="true"> <path d="M20 170H300" stroke-width="1" stroke-dasharray="2 4" opacity=".45"/> <rect x="36" y="46" width="100" height="100" rx="2"/> <path d="M86 46v100M36 96h100" stroke-width="1"/> <path d="M56 122h4v4h-4zM62 114h4v4h-4zM110 120h4v4h-4zM58 68h4v4h-4z" fill="currentColor" stroke="none"/> <rect class="acc" x="94" y="54" width="34" height="34" rx="2"/> <path class="acc-f" stroke="none" d="M108 68h6v6h-6z"/> <path d="M170 46v100h120"/> <path d="M184 146v-34h8v34M202 146v-46h8v46M220 146v-40h8v40M238 146v-58h8v58M256 146v-66h8v66M274 146v-80h8v80" stroke-width="1"/> <path d="M188 98L206 86L224 92L242 74L260 66L278 52"/> <path d="M186 96h4v4h-4zM204 84h4v4h-4zM222 90h4v4h-4zM240 72h4v4h-4zM258 64h4v4h-4zM276 50h4v4h-4z" fill="currentColor" stroke="none"/> </svg></div>
-          <div class="project-body"><div class="project-meta"><span class="project-cat" data-i18n="cat.c3">دعم القرار</span><span class="project-no">P—06</span></div><h3 class="project-title" data-i18n="p6.t">رفع الكفاءة التشغيلية وجودة البيانات</h3><p class="project-result" data-i18n="p6.r">توجّه استراتيجي للإدارة العامة للمحاماة يحوّل التحديات التشغيلية إلى أولويات تحسين ورؤى تدعم القرار.</p></div>
+          <div class="project-visual ph" role="img" aria-label="صورة المشروع (موضع مؤقت)" data-i18n-aria="alt.p6"><span class="ph-text" data-i18n="ph.projectImage">صورة المشروع</span></div>
+          <div class="project-body"><div class="project-meta"><span class="project-cat" data-i18n="cat.c3">دعم القرار</span><span class="org-logo org-logo-sm" aria-hidden="true" data-i18n="ph.orgLogo">شعار الجهة</span></div><h3 class="project-title" data-i18n="p6.t">رفع الكفاءة التشغيلية وجودة البيانات</h3><p class="project-result" data-i18n="p6.r">توجّه استراتيجي للإدارة العامة للمحاماة يحوّل التحديات التشغيلية إلى أولويات تحسين ورؤى تدعم القرار.</p></div>
         </li>
       </ul>
       <p class="projects-status" id="projects-status" role="status" aria-live="polite"></p>
@@ -534,18 +542,22 @@
       <ol class="timeline" role="list">
         <li class="tl-item reveal">
           <span class="tl-period"><span data-i18n="c1.period">2022 — حتى الآن</span><span class="now" aria-hidden="true"></span></span>
+          <span class="org-logo" role="img" aria-label="شعار الجهة (موضع مؤقت)" data-i18n-aria="ph.orgLogoAlt"><span data-i18n="ph.orgLogo">شعار الجهة</span></span>
           <div><h3 class="tl-role" data-i18n="c1.role">قيادة تمكين منافع البرامج والمشاريع</h3><p class="tl-org" data-i18n="c1.org">وزارة العدل — مكتب تحقيق الرؤية</p><p class="tl-desc" data-i18n="c1.desc">تطوير قطاع المحاماة، وتخطيط المشاريع المستقبلية، والمنافع والاستدامة، والتحول الرقمي، ودراسات فجوات السوق، والتنسيق مع الهيئة السعودية للمحامين.</p></div>
         </li>
         <li class="tl-item reveal">
           <span class="tl-period">2020 — 2022</span>
+          <span class="org-logo" role="img" aria-label="شعار الجهة (موضع مؤقت)" data-i18n-aria="ph.orgLogoAlt"><span data-i18n="ph.orgLogo">شعار الجهة</span></span>
           <div><h3 class="tl-role" data-i18n="c2.role">التحليل والتخطيط لإدارة التغيير</h3><p class="tl-org" data-i18n="c2.org">برنامج تطوير وزارة الحرس الوطني</p><p class="tl-desc" data-i18n="c2.desc">استراتيجية التغيير، ومركز التميّز، وأدوار التغيير، وتقييم الأثر والجاهزية، وتحليل التبني، ودمج المخرجات في ميثاق التحول.</p></div>
         </li>
         <li class="tl-item reveal">
           <span class="tl-period">2019</span>
+          <span class="org-logo" role="img" aria-label="شعار الجهة (موضع مؤقت)" data-i18n-aria="ph.orgLogoAlt"><span data-i18n="ph.orgLogo">شعار الجهة</span></span>
           <div><h3 class="tl-role" data-i18n="c3.role">تدريس جامعي بدوام جزئي</h3><p class="tl-org" data-i18n="c3.org">جامعة اليمامة</p><p class="tl-desc" data-i18n="c3.desc">تدريس مقرر إدارة المبيعات لطلبة البكالوريوس.</p></div>
         </li>
         <li class="tl-item reveal">
           <span class="tl-period">2008 — 2014</span>
+          <span class="org-logo" role="img" aria-label="شعار الجهة (موضع مؤقت)" data-i18n-aria="ph.orgLogoAlt"><span data-i18n="ph.orgLogo">شعار الجهة</span></span>
           <div><h3 class="tl-role" data-i18n="c4.role">قيادة التحول في الفروع</h3><p class="tl-org" data-i18n="c4.org">البنك العربي الوطني</p><p class="tl-desc" data-i18n="c4.desc">تحول الفروع، والتبني والتواصل ونقل المعرفة، والتوجيه الميداني، وتحسين خدمة العملاء، وتحليل بطاقة الأداء المتوازن.</p></div>
         </li>
       </ol>
@@ -663,12 +675,15 @@
     'proj.filterLabel': 'Filter projects by category',
     'proj.all': 'All',
     'cat.c1': 'Strategy & Sector', 'cat.c2': 'Enablement & Sustainability', 'cat.c3': 'Decision Support',
-    'alt.p1': 'Abstract value chain from market gaps to sustainability',
-    'alt.p2': 'Abstract project path continuing into a sustainability cycle after handover',
-    'alt.p3': 'Abstract analysis of current state, options and a recommended model',
-    'alt.p4': 'Abstract network of 38 nodes around a coordination hub',
-    'alt.p5': 'Abstract steps: assess, design, enable, adopt',
-    'alt.p6': 'Abstract matrix and bar chart for data quality and efficiency',
+    'ph.projectImage': 'Project image',
+    'ph.orgLogo': 'Organization logo',
+    'ph.orgLogoAlt': 'Organization logo (placeholder)',
+    'alt.p1': 'Project image (placeholder)',
+    'alt.p2': 'Project image (placeholder)',
+    'alt.p3': 'Project image (placeholder)',
+    'alt.p4': 'Project image (placeholder)',
+    'alt.p5': 'Project image (placeholder)',
+    'alt.p6': 'Project image (placeholder)',
     'p1.t': 'Legal Profession Sector Strategy',
     'p1.r': 'A future development plan linking market gaps to a developmental project pipeline, informed by Saudi Bar Association workshops.',
     'p2.t': 'MOJ-VRO Projects Sustainability Methodology',
