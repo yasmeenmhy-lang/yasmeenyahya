@@ -66,7 +66,7 @@
     transition: background-color .3s var(--ease), color .3s var(--ease);
   }
   html[lang="en"] body { font-family: var(--font-en); line-height: 1.7; }
-  h1, h2, h3 { margin: 0; color: var(--text); font-weight: 600; line-height: 1.4; }
+  h1, h2, h3, h4 { margin: 0; color: var(--text); font-weight: 600; line-height: 1.4; }
   html[lang="en"] h1, html[lang="en"] h2 { line-height: 1.25; }
   p { margin: 0; }
   a { color: inherit; }
@@ -226,31 +226,46 @@
   @media (max-width: 960px) { .projects-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
   @media (max-width: 600px) { .projects-grid { grid-template-columns: 1fr; } }
 
-  /* ================= 7. المسار المهني ================= */
-  .tl-item { display: grid; grid-template-columns: 64px 1fr; gap: 18px; padding-block: 22px; border-top: 1px solid var(--line); }
-  .tl-item:first-child { border-top: 0; padding-top: 0; }
-  .tl-head { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 6px 16px; align-items: baseline; margin-bottom: 4px; }
-  .tl-role { font-size: 19px; }
-  .tl-period { font-family: var(--font-en); font-size: 14px; color: var(--accent); white-space: nowrap; }
-  .tl-org { color: var(--text); font-size: 15px; margin-bottom: 8px; }
-  .tl-desc { font-size: 15px; max-width: 72ch; }
+  /* ================= 7. السيرة الذاتية (كما في بطاقة Resume المرجعية) ================= */
+  .resume { position: relative; overflow: hidden; }
+  .resume::before {
+    content: ""; position: absolute; inset: 0; pointer-events: none;
+    background: radial-gradient(ellipse 70% 220px at 50% -40px, rgba(134, 138, 221, .55), rgba(134, 138, 221, 0) 100%);
+  }
+  .resume > * { position: relative; }
+  .resume-head { display: flex; justify-content: space-between; align-items: center; gap: 16px; flex-wrap: wrap; margin-bottom: 14px; }
+  .resume-head .sec-title { margin: 0; color: #d0d1eb; }
+  :root[data-theme="light"] .resume-head .sec-title { color: var(--text); }
+  .btn-cv {
+    display: inline-flex; align-items: center; gap: 10px; padding: 12px 22px; border-radius: 12px; text-decoration: none;
+    background: #6a6daf; color: #ecedf7; font-size: 15px; font-weight: 500; transition: background-color .25s var(--ease);
+  }
+  .btn-cv:hover { background: var(--accent); color: var(--on-accent); }
+  .btn-cv svg { width: 18px; height: 18px; stroke: currentColor; fill: none; stroke-width: 1.8; }
+  .resume .sec-line { margin-bottom: 8px; }
+  .sub { padding-top: 28px; }
+  .sub-head { display: flex; align-items: center; gap: 18px; margin-bottom: 8px; }
+  .sub-icon { width: 56px; height: 56px; flex: none; border-radius: 14px; background: #222223; border: 1px solid var(--line); display: flex; align-items: center; justify-content: center; color: #7a7ec9; }
+  :root[data-theme="light"] .sub-icon { background: var(--pill); }
+  .sub-icon svg { width: 28px; height: 28px; stroke: currentColor; fill: none; stroke-width: 1.6; }
+  .sub-title { font-size: clamp(22px, 2.4vw, 30px); color: #fff; }
+  :root[data-theme="light"] .sub-title { color: var(--text); }
+  .entries { display: grid; }
+  .entry { display: grid; grid-template-columns: 36px 1fr; gap: 16px; padding-block: 22px; }
+  .entry + .entry { border-top: 1px solid var(--line); }
+  .entry-icon { width: 30px; height: 30px; margin-top: 4px; color: #7a7ec9; }
+  .entry-icon svg { width: 30px; height: 30px; stroke: currentColor; fill: none; stroke-width: 1.6; }
+  html[dir="rtl"] .entry-icon svg { transform: scaleX(-1); }
+  .entry-title { font-size: clamp(18px, 1.7vw, 22px); font-weight: 600; margin-bottom: 6px; }
+  .entry-period { display: block; font-family: var(--font-en); color: var(--accent); font-size: 16px; margin-bottom: 4px; }
+  .entry-org { display: flex; align-items: center; gap: 10px; color: var(--muted); font-size: 16px; }
+  .entry-desc { font-size: 14.5px; margin-top: 8px; max-width: 72ch; }
   .org-logo {
-    width: 64px; height: 64px; border-radius: 12px; background: var(--ph); border: 1px dashed var(--line);
-    display: flex; align-items: center; justify-content: center; text-align: center; font-size: 10px; line-height: 1.4; padding: 4px; color: var(--muted); overflow: hidden;
+    width: 28px; height: 28px; flex: none; border-radius: 6px; background: var(--ph); border: 1px dashed var(--line);
+    display: flex; align-items: center; justify-content: center; color: var(--muted); font-size: 7px; overflow: hidden;
   }
   .org-logo img { width: 100%; height: 100%; object-fit: contain; }
   .org-logo-sm { width: 36px; height: 36px; font-size: 8px; border-radius: 8px; }
-
-  /* ================= 8. المؤهلات ================= */
-  .creds-grid { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: var(--gap); }
-  .cred { grid-column: span 2; padding: 20px; background: var(--pill); border-radius: 14px; display: grid; gap: 8px; align-content: start; }
-  .cred.wide { grid-column: span 3; }
-  .cred-type { font-size: 13px; color: var(--accent); font-weight: 500; }
-  .cred-title { font-size: 18px; }
-  .cred-meta { display: flex; justify-content: space-between; gap: 12px; font-size: 14px; padding-top: 10px; border-top: 1px solid var(--line); margin-top: 4px; }
-  .cred-meta .num { font-family: var(--font-en); color: var(--text); }
-  @media (max-width: 960px) { .creds-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } .cred, .cred.wide { grid-column: span 1; } }
-  @media (max-width: 600px) { .creds-grid { grid-template-columns: 1fr; } }
 
   /* ================= 9. التواصل ================= */
   .contact-lead { font-size: clamp(16px, 1.3vw, 18px); max-width: 60ch; margin-bottom: 28px; }
@@ -309,7 +324,7 @@
         <li><a href="#about" data-i18n="nav.about">نبذة</a></li>
         <li><a href="#achievements" data-i18n="nav.achievements">الإنجازات</a></li>
         <li><a href="#projects" data-i18n="nav.projects">المشاريع</a></li>
-        <li><a href="#career" data-i18n="nav.career">المسار</a></li>
+        <li><a href="#career" data-i18n="nav.career">السيرة</a></li>
         <li><a href="#credentials" data-i18n="nav.credentials">المؤهلات</a></li>
         <li><a href="#contact" data-i18n="nav.contact">التواصل</a></li>
       </ul>
@@ -405,41 +420,41 @@
     <p class="projects-status" id="projects-status" role="status" aria-live="polite"></p>
   </section>
 
-  <!-- ================= 7. المسار المهني ================= -->
-  <section class="card reveal" id="career" aria-labelledby="career-title">
+  <!-- ================= 7. السيرة الذاتية ================= -->
+  <section class="card resume reveal" id="career" aria-labelledby="career-title">
+    <div class="resume-head">
+      <h2 class="sec-title" id="career-title" data-i18n="career.title">السيرة الذاتية</h2>
+      <!-- ضع ملف السيرة في assets/cv.pdf -->
+      <a class="btn-cv" href="assets/cv.pdf" download><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4v11M7.5 10.5 12 15l4.5-4.5M5 19h14"/></svg><span data-i18n="career.download">تحميل السيرة الذاتية</span></a>
+    </div>
     <span class="sec-line" aria-hidden="true"></span>
-    <h2 class="sec-title" id="career-title" data-i18n="career.title">المسار المهني</h2>
-    <ol role="list">
-      <li class="tl-item">
-        <span class="org-logo" role="img" aria-label="شعار الجهة (موضع مؤقت)" data-i18n-aria="ph.orgLogoAlt"><span data-i18n="ph.orgLogo">شعار الجهة</span></span>
-        <div><div class="tl-head"><h3 class="tl-role" data-i18n="c1.role">مديرة تمكين منافع البرامج والمشاريع</h3><span class="tl-period" data-i18n="c1.period">2022 — حتى الآن</span></div><p class="tl-org" data-i18n="c1.org">وزارة العدل — مكتب تحقيق الرؤية</p><p class="tl-desc" data-i18n="c1.desc">تطوير قطاع المحاماة، وتخطيط المشاريع المستقبلية، والمنافع والاستدامة، والتحول الرقمي، ودراسات فجوات السوق، والتنسيق مع الهيئة السعودية للمحامين.</p></div>
-      </li>
-      <li class="tl-item">
-        <span class="org-logo" role="img" aria-label="شعار الجهة (موضع مؤقت)" data-i18n-aria="ph.orgLogoAlt"><span data-i18n="ph.orgLogo">شعار الجهة</span></span>
-        <div><div class="tl-head"><h3 class="tl-role" data-i18n="c2.role">التحليل والتخطيط لإدارة التغيير</h3><span class="tl-period">2020 — 2022</span></div><p class="tl-org" data-i18n="c2.org">برنامج تطوير وزارة الحرس الوطني</p><p class="tl-desc" data-i18n="c2.desc">استراتيجية التغيير، ومركز التميّز، وأدوار التغيير، وتقييم الأثر والجاهزية، وتحليل التبني، ودمج المخرجات في ميثاق التحول.</p></div>
-      </li>
-      <li class="tl-item">
-        <span class="org-logo" role="img" aria-label="شعار الجهة (موضع مؤقت)" data-i18n-aria="ph.orgLogoAlt"><span data-i18n="ph.orgLogo">شعار الجهة</span></span>
-        <div><div class="tl-head"><h3 class="tl-role" data-i18n="c3.role">محاضرة جامعية بدوام جزئي</h3><span class="tl-period">2019</span></div><p class="tl-org" data-i18n="c3.org">جامعة اليمامة</p><p class="tl-desc" data-i18n="c3.desc">تدريس مقرر إدارة المبيعات لطلبة البكالوريوس.</p></div>
-      </li>
-      <li class="tl-item">
-        <span class="org-logo" role="img" aria-label="شعار الجهة (موضع مؤقت)" data-i18n-aria="ph.orgLogoAlt"><span data-i18n="ph.orgLogo">شعار الجهة</span></span>
-        <div><div class="tl-head"><h3 class="tl-role" data-i18n="c4.role">قائدة تحول</h3><span class="tl-period">2008 — 2014</span></div><p class="tl-org" data-i18n="c4.org">البنك العربي الوطني</p><p class="tl-desc" data-i18n="c4.desc">تحول الفروع، والتبني والتواصل ونقل المعرفة، والتوجيه الميداني، وتحسين خدمة العملاء، وتحليل بطاقة الأداء المتوازن.</p></div>
-      </li>
-    </ol>
-  </section>
 
-  <!-- ================= 8. المؤهلات والشهادات ================= -->
-  <section class="card reveal" id="credentials" aria-labelledby="credentials-title">
-    <span class="sec-line" aria-hidden="true"></span>
-    <h2 class="sec-title" id="credentials-title" data-i18n="cred.title">المؤهلات والشهادات</h2>
-    <ul class="creds-grid" role="list">
-      <li class="cred wide"><span class="cred-type" data-i18n="cr1.type">درجة الماجستير</span><h3 class="cred-title" data-i18n="cr1.name">الماجستير في الإدارة</h3><div class="cred-meta"><span data-i18n="cr1.by">جامعة لاتروب، أستراليا</span></div></li>
-      <li class="cred wide"><span class="cred-type" data-i18n="cr2.type">درجة البكالوريوس</span><h3 class="cred-title" data-i18n="cr2.name">البكالوريوس في إدارة الأعمال — الموارد البشرية</h3><div class="cred-meta"><span data-i18n="cr2.by">جامعة الملك عبدالعزيز</span></div></li>
-      <li class="cred"><span class="cred-type" data-i18n="cr3.type">شهادة احترافية</span><h3 class="cred-title latin" lang="en" dir="ltr">Certified Managing Benefits™</h3><div class="cred-meta"><span class="latin">APMG International</span><span class="num">2023</span></div></li>
-      <li class="cred"><span class="cred-type" data-i18n="cr4.type">برنامج تدريبي</span><h3 class="cred-title" data-i18n="cr4.name">استراتيجيات قيادة مبادرات التغيير الناجحة</h3><div class="cred-meta"><span class="latin">LPC Training</span><span class="num">2022</span></div></li>
-      <li class="cred"><span class="cred-type" data-i18n="cr3.type">شهادة احترافية</span><h3 class="cred-title latin" lang="en" dir="ltr">Certified Agile Change Agent</h3><div class="cred-meta"><span class="latin">APMG International</span><span class="num">2020</span></div></li>
-    </ul>
+    <div class="sub">
+      <div class="sub-head"><span class="sub-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><rect x="3" y="7" width="18" height="13" rx="2"/><path d="M8 7V5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2M3 12h18"/></svg></span><h3 class="sub-title" data-i18n="career.work">الخبرة العملية</h3></div>
+      <ol class="entries" role="list">
+        <li class="entry"><span class="entry-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12.5 8.5 16 12l-3.5 3.5"/></svg></span><div><h4 class="entry-title" data-i18n="c1.role">مديرة تمكين منافع البرامج والمشاريع</h4><span class="entry-period" data-i18n="c1.period">2022 — حتى الآن</span><span class="entry-org"><span class="org-logo" aria-hidden="true" data-i18n="ph.orgLogo">شعار الجهة</span><span data-i18n="c1.org">وزارة العدل — مكتب تحقيق الرؤية</span></span><p class="entry-desc" data-i18n="c1.desc">تطوير قطاع المحاماة، وتخطيط المشاريع المستقبلية، والمنافع والاستدامة، والتحول الرقمي، ودراسات فجوات السوق، والتنسيق مع الهيئة السعودية للمحامين.</p></div></li>
+        <li class="entry"><span class="entry-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12.5 8.5 16 12l-3.5 3.5"/></svg></span><div><h4 class="entry-title" data-i18n="c2.role">التحليل والتخطيط لإدارة التغيير</h4><span class="entry-period">2020 — 2022</span><span class="entry-org"><span class="org-logo" aria-hidden="true" data-i18n="ph.orgLogo">شعار الجهة</span><span data-i18n="c2.org">برنامج تطوير وزارة الحرس الوطني</span></span><p class="entry-desc" data-i18n="c2.desc">استراتيجية التغيير، ومركز التميّز، وأدوار التغيير، وتقييم الأثر والجاهزية، وتحليل التبني، ودمج المخرجات في ميثاق التحول.</p></div></li>
+        <li class="entry"><span class="entry-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12.5 8.5 16 12l-3.5 3.5"/></svg></span><div><h4 class="entry-title" data-i18n="c3.role">محاضرة جامعية بدوام جزئي</h4><span class="entry-period">2019</span><span class="entry-org"><span class="org-logo" aria-hidden="true" data-i18n="ph.orgLogo">شعار الجهة</span><span data-i18n="c3.org">جامعة اليمامة</span></span><p class="entry-desc" data-i18n="c3.desc">تدريس مقرر إدارة المبيعات لطلبة البكالوريوس.</p></div></li>
+        <li class="entry"><span class="entry-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12.5 8.5 16 12l-3.5 3.5"/></svg></span><div><h4 class="entry-title" data-i18n="c4.role">قائدة تحول</h4><span class="entry-period">2008 — 2014</span><span class="entry-org"><span class="org-logo" aria-hidden="true" data-i18n="ph.orgLogo">شعار الجهة</span><span data-i18n="c4.org">البنك العربي الوطني</span></span><p class="entry-desc" data-i18n="c4.desc">تحول الفروع، والتبني والتواصل ونقل المعرفة، والتوجيه الميداني، وتحسين خدمة العملاء، وتحليل بطاقة الأداء المتوازن.</p></div></li>
+      </ol>
+    </div>
+
+    <div class="sub" id="credentials">
+      <div class="sub-head"><span class="sub-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M4 5.5A2.5 2.5 0 0 1 6.5 3H12v16H6.5A2.5 2.5 0 0 0 4 21V5.5ZM20 5.5A2.5 2.5 0 0 0 17.5 3H12v16h5.5A2.5 2.5 0 0 1 20 21V5.5Z"/></svg></span><h3 class="sub-title" data-i18n="career.education">التعليم</h3></div>
+      <ol class="entries" role="list">
+        <li class="entry"><span class="entry-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12.5 8.5 16 12l-3.5 3.5"/></svg></span><div><h4 class="entry-title" data-i18n="cr1.name">الماجستير في الإدارة</h4><span class="entry-org"><span data-i18n="cr1.by">جامعة لاتروب، أستراليا</span></span></div></li>
+        <li class="entry"><span class="entry-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12.5 8.5 16 12l-3.5 3.5"/></svg></span><div><h4 class="entry-title" data-i18n="cr2.name">البكالوريوس في إدارة الأعمال — الموارد البشرية</h4><span class="entry-org"><span data-i18n="cr2.by">جامعة الملك عبدالعزيز</span></span></div></li>
+      </ol>
+    </div>
+
+    <div class="sub">
+      <div class="sub-head"><span class="sub-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="9" r="6"/><path d="M8.5 14 7 22l5-3 5 3-1.5-8"/></svg></span><h3 class="sub-title" data-i18n="career.certs">الشهادات</h3></div>
+      <ol class="entries" role="list">
+        <li class="entry"><span class="entry-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12.5 8.5 16 12l-3.5 3.5"/></svg></span><div><h4 class="entry-title latin" lang="en" dir="ltr">Certified Managing Benefits™</h4><span class="entry-period">2023</span><span class="entry-org latin">APMG International</span></div></li>
+        <li class="entry"><span class="entry-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12.5 8.5 16 12l-3.5 3.5"/></svg></span><div><h4 class="entry-title" data-i18n="cr4.name">استراتيجيات قيادة مبادرات التغيير الناجحة</h4><span class="entry-period">2022</span><span class="entry-org latin">LPC Training</span></div></li>
+        <li class="entry"><span class="entry-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12.5 8.5 16 12l-3.5 3.5"/></svg></span><div><h4 class="entry-title latin" lang="en" dir="ltr">Certified Agile Change Agent</h4><span class="entry-period">2020</span><span class="entry-org latin">APMG International</span></div></li>
+      </ol>
+    </div>
   </section>
 
   <!-- ================= 9. التواصل ================= -->
@@ -490,7 +505,7 @@
     navLabel: 'Main navigation',
     'theme.label': 'Dark mode',
     'nav.about': 'About', 'nav.achievements': 'Achievements', 'nav.projects': 'Projects',
-    'nav.career': 'Resume', 'nav.credentials': 'Credentials', 'nav.contact': 'Contact',
+    'nav.career': 'Resume', 'nav.credentials': 'Education', 'nav.contact': 'Contact',
     'ph.portrait': 'Portrait', 'ph.portraitAlt': 'Portrait (placeholder)',
     'ph.projectImage': 'Project image', 'ph.projectAlt': 'Project image (placeholder)',
     'ph.orgLogo': 'Organization logo', 'ph.orgLogoAlt': 'Organization logo (placeholder)',
@@ -529,7 +544,8 @@
     'p5.r': 'Turned change management into a program-level capability with toolkits, acceptance criteria and roles, integrated into the Transformation Charter.',
     'p6.t': 'Operational Efficiency & Data Quality',
     'p6.r': 'Strategic direction for the General Directorate of Legal Practice, turning operational challenges into improvement priorities and decision insights.',
-    'career.title': 'Resume',
+    'career.title': 'Resume', 'career.download': 'Download CV',
+    'career.work': 'Work Experience', 'career.education': 'Education', 'career.certs': 'Certifications',
     'c1.period': '2022 — Present',
     'c1.role': 'Director, Programs & Projects Benefits Enablement', 'c1.org': 'Ministry of Justice — VRO',
     'c1.desc': 'Legal profession sector development, future-project planning, benefits and sustainability, digital transformation, market-gap studies and coordination with the Saudi Bar Association.',
@@ -539,11 +555,9 @@
     'c3.desc': 'Taught Sales Management to undergraduate students.',
     'c4.role': 'Transformation Leader', 'c4.org': 'Arab National Bank',
     'c4.desc': 'Branch transformation, adoption, communication and knowledge transfer, field coaching, customer service improvement and balanced-scorecard analysis.',
-    'cred.title': 'Education & Certifications',
-    'cr1.type': "Master's Degree", 'cr1.name': "Master's in Management", 'cr1.by': 'La Trobe University, Australia',
-    'cr2.type': "Bachelor's Degree", 'cr2.name': 'BBA — Human Resources Management', 'cr2.by': 'King Abdulaziz University',
-    'cr3.type': 'Professional Certification',
-    'cr4.type': 'Professional Training', 'cr4.name': 'Strategies for Leading Successful Change Initiatives',
+    'cr1.name': "Master's in Management", 'cr1.by': 'La Trobe University, Australia',
+    'cr2.name': 'BBA — Human Resources Management', 'cr2.by': 'King Abdulaziz University',
+    'cr4.name': 'Strategies for Leading Successful Change Initiatives',
     'contact.lead': 'Open to conversations on transformation enablement, change management, benefits realization, legal-sector development and executive decision support.',
     'contact.email': 'Email', 'contact.copy': 'Copy', 'contact.copyLabel': 'Copy email address',
     'contact.linkedinValue': 'Professional profile on LinkedIn', newTab: '(opens in a new tab)',
