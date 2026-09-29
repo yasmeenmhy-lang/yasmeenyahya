@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>ياسمين بن يحيى — خبيرة التحول والتمكين</title>
-<meta name="description" content="ياسمين بن يحيى — التحول، وتمكين المنافع، وإدارة التغيير. مجموعة مختارة من أعمال القطاع الحكومي في تطوير الاستراتيجية، والتمكين المؤسسي، وهندسة التغيير، وتطوير القطاع القانوني، ودعم القرار التنفيذي، واستدامة المنافع.">
+<meta name="description" content="ياسمين بن يحيى — خبيرة التحول والتمكين. توظيف خبرتي في إدارة التغيير والتحول وتحقيق المنافع لقيادة مبادرات التغيير الاستراتيجية ودفع قيمة مستدامة طويلة الأمد دعمًا لأهداف المنظمة.">
 <meta name="color-scheme" content="dark light">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2048%2048%22%20fill%3D%22none%22%20stroke%3D%22currentColor%22%20stroke-width%3D%223.5%22%20stroke-linecap%3D%22square%22%20stroke-linejoin%3D%22miter%22%3E%20%3Cstyle%3Esvg%7Bcolor%3A%2315191a%7D.acc%7Bstroke%3A%230b6153%7D.acc-f%7Bfill%3A%230b6153%7D%40media%20%28prefers-color-scheme%3Adark%29%7Bsvg%7Bcolor%3A%23e9eded%7D.acc%7Bstroke%3A%235cc2ae%7D.acc-f%7Bfill%3A%235cc2ae%7D%7D%3C/style%3E%20%3Crect%20x%3D%224%22%20y%3D%224%22%20width%3D%2240%22%20height%3D%2240%22%20rx%3D%222.5%22%20stroke-width%3D%222.5%22/%3E%20%3Cpath%20d%3D%22M12%2013l6%2010%206-10M18%2023v12%22/%3E%20%3Cpath%20d%3D%22M28%2023v12h5a6%206%200%200%200%200-12h-5%22/%3E%20%3Cpath%20class%3D%22acc%22%20d%3D%22M28%2023V13h4a5%205%200%200%201%200%2010%22/%3E%20%3C/svg%3E">
 <script>
@@ -273,6 +273,14 @@
   .chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
   .chip { font-size: 12px; padding: 4px 10px; background: var(--card); }
   .contact-tagline { margin-top: 28px; color: var(--text); font-size: clamp(17px, 1.5vw, 20px); }
+  .about-p { font-size: clamp(16px, 1.3vw, 18px); max-width: 70ch; }
+  .group-title { font-size: 17px; margin: 22px 0 10px; }
+  .group-title:first-of-type { margin-top: 0; }
+  .caps { display: flex; flex-wrap: wrap; gap: 10px; }
+  .ach-label { margin-top: 14px; color: var(--text); font-weight: 600; font-size: 15px; }
+  .ach-ul { display: grid; gap: 6px; margin-top: 6px; padding-inline-start: 18px; list-style: disc; font-size: 14.5px; }
+  .ach-ul li::marker { color: var(--accent); }
+  .entry-title.small { font-size: 17px; }
   /* ================= 9. التواصل ================= */
   .contact-lead { font-size: clamp(16px, 1.3vw, 18px); max-width: 60ch; margin-bottom: 28px; }
   .contact-list { display: grid; gap: 12px; }
@@ -303,28 +311,25 @@
 
 <main id="main" tabindex="-1" class="container stack">
 
-  <!-- ================= 1. بطاقة التعريف ================= -->
   <section class="card hero" id="top" aria-labelledby="hero-name">
     <!-- استبدل محتوى .portrait بوسم <img src="..." alt="صورة ياسمين بن يحيى"> -->
     <div class="portrait" role="img" aria-label="صورة شخصية (موضع مؤقت)" data-i18n-aria="ph.portraitAlt"><span data-i18n="ph.portrait">صورة شخصية</span></div>
     <div class="hero-info">
-      <h1 class="hero-name" id="hero-name" data-i18n="name">ياسمين بن يحيى</h1>
+      <h1 class="hero-name" data-i18n="name" id="hero-name">ياسمين بن يحيى</h1>
       <div class="hero-tags">
         <span class="tag" data-i18n="hero.tag1">خبيرة التحول والتمكين</span>
-        <span class="tag" data-i18n="hero.tag2">التحول، وتمكين المنافع، وإدارة التغيير</span>
       </div>
     </div>
   </section>
 
-  <!-- ================= 2. شريط التنقل ================= -->
   <div class="nav-wrap">
     <nav class="nav-bar" aria-label="التنقل الرئيسي" data-i18n-aria="navLabel">
       <ul class="nav-list" role="list">
-        <li><a href="#about" data-i18n="nav.about">نبذة</a></li>
-        <li><a href="#achievements" data-i18n="nav.achievements">الإنجازات</a></li>
-        <li><a href="#projects" data-i18n="nav.projects">المشاريع</a></li>
-        <li><a href="#career" data-i18n="nav.career">السجل المهني</a></li>
-        <li><a href="#credentials" data-i18n="nav.credentials">المؤهلات</a></li>
+        <li><a href="#about" data-i18n="nav.about">الهدف المهني</a></li>
+        <li><a href="#skills" data-i18n="nav.skills">المهارات</a></li>
+        <li><a href="#career" data-i18n="nav.career">الخبرة المهنية</a></li>
+        <li><a href="#certs" data-i18n="nav.certs">الشهادات</a></li>
+        <li><a href="#edu" data-i18n="nav.edu">التعليم</a></li>
         <li><a href="#contact" data-i18n="nav.contact">التواصل</a></li>
       </ul>
       <div class="controls">
@@ -337,130 +342,110 @@
     </nav>
   </div>
 
-  <!-- ================= 3. نبذة ================= -->
-  <section class="card about reveal" id="about" aria-labelledby="about-title">
+  <section class="card reveal" id="about" aria-labelledby="about-title">
     <span class="sec-line" aria-hidden="true"></span>
-    <h2 class="sec-title" data-i18n="about.title" id="about-title">الملف التنفيذي</h2>
-    <p data-i18n="about.p1">قائدة تحول وتمكين بخبرة تمتد عبر وزارة العدل، وبرنامج تطوير وزارة الحرس الوطني، والتعليم العالي، والقطاع المصرفي. يربط عملي الاستراتيجية بالتنفيذ: أبني مناهج التشغيل، وأوضّح الأدوار المؤسسية، وأمكّن التبنّي، وأحمي المنافع بعد تسليم المشاريع. وفي وزارة العدل، أقود تمكين المنافع وتحليل المشاريع التطويرية لقطاع المحاماة، بما في ذلك تخطيط التطوير المستقبلي للقطاع، ودعم القرار الوزاري، والتنسيق مع أصحاب المصلحة الخارجيين.</p>
-    <ul class="caps" role="list" aria-label="القدرات الأساسية" data-i18n-aria="caps.label">
-      <li class="tag" data-i18n="cap1">تطوير الاستراتيجية</li>
-      <li class="tag" data-i18n="cap2">تحقيق المنافع</li>
-      <li class="tag" data-i18n="cap3">هندسة التغيير</li>
-      <li class="tag" data-i18n="cap4">التنسيق المؤسسي</li>
-      <li class="tag" data-i18n="cap5">العروض التنفيذية</li>
-      <li class="tag" data-i18n="cap6">تطوير القطاع القانوني</li>
-      <li class="tag" data-i18n="cap7">إشراك أصحاب المصلحة</li>
-      <li class="tag" data-i18n="cap8">البيانات ودعم القرار</li>
-      <li class="tag" data-i18n="cap9">منهجية الاستدامة</li>
+    <h2 class="sec-title" data-i18n="about.title" id="about-title">الهدف المهني</h2>
+    <p class="about-p" data-i18n="about.p1">توظيف خبرتي في إدارة التغيير والتحول وتحقيق المنافع لقيادة مبادرات التغيير الاستراتيجية ودفع قيمة مستدامة طويلة الأمد دعمًا لأهداف المنظمة.</p>
+  </section>
+
+  <section class="card reveal" id="skills" aria-labelledby="skills-title">
+    <span class="sec-line" aria-hidden="true"></span>
+    <h2 class="sec-title" data-i18n="skills.title" id="skills-title">المهارات</h2>
+    <h3 class="group-title" data-i18n="skills.g1">المهارات</h3>
+    <ul class="caps" role="list">
+      <li class="tag" data-i18n="s1.1">تطوير الاستراتيجية</li>
+      <li class="tag" data-i18n="s1.2">تمكين التحول</li>
+      <li class="tag" data-i18n="s1.3">إدارة التغيير</li>
+      <li class="tag" data-i18n="s1.4">تحقيق المنافع</li>
+      <li class="tag" data-i18n="s1.5">تطوير الاستدامة</li>
+      <li class="tag" data-i18n="s1.6">إدارة البرامج والمشاريع</li>
+    </ul>
+    <h3 class="group-title" data-i18n="skills.g2">مهارات إدارة التغيير</h3>
+    <ul class="caps" role="list">
+      <li class="tag" data-i18n="s2.1">تقييم الأثر</li>
+      <li class="tag" data-i18n="s2.2">تقييم الجاهزية</li>
+      <li class="tag" data-i18n="s2.3">إشراك أصحاب المصلحة</li>
+      <li class="tag" data-i18n="s2.4">خطة التواصل</li>
+    </ul>
+    <h3 class="group-title" data-i18n="skills.g3">اللغة</h3>
+    <ul class="caps" role="list">
+      <li class="tag" data-i18n="s3.1">العربية</li>
+      <li class="tag" data-i18n="s3.2">الإنجليزية</li>
     </ul>
   </section>
 
-  <!-- ================= 4. المؤشرات ================= -->
-  <section class="card reveal" aria-label="مؤشرات رئيسية" data-i18n-aria="stats.label">
-    <dl class="stats-grid stats-2">
-      <div class="stat"><dt class="stat-label" data-i18n="stats.l1">عامًا من الخبرة عبر القطاعات</dt><dd><span class="stat-value num"><span class="count" data-count="15">15</span><span class="suf">+</span></span></dd></div>
-      <div class="stat"><dt class="stat-label" data-i18n="stats.l2">تحليل المشاريع التطويرية</dt><dd><span class="stat-value num"><span class="count" data-count="100">100</span><span class="suf">%</span></span></dd></div>
-    </dl>
-  </section>
-
-  <!-- ================= 5. الإنجازات ================= -->
-  <section class="card reveal" id="achievements" aria-labelledby="achievements-title">
-    <span class="sec-line" aria-hidden="true"></span>
-    <h2 class="sec-title" data-i18n="ach.title" id="achievements-title">أبرز الإنجازات</h2>
-    <ol class="ach-list" role="list">
-      <li class="achievement"><span class="ach-index" aria-hidden="true">01</span><span class="ach-text" data-i18n="ach0">تأسيس وقيادة تطوير «الأداة المساعدة لتمكين المحامي» ضمن مشروع «الإطار التنظيمي للظهور الإعلامي والإعلاني للمحامين» — خدمة إدارة المحتوى الإعلامي والإعلاني للمحامين (lawyer-media.org)، المكمّلة لضوابط الظهور الإعلامي والإعلاني: فحص المحتوى قبل النشر بتوصية مسندة إلى نظام المحاماة ولائحته التنفيذية وقواعد السلوك المهني للمحامين.</span></li>
-      <li class="achievement"><span class="ach-index" aria-hidden="true">02</span><span class="ach-text" data-i18n="ach1">صمّمتُ وبنيتُ استراتيجية تطوير قطاع المحاماة في المملكة العربية السعودية</span></li>
-      <li class="achievement"><span class="ach-index" aria-hidden="true">03</span><span class="ach-text" data-i18n="ach2">قدتُ مشاريع التحول الرقمي لتنفيذ استراتيجيات التطوير الجديدة للمحامين، بما يحوّل الخدمات القانونية</span></li>
-      <li class="achievement"><span class="ach-index" aria-hidden="true">04</span><span class="ach-text" data-i18n="ach3">بنيتُ المنهجية التنفيذية لتمكين المحاكم وخطتها التفصيلية، وحصلتُ على اعتماد وكيل الوزارة للشؤون القضائية</span></li>
-      <li class="achievement"><span class="ach-index" aria-hidden="true">05</span><span class="ach-text" data-i18n="ach4">طوّرتُ وبنيتُ منهجية استدامة مشاريع وزارة العدل ومكتب تحقيق الرؤية، وحصلتُ على اعتماد معالي وزير العدل</span></li>
-      <li class="achievement"><span class="ach-index" aria-hidden="true">06</span><span class="ach-text" data-i18n="ach5">طوّرتُ مواد تدريبية ودليلًا بنهج جديد، ودرّبتُ منسوبي وزارة العدل ومديري مشاريع مكتب تحقيق الرؤية</span></li>
-      <li class="achievement"><span class="ach-index" aria-hidden="true">07</span><span class="ach-text" data-i18n="ach6">طبّقتُ خطة استدامة المشاريع على مشاريع عامَي 2022 و2023، بما يضمن تحقيق القيمة المضافة واستمرارية الأعمال</span></li>
-      <li class="achievement"><span class="ach-index" aria-hidden="true">08</span><span class="ach-text" data-i18n="ach7">صمّمتُ ويسّرتُ ورش عمل واستبانات بالتعاون مع الهيئة السعودية للمحامين</span></li>
-    </ol>
-  </section>
-
-  <!-- ================= 6. المشاريع ================= -->
-  <section class="card reveal" id="projects" aria-labelledby="projects-title">
-    <span class="sec-line" aria-hidden="true"></span>
-    <h2 class="sec-title" data-i18n="proj.title" id="projects-title">مشاريع مختارة</h2>
-    <div class="filters" role="group" aria-label="تصفية المشاريع حسب الوسم" data-i18n-aria="proj.filterLabel">
-      <button class="filter-btn" type="button" data-filter="all" aria-pressed="true"><span data-i18n="proj.all">الكل</span></button>
-      <button class="filter-btn" type="button" data-filter="t1" aria-pressed="false"><span data-i18n="tag1">دراسة تنظيمية</span></button>
-      <button class="filter-btn" type="button" data-filter="t2" aria-pressed="false"><span data-i18n="tag2">تحليل استراتيجي</span></button>
-      <button class="filter-btn" type="button" data-filter="t3" aria-pressed="false"><span data-i18n="tag3">مستوى وزاري</span></button>
-      <button class="filter-btn" type="button" data-filter="t4" aria-pressed="false"><span data-i18n="tag4">مقارنة معيارية دولية</span></button>
-      <button class="filter-btn" type="button" data-filter="t5" aria-pressed="false"><span data-i18n="tag5">الكفاءة التشغيلية</span></button>
-      <button class="filter-btn" type="button" data-filter="t6" aria-pressed="false"><span data-i18n="tag6">جودة البيانات</span></button>
-      <button class="filter-btn" type="button" data-filter="t7" aria-pressed="false"><span data-i18n="tag7">دعم القرار</span></button>
-      <button class="filter-btn" type="button" data-filter="t8" aria-pressed="false"><span data-i18n="tag8">القطاع القانوني</span></button>
-      <button class="filter-btn" type="button" data-filter="t9" aria-pressed="false"><span data-i18n="tag9">تعاون دولي</span></button>
-      <button class="filter-btn" type="button" data-filter="t10" aria-pressed="false"><span data-i18n="tag10">إشراك أصحاب المصلحة</span></button>
-      <button class="filter-btn" type="button" data-filter="t11" aria-pressed="false"><span data-i18n="tag11">تنسيق متعدد الجهات</span></button>
-      <button class="filter-btn" type="button" data-filter="t12" aria-pressed="false"><span data-i18n="tag12">عروض وزارية</span></button>
-      <button class="filter-btn" type="button" data-filter="t13" aria-pressed="false"><span data-i18n="tag13">تقارير استراتيجية</span></button>
-      <button class="filter-btn" type="button" data-filter="t14" aria-pressed="false"><span data-i18n="tag14">تحليل القطاع</span></button>
-    </div>
-    <ul class="projects-grid projects-2" role="list">
-      <li class="project" data-cat="t1 t2 t3 t4">
-        <div class="project-visual" role="img" aria-label="صورة المشروع (موضع مؤقت)" data-i18n-aria="ph.projectAlt"><span data-i18n="ph.projectImage">صورة المشروع</span></div>
-        <div class="project-body"><h3 class="project-title" data-i18n="p1.t">دراسة إدارة الشؤون الحكومية المشتركة</h3><p class="project-sub" data-i18n="p1.sub">وزارة العدل — عُرضت على معالي الوزير | يونيو 2025</p><p class="project-result" data-i18n="p1.d">قدتُ دراسة جدوى شاملة لتقييم إنشاء إدارة للشؤون الحكومية المشتركة في وزارة العدل ترتبط مباشرةً بمعالي الوزير. شملت الدراسة تحليل أفضل الممارسات الدولية، وتقييم الهيكل التنظيمي الحالي، وتحديد الفجوات والفرص، واقتراح نموذج تنظيمي للتنسيق المؤسسي.</p><div class="chips"><span class="tag chip" data-i18n="tag1">دراسة تنظيمية</span><span class="tag chip" data-i18n="tag2">تحليل استراتيجي</span><span class="tag chip" data-i18n="tag3">مستوى وزاري</span><span class="tag chip" data-i18n="tag4">مقارنة معيارية دولية</span></div></div>
-      </li>
-      <li class="project" data-cat="t5 t6 t7 t8">
-        <div class="project-visual" role="img" aria-label="صورة المشروع (موضع مؤقت)" data-i18n-aria="ph.projectAlt"><span data-i18n="ph.projectImage">صورة المشروع</span></div>
-        <div class="project-body"><h3 class="project-title" data-i18n="p2.t">تعزيز الكفاءة التشغيلية وجودة البيانات</h3><p class="project-sub" data-i18n="p2.sub">وزارة العدل — الإدارة العامة للمحاماة</p><p class="project-result" data-i18n="p2.d">طوّرتُ مبادرة استراتيجية تركّز على تعزيز الكفاءة التشغيلية، وتحسين جودة البيانات، ودعم عمليات اتخاذ القرار في الإدارة العامة للمحاماة. عالجتُ التحديات التشغيلية الرئيسية واقترحتُ حلولًا قائمة على البيانات لتحسين الأداء وتقديم الخدمات.</p><div class="chips"><span class="tag chip" data-i18n="tag5">الكفاءة التشغيلية</span><span class="tag chip" data-i18n="tag6">جودة البيانات</span><span class="tag chip" data-i18n="tag7">دعم القرار</span><span class="tag chip" data-i18n="tag8">القطاع القانوني</span></div></div>
-      </li>
-      <li class="project" data-cat="t9 t10 t11">
-        <div class="project-visual" role="img" aria-label="صورة المشروع (موضع مؤقت)" data-i18n-aria="ph.projectAlt"><span data-i18n="ph.projectImage">صورة المشروع</span></div>
-        <div class="project-body"><h3 class="project-title" data-i18n="p3.t">لقاء التعاون مع شركات المحاماة الدولية</h3><p class="project-sub" data-i18n="p3.sub">وزارة العدل — الإدارة العامة للمحاماة</p><p class="project-result" data-i18n="p3.d">نظّمتُ وصمّمتُ لقاء تنسيق رفيع المستوى مع 38 شركة محاماة دولية مرخّصة لتعزيز الدعم، وفتح فرص الاستثمار والتدريب، والإسهام في توطين الموارد. شارك فيه عدد من الجهات الحكومية، منها وزارة الاستثمار ووزارة التجارة.</p><div class="chips"><span class="tag chip" data-i18n="tag9">تعاون دولي</span><span class="tag chip" data-i18n="tag10">إشراك أصحاب المصلحة</span><span class="tag chip" data-i18n="tag11">تنسيق متعدد الجهات</span></div></div>
-      </li>
-      <li class="project" data-cat="t12 t13 t14">
-        <div class="project-visual" role="img" aria-label="صورة المشروع (موضع مؤقت)" data-i18n-aria="ph.projectAlt"><span data-i18n="ph.projectImage">صورة المشروع</span></div>
-        <div class="project-body"><h3 class="project-title" data-i18n="p4.t">الإدارة العامة للمحاماة — عرض وزاري</h3><p class="project-sub" data-i18n="p4.sub">وزارة العدل — عُرض على معالي الوزير</p><p class="project-result" data-i18n="p4.d">صمّمتُ وبنيتُ عروضًا شاملة على المستوى الوزاري للإدارة العامة للمحاماة، تعرض المستجدات الاستراتيجية، وتحليل المشاريع التطويرية، وأداء القطاع على معالي وزير العدل. مسؤولة عن 100% من المشاريع التطويرية وتحليلها.</p><div class="chips"><span class="tag chip" data-i18n="tag12">عروض وزارية</span><span class="tag chip" data-i18n="tag13">تقارير استراتيجية</span><span class="tag chip" data-i18n="tag14">تحليل القطاع</span></div></div>
-      </li>
-    </ul>
-    <p class="projects-status" id="projects-status" role="status" aria-live="polite"></p>
-  </section>
-
-  <!-- ================= 7. السيرة الذاتية ================= -->
   <section class="card resume reveal" id="career" aria-labelledby="career-title">
     <div class="resume-head">
-      <h2 class="sec-title" data-i18n="career.title" id="career-title">السجل المهني</h2>
+      <h2 class="sec-title" data-i18n="career.title" id="career-title">الخبرة المهنية</h2>
       <!-- ضع ملف السيرة في assets/cv.pdf -->
       <a class="btn-cv" href="assets/cv.pdf" download><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4v11M7.5 10.5 12 15l4.5-4.5M5 19h14"/></svg><span data-i18n="career.download">تحميل السيرة الذاتية</span></a>
     </div>
     <span class="sec-line" aria-hidden="true"></span>
-    <div class="sub">
-      <div class="sub-head"><span class="sub-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><rect x="3" y="7" width="18" height="13" rx="2"/><path d="M8 7V5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2M3 12h18"/></svg></span><h3 class="sub-title" data-i18n="career.work">الخبرة المهنية</h3></div>
-      <ol class="entries" role="list">
-        <li class="entry"><span class="entry-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12.5 8.5 16 12l-3.5 3.5"/></svg></span><div><h4 class="entry-title" data-i18n="c1.role">مديرة — تمكين منافع البرامج والمشاريع</h4><span class="entry-period" data-i18n="c1.period">سبتمبر 2022 — حتى الآن</span><span class="entry-org"><span class="org-logo" aria-hidden="true" data-i18n="ph.orgLogo">شعار الجهة</span><span data-i18n="c1.org">وزارة العدل (MOJ-VRO)</span></span><p class="entry-desc" data-i18n="c1.desc">تطوير قطاع المحاماة، وتخطيط المشاريع المستقبلية، والمنافع، والاستدامة، والتحول الرقمي، ودراسات فجوات السوق، والعروض الوزارية، وورش العمل، والاستبانات، والتنسيق مع الهيئة السعودية للمحامين.</p></div></li>
-        <li class="entry"><span class="entry-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12.5 8.5 16 12l-3.5 3.5"/></svg></span><div><h4 class="entry-title" data-i18n="c2.role">التحليل والتخطيط — إدارة التغيير</h4><span class="entry-period" data-i18n="c2.period">يناير 2020 — سبتمبر 2022</span><span class="entry-org"><span class="org-logo" aria-hidden="true" data-i18n="ph.orgLogo">شعار الجهة</span><span data-i18n="c2.org">برنامج تطوير وزارة الحرس الوطني</span></span><p class="entry-desc" data-i18n="c2.desc">استراتيجية التغيير، ومركز التميّز للتغيير، وأدوار التغيير، وتقييمات الأثر والجاهزية، وتحليل التبنّي، ومعايير قبول مركز التميّز، ودمج ميثاق التحول.</p></div></li>
-        <li class="entry"><span class="entry-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12.5 8.5 16 12l-3.5 3.5"/></svg></span><div><h4 class="entry-title" data-i18n="c3.role">محاضرة جامعية غير متفرّغة</h4><span class="entry-period" data-i18n="c3.period">2019</span><span class="entry-org"><span class="org-logo" aria-hidden="true" data-i18n="ph.orgLogo">شعار الجهة</span><span data-i18n="c3.org">جامعة اليمامة</span></span><p class="entry-desc" data-i18n="c3.desc">تدريس مقرر إدارة المبيعات لطلبة البكالوريوس.</p></div></li>
-        <li class="entry"><span class="entry-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12.5 8.5 16 12l-3.5 3.5"/></svg></span><div><h4 class="entry-title" data-i18n="c4.role">قائدة تحول</h4><span class="entry-period" data-i18n="c4.period">سبتمبر 2008 — أبريل 2014</span><span class="entry-org"><span class="org-logo" aria-hidden="true" data-i18n="ph.orgLogo">شعار الجهة</span><span data-i18n="c4.org">البنك العربي الوطني</span></span><p class="entry-desc" data-i18n="c4.desc">تحول الفروع، والتبنّي، والتواصل، والتوعية، والتوجيه، وتحسين خدمة العملاء، وتحليل بطاقة الأداء المتوازن.</p></div></li>
-      </ol>
-    </div>
-    <div class="sub" id="credentials">
-      <div class="sub-head"><span class="sub-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M4 5.5A2.5 2.5 0 0 1 6.5 3H12v16H6.5A2.5 2.5 0 0 0 4 21V5.5ZM20 5.5A2.5 2.5 0 0 0 17.5 3H12v16h5.5A2.5 2.5 0 0 1 20 21V5.5Z"/></svg></span><h3 class="sub-title" data-i18n="career.education">التعليم</h3></div>
-      <ol class="entries" role="list">
-        <li class="entry"><span class="entry-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12.5 8.5 16 12l-3.5 3.5"/></svg></span><div><h4 class="entry-title" data-i18n="cr1.name">ماجستير في الإدارة</h4><span class="entry-org"><span data-i18n="cr1.by">جامعة لا تروب، أستراليا</span></span></div></li>
-        <li class="entry"><span class="entry-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12.5 8.5 16 12l-3.5 3.5"/></svg></span><div><h4 class="entry-title" data-i18n="cr2.name">بكالوريوس في إدارة الأعمال — إدارة الموارد البشرية</h4><span class="entry-org"><span data-i18n="cr2.by">جامعة الملك عبدالعزيز</span></span></div></li>
-      </ol>
-    </div>
-    <div class="sub">
-      <div class="sub-head"><span class="sub-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="9" r="6"/><path d="M8.5 14 7 22l5-3 5 3-1.5-8"/></svg></span><h3 class="sub-title" data-i18n="career.certs">الشهادات</h3></div>
-      <ol class="entries" role="list">
-        <li class="entry"><span class="entry-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12.5 8.5 16 12l-3.5 3.5"/></svg></span><div><h4 class="entry-title latin" lang="en" dir="ltr">Certified Managing Benefits™</h4><span class="entry-period">2023</span><span class="entry-org latin">APMG International</span></div></li>
-        <li class="entry"><span class="entry-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12.5 8.5 16 12l-3.5 3.5"/></svg></span><div><h4 class="entry-title" data-i18n="cert2.name">استراتيجيات قيادة مبادرات التغيير الناجحة</h4><span class="entry-period">2022</span><span class="entry-org latin">LPC Training</span></div></li>
-        <li class="entry"><span class="entry-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12.5 8.5 16 12l-3.5 3.5"/></svg></span><div><h4 class="entry-title latin" lang="en" dir="ltr">Certified Agile Change Agent</h4><span class="entry-period">2020</span><span class="entry-org latin">APMG International</span></div></li>
-      </ol>
-    </div>
+    <ol class="entries" role="list">
+        <li class="entry"><span class="entry-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12.5 8.5 16 12l-3.5 3.5"/></svg></span><div><h3 class="entry-title" data-i18n="c1.role">تمكين منافع البرامج والمشاريع</h3><span class="entry-period" data-i18n="c1.period">سبتمبر 2022 - حتى الآن</span><span class="entry-org"><span class="org-logo" aria-hidden="true" data-i18n="ph.orgLogo">شعار الجهة</span><span data-i18n="c1.org">وزارة العدل (MOJ) - VRO</span></span><p class="entry-desc" data-i18n="c1.desc">تطوير وتنفيذ استراتيجية تطوير قطاع المحاماة في المملكة العربية السعودية، وقيادة مشاريع التحول الرقمي ودراسات فجوات السوق بالتعاون مع الهيئة السعودية للمحامين، وبناء منهجية تنفيذ تمكين المحاكم وإطار استدامة مشاريع وزارة العدل–مكتب تحقيق الرؤية المعتمد من القيادة العليا. ويشمل ذلك تصميم وتقديم ورش العمل والاستبانات والمواد التدريبية، وتعميم منهجية الاستدامة على مشاريع 2022–2023، وضمان تحقيق المشاريع قيمة مضافة واستمرارية الأعمال بعد تسليمها للجهات المشغّلة.</p>
+        <p class="ach-label" data-i18n="ach.label">أبرز الإنجازات</p>
+        <ul class="ach-ul" role="list">
+          <li><span data-i18n="c1.a1">تصميم وبناء استراتيجية لتطوير قطاع المحاماة في المملكة العربية السعودية.</span></li>
+          <li><span data-i18n="c1.a2">تصميم وتيسير ورش عمل واستبانات، بالتعاون مع الهيئة السعودية للمحامين، لتحديد فجوات السوق القانونية وتحليلها وعكس النتائج في خطة التطوير الاستراتيجية لقطاع المحاماة.</span></li>
+          <li><span data-i18n="c1.a3">قيادة مشاريع التحول الرقمي لتنفيذ استراتيجيات التطوير الجديدة للمحامين، بهدف تحويل الخدمات القانونية في المملكة.</span></li>
+          <li><span data-i18n="c1.a4">تطوير وبناء منهجية استدامة مشاريع وزارة العدل–مكتب تحقيق الرؤية.</span></li>
+          <li><span data-i18n="c1.a5">الحصول على اعتماد معالي وزير العدل لمنهجية استدامة الأعمال.</span></li>
+          <li><span data-i18n="c1.a6">تطوير مواد تدريبية ودليل بنهج جديد، وتدريب منسوبي وزارة العدل ومديري مشاريع مكتب تحقيق الرؤية على منهجية الاستدامة الجديدة.</span></li>
+          <li><span data-i18n="c1.a7">تطبيق خطة استدامة المشاريع على مشاريع عامَي 2022 و2023.</span></li>
+          <li><span data-i18n="c1.a8">ضمان القيمة المضافة للمشاريع قبل تسليمها للجهات المشغّلة، وضمان استمرارية الأعمال بعد الإغلاق.</span></li>
+          <li><span data-i18n="c1.a9">تأسيس وقيادة تطوير «الأداة المساعدة لتمكين المحامي» ضمن مشروع «الإطار التنظيمي للظهور الإعلامي والإعلاني للمحامين» — خدمة إدارة المحتوى الإعلامي والإعلاني للمحامين (lawyer-media.org)، المكمّلة لضوابط الظهور الإعلامي والإعلاني: فحص المحتوى قبل النشر بتوصية مسندة إلى نظام المحاماة ولائحته التنفيذية وقواعد السلوك المهني للمحامين.</span></li>
+        </ul>
+        </div></li>
+        <li class="entry"><span class="entry-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12.5 8.5 16 12l-3.5 3.5"/></svg></span><div><h3 class="entry-title" data-i18n="c2.role">تمكين إدارة التغيير</h3><span class="entry-period" data-i18n="c2.period">يناير 2020 - سبتمبر 2022</span><span class="entry-org"><span class="org-logo" aria-hidden="true" data-i18n="ph.orgLogo">شعار الجهة</span><span data-i18n="c2.org">برنامج تطوير وزارة الحرس الوطني (MNGDP)</span></span><p class="entry-desc" data-i18n="c2.desc">تطوير استراتيجية مركز التميّز للتغيير (COE) لبرنامج تطوير وزارة الحرس الوطني، بما في ذلك بناء أدوات تغيير معتمدة، وتحديد معايير قبول مركز التميّز وتطبيقها، ومواءمتها مع مراجعات بوابات المحفظة. وشمل ذلك تقييم جاهزية الوزارة للتغيير، ودمج مخرجات مركز التميّز في ميثاق تحول الحرس الوطني، ومتابعة جميع أنشطة مركز التميّز خلال مراحل التعمّق لضمان حوكمة فعّالة للتغيير عبر المشاريع.</p>
+        <p class="ach-label" data-i18n="ach.label">أبرز الإنجازات</p>
+        <ul class="ach-ul" role="list">
+          <li><span data-i18n="c2.a1">بناء وتطوير أدوات مركز التميّز للتغيير (تقييم أثر التغيير، وتقييمات جاهزية التغيير، وتقييم مخاطر التغيير، وسهولة الانتقال) والحصول على اعتماد الرئيس التنفيذي للبرنامج.</span></li>
+          <li><span data-i18n="c2.a2">تطوير استراتيجيات وأطر التغيير لبرنامج تطوير وزارة الحرس الوطني والتحقق منها.</span></li>
+          <li><span data-i18n="c2.a3">وضع معايير قبول مركز التميّز للتغيير وتطبيقها ومواءمتها مع مراجعات بوابات مركز التميّز للمحفظة لمتابعة أنشطة التغيير في المشاريع.</span></li>
+          <li><span data-i18n="c2.a4">تحليل قدرة وزارة الحرس الوطني على التغيير خلال مرحلة التصميم، ورفع النتائج للإدارة العليا، والحصول على اعتماد الرئيس التنفيذي للبرنامج.</span></li>
+          <li><span data-i18n="c2.a5">مواءمة النتائج مع خطة التنفيذ ودمجها في ميثاق تحول الحرس الوطني.</span></li>
+          <li><span data-i18n="c2.a6">العمل ضمن فريق الإشراف ودمج مخرجات مركز التميّز للتغيير في ميثاق تحول وزارة الحرس الوطني.</span></li>
+          <li><span data-i18n="c2.a7">متابعة جميع أنشطة مركز التميّز للتغيير والتحقق منها خلال مرحلة التعمّق.</span></li>
+        </ul>
+        </div></li>
+        <li class="entry"><span class="entry-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12.5 8.5 16 12l-3.5 3.5"/></svg></span><div><h3 class="entry-title" data-i18n="c3.role">تدريس طلبة البكالوريوس – غير متفرّغة</h3><span class="entry-period" data-i18n="c3.period">2019</span><span class="entry-org"><span class="org-logo" aria-hidden="true" data-i18n="ph.orgLogo">شعار الجهة</span><span data-i18n="c3.org">جامعة اليمامة</span></span><p class="entry-desc" data-i18n="c3.desc">مقرر إدارة المبيعات، شطرا الطلاب والطالبات.</p>
+        </div></li>
+        <li class="entry"><span class="entry-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12.5 8.5 16 12l-3.5 3.5"/></svg></span><div><h3 class="entry-title" data-i18n="c4.role">قائدة تحول</h3><span class="entry-period" data-i18n="c4.period">سبتمبر 2008 – أبريل 2014</span><span class="entry-org"><span class="org-logo" aria-hidden="true" data-i18n="ph.orgLogo">شعار الجهة</span><span data-i18n="c4.org">البنك العربي الوطني - ANB</span></span><p class="entry-desc" data-i18n="c4.desc">ضمن فريق التحول، كنتُ مسؤولة عن ضمان نجاح تنفيذ برنامج تحول فروع البنك العربي الوطني، مع مسؤولية محددة عن متابعة فروع السيدات، ورفع الوعي بالاستراتيجية الجديدة، وضمان تبنّيها وتنفيذها بالكامل.</p>
+        <p class="ach-label" data-i18n="ach.label">أبرز الإنجازات</p>
+        <ul class="ach-ul" role="list">
+          <li><span data-i18n="c4.a1">قيادة مبادرات التحول على مستوى الفروع وضمان مواءمة إجراءات الفروع مع الاستراتيجية الجديدة.</span></li>
+          <li><span data-i18n="c4.a2">قيادة التواصل والتوعية ونقل المعرفة بالاستراتيجية الجديدة إلى الموظفين، وضمان فهمهم ومواءمتهم وتأييدهم.</span></li>
+          <li><span data-i18n="c4.a3">تقليل مقاومة التغيير من خلال زيارات منتظمة للفروع، وتحديد عوائق التبنّي ومخاوف الموظفين، وتقديم توجيه ودعم موجّهين لفرق الفروع.</span></li>
+          <li><span data-i18n="c4.a4">التعاون مع مديري الفروع لتحسين فرص الأعمال وخدمات العملاء الأفراد وتحقيق مستهدفات الأداء.</span></li>
+          <li><span data-i18n="c4.a5">تحليل فاعلية بطاقة الأداء المتوازن وتقديم التوصيات للإدارة العليا.</span></li>
+          <li><span data-i18n="c4.a6">تحليل فاعلية بطاقة الأداء المتوازن وتقديم التوصيات للإدارة العليا لتعزيز الأداء ونتائج التحول.</span></li>
+        </ul>
+        </div></li>
+    </ol>
   </section>
 
+  <section class="card reveal" id="certs" aria-labelledby="certs-title">
+    <span class="sec-line" aria-hidden="true"></span>
+    <h2 class="sec-title" data-i18n="certs.title" id="certs-title">الشهادات</h2>
+    <ol class="entries" role="list">
+      <li class="entry"><span class="entry-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12.5 8.5 16 12l-3.5 3.5"/></svg></span><div><h3 class="entry-title small" data-i18n="cert1">شهادة Managing Benefits™ المعتمدة من APMG International، 2023</h3></div></li>
+      <li class="entry"><span class="entry-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12.5 8.5 16 12l-3.5 3.5"/></svg></span><div><h3 class="entry-title small" data-i18n="cert2">شهادة Agile Change Agent المعتمدة من APMG International، 2020</h3></div></li>
+      <li class="entry"><span class="entry-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12.5 8.5 16 12l-3.5 3.5"/></svg></span><div><h3 class="entry-title small" data-i18n="cert3">استراتيجيات قيادة مبادرات التغيير الناجحة، LPC Training، 2022</h3></div></li>
+    </ol>
+  </section>
 
-  <!-- ================= 9. التواصل ================= -->
+  <section class="card reveal" id="edu" aria-labelledby="edu-title">
+    <span class="sec-line" aria-hidden="true"></span>
+    <h2 class="sec-title" data-i18n="edu.title" id="edu-title">التعليم</h2>
+    <ol class="entries" role="list">
+      <li class="entry"><span class="entry-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12.5 8.5 16 12l-3.5 3.5"/></svg></span><div><h3 class="entry-title small" data-i18n="edu1.name">درجة الماجستير في الإدارة</h3><span class="entry-org"><span data-i18n="edu1.by">جامعة لا تروب، أستراليا</span></span></div></li>
+      <li class="entry"><span class="entry-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12.5 8.5 16 12l-3.5 3.5"/></svg></span><div><h3 class="entry-title small" data-i18n="edu2.name">درجة البكالوريوس في إدارة الأعمال – إدارة الموارد البشرية</h3><span class="entry-org"><span data-i18n="edu2.by">جامعة الملك عبدالعزيز</span></span></div></li>
+    </ol>
+  </section>
+
   <section class="card reveal" id="contact" aria-labelledby="contact-title">
     <span class="sec-line" aria-hidden="true"></span>
-    <h2 class="sec-title" data-i18n="contact.title" id="contact-title">لنتحدث عن التحول الحكومي</h2>
-    <p class="contact-lead" data-i18n="contact.lead">متاحة للحوار في ما يتعلق بتمكين التحول، وإدارة التغيير، وتحقيق المنافع، والتنسيق المؤسسي، وتطوير القطاع القانوني، ودعم القرار التنفيذي.</p>
+    <h2 class="sec-title" data-i18n="contact.title" id="contact-title">التواصل</h2>
     <div class="contact-list">
       <div class="contact-row">
         <span class="contact-label" data-i18n="contact.email">البريد الإلكتروني</span>
@@ -472,20 +457,18 @@
       </div>
       <div class="contact-row">
         <span class="contact-label" data-i18n="contact.location">الموقع</span>
-        <span class="contact-value" data-i18n="contact.locationValue">الرياض، المملكة العربية السعودية</span>
+        <span class="contact-value" data-i18n="contact.locationValue">السعودية، الرياض</span>
         <span></span>
       </div>
       <div class="contact-row">
         <span class="contact-label latin">LinkedIn</span>
-        <a class="contact-value latin" dir="ltr" href="https://www.linkedin.com/in/yasmeen-bin-yahya-53801a4b" target="_blank" rel="noopener noreferrer"><span data-i18n="contact.linkedinValue">linkedin.com/in/yasmeen-bin-yahya-53801a4b</span> <span class="visually-hidden" data-i18n="newTab">(يُفتح في تبويب جديد)</span></a>
+        <a class="contact-value latin" dir="ltr" href="https://www.linkedin.com/in/yasmeen-bin-yahya-53801a4b" target="_blank" rel="noopener noreferrer"><span data-i18n="contact.linkedinValue">www.linkedin.com/in/yasmeen-bin-yahya-53801a4b</span> <span class="visually-hidden" data-i18n="newTab">(يُفتح في تبويب جديد)</span></a>
         <span></span>
       </div>
     </div>
-    <p class="contact-tagline" data-i18n="contact.tagline">بناء الوضوح والقدرة والقيمة المستدامة عبر التحول الحكومي.</p>
     <p class="visually-hidden" id="copy-status" role="status" aria-live="polite"></p>
   </section>
 
-  <!-- ================= التذييل ================= -->
   <footer class="site-footer">
     <div class="footer-inner">
       <span>© <span class="num latin" id="year">2026</span> <span data-i18n="name">ياسمين بن يحيى</span>. <span data-i18n="footer.rights">جميع الحقوق محفوظة.</span></span>
@@ -501,119 +484,104 @@
 
   var EN = {
     "name": "Yasmeen M. Bin Yahya",
-    "hero.tag1": "Transformation & Enablement Expert",
-    "hero.tag2": "Transformation, Benefits Enablement & Change Management",
-    "about.title": "Executive Profile",
-    "about.p1": "Transformation and enablement leader with experience across the Ministry of Justice, the Ministry of National Guard Development Program, higher education, and banking. My work connects strategy to execution: I build operating approaches, clarify institutional roles, enable adoption, and protect benefits after project handover. At the Ministry of Justice, I lead benefits enablement and developmental-project analysis for the legal practice sector, including future-sector development planning, ministerial decision support, and coordination with external stakeholders.",
-    "caps.label": "Core capabilities",
-    "cap1": "Strategy development",
-    "cap2": "Benefits realization",
-    "cap3": "Change architecture",
-    "cap4": "Institutional coordination",
-    "cap5": "Executive presentations",
-    "cap6": "Legal-sector development",
-    "cap7": "Stakeholder engagement",
-    "cap8": "Data and decision support",
-    "cap9": "Sustainability methodology",
-    "stats.label": "Key indicators",
-    "stats.l1": "Years of cross-sector experience",
-    "stats.l2": "Developmental project analysis",
-    "ach.title": "Key Achievements",
-    "ach0": "Founded and led the development of the \"Lawyer Enablement Assistant Tool\" within the \"Regulatory Framework for Lawyers' Media and Advertising Presence\" project: the lawyers' media and advertising content management service (lawyer-media.org), complementing the media and advertising presence controls, which reviews content before publication with a recommendation grounded in the Code of Law Practice, its Implementing Regulations, and the Code of Professional Conduct for Lawyers.",
-    "ach1": "Designed and built the strategy to develop the legal profession sector in the Kingdom of Saudi Arabia",
-    "ach2": "Led digital transformation projects to execute new development strategies for lawyers, transforming legal services",
-    "ach3": "Built the courts empowering executive methodology and detail plan, obtaining approval from the Deputy Minister for Judicial Affairs",
-    "ach4": "Developed and built the MOJ-VRO project sustainability methodology, achieving approval from the Minister of Justice",
-    "ach5": "Developed new approach training materials, handbook, and trained MOJ employees and VRO project managers",
-    "ach6": "Applied projects sustainability plan for 2022 and 2023 projects, ensuring added value delivery and business continuity",
-    "ach7": "Designed and facilitated workshops and surveys in collaboration with the Saudi Bar Association",
-    "proj.title": "Selected Projects & Portfolio",
-    "proj.filterLabel": "Filter projects by tag",
-    "proj.all": "All",
-    "p1.t": "Intergovernmental Affairs Department Study",
-    "p1.sub": "Ministry of Justice - Presented to the Minister | June 2025",
-    "p1.d": "Led a comprehensive feasibility study to evaluate the establishment of an Intergovernmental Affairs Department within the Ministry of Justice, reporting directly to the Minister. The study encompassed analyzing international best practices, assessing the current organizational structure, identifying gaps and opportunities, and proposing an organizational model for institutional coordination.",
-    "p2.t": "Enhancing Operational Efficiency & Data Quality",
-    "p2.sub": "Ministry of Justice - General Directorate of Legal Practice",
-    "p2.d": "Developed a strategic initiative focused on enhancing operational efficiency, improving data quality, and supporting decision-making processes within the General Directorate of Legal Practice. Addressed key operational challenges and proposed data-driven solutions to optimize performance and service delivery.",
-    "p3.t": "International Law Firms Cooperation Meeting",
-    "p3.sub": "Ministry of Justice - General Directorate of Legal Practice",
-    "p3.d": "Organized and designed a high-level coordination meeting with 38 licensed international law firms to enhance support, open investment and training opportunities, and contribute to resource localization. Involved multiple government entities including the Ministry of Investment and Ministry of Commerce.",
-    "p4.t": "General Directorate of Legal Practice - Ministerial Presentation",
-    "p4.sub": "Ministry of Justice - Presented to the Minister",
-    "p4.d": "Designed and built comprehensive ministerial-level presentations for the General Directorate of Legal Practice, presenting strategic updates, developmental projects analysis, and sector performance to the Minister of Justice. Responsible for 100% of the developmental projects and their analysis.",
-    "tag1": "Organizational Study",
-    "tag2": "Strategic Analysis",
-    "tag3": "Ministerial Level",
-    "tag4": "International Benchmarking",
-    "tag5": "Operational Efficiency",
-    "tag6": "Data Quality",
-    "tag7": "Decision Support",
-    "tag8": "Legal Sector",
-    "tag9": "International Cooperation",
-    "tag10": "Stakeholder Engagement",
-    "tag11": "Multi-Entity Coordination",
-    "tag12": "Ministerial Presentations",
-    "tag13": "Strategic Reporting",
-    "tag14": "Sector Analysis",
-    "ph.projectImage": "Project image",
-    "ph.projectAlt": "Project image (placeholder)",
-    "career.title": "Career record",
+    "hero.tag1": "Transformation and Enablement Expert",
+    "skip": "Skip to content",
+    "navLabel": "Main navigation",
+    "theme.label": "Dark mode",
+    "ph.portrait": "Portrait",
+    "ph.portraitAlt": "Portrait (placeholder)",
+    "ph.orgLogo": "Organization logo",
+    "nav.about": "Career Objective",
+    "nav.skills": "Skills",
+    "nav.career": "Experience",
+    "nav.certs": "Certifications",
+    "nav.edu": "Education",
+    "nav.contact": "Contact",
+    "about.title": "Career Objective",
+    "about.p1": "To leverage my experience in change management, transformation, and benefits realization to lead strategic change initiatives and drive sustainable, long-term value in support of the organization's objectives.",
+    "skills.title": "Skills",
+    "skills.g1": "Skills",
+    "skills.g2": "Change Management Skills",
+    "skills.g3": "Language",
+    "s1.1": "Strategy development",
+    "s1.2": "Transformation Enablement",
+    "s1.3": "Change Management",
+    "s1.4": "Benefits Realization",
+    "s1.5": "Sustainability Development",
+    "s1.6": "Program and Project Management",
+    "s2.1": "Impact Assessment",
+    "s2.2": "Readiness Assessment",
+    "s2.3": "Stakeholder Engagement",
+    "s2.4": "Communication Plan",
+    "s3.1": "Arabic",
+    "s3.2": "English",
+    "career.title": "Professional Experience",
     "career.download": "Download CV",
-    "career.work": "Professional Experience",
-    "career.education": "Education",
-    "career.certs": "Certifications",
-    "c1.role": "Director — Programs & Projects Benefits Enablement",
-    "c1.org": "Ministry of Justice (MOJ-VRO)",
-    "c1.period": "Sep 2022 – Present",
-    "c1.desc": "Legal profession sector development, future-project planning, benefits, sustainability, digital transformation, market-gap studies, ministerial presentations, workshops, surveys, and coordination with the Saudi Bar Association.",
-    "c2.role": "Analysis and Planning Change Management",
-    "c2.org": "Ministry of National Guard Development Program",
-    "c2.period": "Jan 2020 – Sep 2022",
-    "c2.desc": "Change strategy, Change Center of Excellence, change roles, impact and readiness assessments, adoption analysis, COE acceptance criteria, and Transformation Charter integration.",
-    "c3.role": "Part-time Undergraduate Lecturer",
+    "ach.label": "Key Achievements",
+    "c1.role": "Programs & Projects Benefits Enablement",
+    "c1.org": "Ministry of Justice (MOJ) - VRO",
+    "c1.period": "Sep 2022 - Present",
+    "c1.desc": "Developing and implementing the strategy to develop the legal profession sector in the Kingdom of Saudi Arabia, leading digital transformation projects and market-gap studies in collaboration with the Saudi Bar Association, and building the courts' empowerment execution methodology and the MOJ–VRO projects sustainability framework approved by senior leadership. This includes designing and delivering workshops, surveys, and training materials, rolling out the sustainability methodology across 2022–2023 projects, and ensuring projects deliver added value and business continuity after handover to operating entities.",
+    "c1.a1": "Designing and building a strategy to develop the legal profession sector in the Kingdom of Saudi Arabia.",
+    "c1.a2": "Design and facilitate workshops and surveys, in collaboration with the Saudi Bar Association, to identify and analyze legal market gaps and reflect the findings in the strategic development plan for the legal profession sector.",
+    "c1.a3": "Leading digital transformation projects to execute new development strategies for lawyers, aims to transforming legal services in the kingdom.",
+    "c1.a4": "Developed and Built the MOJ-VRO project sustainability methodology.",
+    "c1.a5": "Achieved the approval for business sustainability methodology from the Minister of Justice.",
+    "c1.a6": "Developed new approach training materials, handbook, and trained the MOJ employees and VRO project managers new sustainability methodology.",
+    "c1.a7": "Applied projects sustainability plan for 2022 and 2023 projects.",
+    "c1.a8": "Ensured the added value of projects before handing them over to the operating parties and ensure business continuity after closure.",
+    "c1.a9": "Founded and led the development of the \"Lawyer Enablement Assistant Tool\" within the \"Regulatory Framework for Lawyers' Media and Advertising Presence\" project: the lawyers' media and advertising content management service (lawyer-media.org), complementing the media and advertising presence controls, which reviews content before publication with a recommendation grounded in the Code of Law Practice, its Implementing Regulations, and the Code of Professional Conduct for Lawyers.",
+    "c2.role": "Change Management Enablement",
+    "c2.org": "Ministry of National Guard Development Program (MNGDP)",
+    "c2.period": "Jan 2020 - Sep 2022",
+    "c2.desc": "Developed the Change Center of Excellence strategy (COE) for the Ministry of National Guard Development Program, including building approved change toolkits, defining and applying COE acceptance criteria, and aligning them with portfolio gate reviews. This included assessing the ministry's change readiness, integrating COE outcomes into the MNG Transformation Charter, and monitoring all COE activities during deep-dive phases to ensure effective governance of change across projects.",
+    "c2.a1": "Built and developed Change Center of Excellence (COE) toolkits (Change Impact Assessment, Change Readiness Assessments, Change Risk Assessment, Ease of Transition) and obtained Program CEO approval.",
+    "c2.a2": "Developed and validated change strategies and frameworks for the Ministry of National Guard Development Program.",
+    "c2.a3": "Established and applied change COE acceptance criteria and aligned them with portfolio COE gate reviews to monitor project change activities.",
+    "c2.a4": "Analyzed the Ministry of National Guard's ability to change during the design phase, reported outcomes to top management, and obtained approval from the Program CEO.",
+    "c2.a5": "Aligned the outcomes with the implementation plan and integrated it into the MNG Transformation Charter.",
+    "c2.a6": "Worked as part of the oversight team and integrated Change Central of Excellence outcomes into the Ministry of National Guard Transformation Charter.",
+    "c2.a7": "Monitored and validated all Change Central of Excellence activities during the deep dives phase.",
+    "c3.role": "Teaching Undergraduate – Part-time",
     "c3.org": "Al Yamamah University",
     "c3.period": "2019",
-    "c3.desc": "Teaching Sales Management to undergraduate students.",
-    "c4.role": "Transformation Leader",
-    "c4.org": "Arab National Bank",
+    "c3.desc": "Sales Management subject, Male and female section.",
+    "c4.role": "Transformation leader",
+    "c4.org": "Arab national bank- ANB",
     "c4.period": "Sep 2008 – Apr 2014",
-    "c4.desc": "Branch transformation, adoption, communication, awareness, coaching, customer service improvement, and balanced-scorecard analysis.",
-    "cr1.name": "Master's in Management",
-    "cr1.by": "La Trobe University, Australia",
-    "cr2.name": "Bachelor's in Business Administration — HR Management",
-    "cr2.by": "King Abdulaziz University",
-    "cert2.name": "Strategies for Leading Successful Change Initiatives",
-    "contact.title": "Let's discuss government transformation",
-    "contact.lead": "Available for conversations related to transformation enablement, change management, benefits realization, institutional coordination, legal-sector development, and executive decision support.",
+    "c4.desc": "As part of the transformation team, I was responsible for ensuring the successful implementation of the Arab National Bank's branch transformation program, with specific accountability for monitoring ladies' branches, raising awareness of the new strategy, and securing their full adoption and implementation of the transformation.",
+    "c4.a1": "Led branch-level transformation initiatives and ensured branch processes were aligned with the new strategy.",
+    "c4.a2": "Drove communication, awareness, and knowledge transfer of the new strategy to employees, securing their understanding, alignment, and buy-in.",
+    "c4.a3": "Reduced resistance to change by conducting regular branch visits, identifying adoption barriers and staff concerns, and providing targeted coaching and support to branch teams.",
+    "c4.a4": "Collaborated with branch managers to improve business opportunities, individual customer services, and achievement of performance targets.",
+    "c4.a5": "Analyzed the effectiveness of the balanced scorecard and provided recommendations to the top management.",
+    "c4.a6": "Analyzed the effectiveness of the balanced scorecard and provided recommendations to top management to enhance performance and transformation outcomes.",
+    "certs.title": "Certifications",
+    "cert1": "Certified 2023 Managing Benefits™ from APMG International",
+    "cert2": "Certified 2020 Agile Change Agent from APMG International",
+    "cert3": "2022 Strategies for Leading Successful Change Initiatives LPC Training",
+    "edu.title": "Education",
+    "edu1.name": "Master's degree in Management",
+    "edu1.by": "La Trobe University, Australia",
+    "edu2.name": "Bachelor's Degree in Business Administration – Human Resources Management",
+    "edu2.by": "King Abdulaziz University",
+    "contact.title": "Contact",
     "contact.email": "Email",
     "contact.copy": "Copy",
     "contact.copyLabel": "Copy email address",
     "contact.location": "Location",
-    "contact.locationValue": "Riyadh, Saudi Arabia",
-    "contact.linkedinValue": "linkedin.com/in/yasmeen-bin-yahya-53801a4b",
+    "contact.locationValue": "Saudi, Riyadh",
+    "contact.linkedinValue": "www.linkedin.com/in/yasmeen-bin-yahya-53801a4b",
     "newTab": "(opens in a new tab)",
-    "contact.tagline": "Building clarity, capability, and lasting value across government transformation.",
     "footer.rights": "All rights reserved.",
-    "footer.top": "Back to top",
-    "nav.about": "About",
-    "nav.achievements": "Achievements",
-    "nav.projects": "Projects",
-    "nav.career": "Resume",
-    "nav.credentials": "Credentials",
-    "nav.contact": "Contact",
-    "ph.portrait": "Portrait",
-    "ph.portraitAlt": "Portrait (placeholder)",
-    "ph.orgLogo": "Organization logo",
-    "skip": "Skip to content",
-    "navLabel": "Main navigation",
-    "theme.label": "Dark mode"
+    "footer.top": "Back to top"
 };
+
   var DYN = {
     ar: { 'doc.title': 'ياسمين بن يحيى — خبيرة التحول والتمكين', 'lang.switch': 'Switch to English',
           'contact.copied': 'تم النسخ', 'contact.copiedMsg': 'تم نسخ البريد الإلكتروني', 'contact.copyFail': 'تعذّر النسخ، يُرجى النسخ يدويًّا',
           count: function (n, t) { return 'يُعرض ' + n + ' من أصل ' + t + ' مشاريع'; } },
-    en: { 'doc.title': 'Yasmeen M. Bin Yahya — Transformation & Enablement Expert', 'lang.switch': 'التبديل إلى العربية',
+    en: { 'doc.title': 'Yasmeen M. Bin Yahya — Transformation and Enablement Expert', 'lang.switch': 'التبديل إلى العربية',
           'contact.copied': 'Copied', 'contact.copiedMsg': 'Email address copied', 'contact.copyFail': 'Copy failed, please copy manually',
           count: function (n, t) { return 'Showing ' + n + ' of ' + t + ' projects'; } }
   };
@@ -635,7 +603,7 @@
   var copyBtn = document.getElementById('copy-email');
   var copyLabel = document.getElementById('copy-label');
   var copyStatus = document.getElementById('copy-status');
-  var projectStatus = document.getElementById('projects-status');
+  var projectStatus = document.getElementById('projects-status') || document.createElement('p');
   var currentFilter = 'all';
 
   function applyLang(l) {
@@ -708,7 +676,7 @@
         });
       });
     }, { rootMargin: '-35% 0px -55% 0px' });
-    ['top', 'about', 'achievements', 'projects', 'career', 'credentials', 'contact'].forEach(function (id) { var s = document.getElementById(id); if (s) secIO.observe(s); });
+    ['top', 'about', 'skills', 'career', 'certs', 'edu', 'contact'].forEach(function (id) { var s = document.getElementById(id); if (s) secIO.observe(s); });
 
     var revIO = new IntersectionObserver(function (entries) {
       entries.forEach(function (en) { if (en.isIntersecting) { en.target.classList.add('in'); revIO.unobserve(en.target); } });
