@@ -329,6 +329,7 @@
         <li><a href="#skills" data-i18n="nav.skills">المهارات</a></li>
         <li><a href="#career" data-i18n="nav.career">الخبرة المهنية</a></li>
         <li><a href="#certs" data-i18n="nav.certs">الشهادات</a></li>
+        <li><a href="#conf" data-i18n="nav.conf">المؤتمرات</a></li>
         <li><a href="#edu" data-i18n="nav.edu">التعليم</a></li>
         <li><a href="#contact" data-i18n="nav.contact">التواصل</a></li>
       </ul>
@@ -432,6 +433,15 @@
       <li class="entry"><span class="entry-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12.5 8.5 16 12l-3.5 3.5"/></svg></span><div><h3 class="entry-title small" data-i18n="cert1">شهادة Managing Benefits™ المعتمدة من APMG International، 2023</h3></div></li>
       <li class="entry"><span class="entry-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12.5 8.5 16 12l-3.5 3.5"/></svg></span><div><h3 class="entry-title small" data-i18n="cert2">شهادة Agile Change Agent المعتمدة من APMG International، 2020</h3></div></li>
       <li class="entry"><span class="entry-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12.5 8.5 16 12l-3.5 3.5"/></svg></span><div><h3 class="entry-title small" data-i18n="cert3">استراتيجيات قيادة مبادرات التغيير الناجحة، LPC Training، 2022</h3></div></li>
+    </ol>
+  </section>
+
+  <section class="card reveal" id="conf" aria-labelledby="conf-title">
+    <span class="sec-line" aria-hidden="true"></span>
+    <h2 class="sec-title" data-i18n="conf.title" id="conf-title">المؤتمرات</h2>
+    <ol class="entries" role="list">
+      <li class="entry"><span class="entry-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12.5 8.5 16 12l-3.5 3.5"/></svg></span><div><h3 class="entry-title small" data-i18n="conf1.name">المؤتمر الخامس للجنة التقاضي في رابطة المحامين الدولية (IBA) حول القانون الدولي الخاص</h3><span class="entry-org"><span data-i18n="conf1.meta">رابطة المحامين الدولية (IBA) — ميلانو، إيطاليا، 2–3 أكتوبر 2025</span></span></div></li>
+      <li class="entry"><span class="entry-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12.5 8.5 16 12l-3.5 3.5"/></svg></span><div><h3 class="entry-title small" data-i18n="conf2.name">منتدى المحامين العالمي (WLF) أوروبا 2026 — الدورتان الخامسة والعشرون والسادسة والعشرون</h3><span class="entry-org"><span data-i18n="conf2.meta">منتدى المحامين العالمي — أمستردام، هولندا، 15–16 سبتمبر 2026</span></span></div></li>
     </ol>
   </section>
 
@@ -562,6 +572,12 @@
     "cert1": "Certified 2023 Managing Benefits™ from APMG International",
     "cert2": "Certified 2020 Agile Change Agent from APMG International",
     "cert3": "2022 Strategies for Leading Successful Change Initiatives LPC Training",
+    "conf.title": "Conferences",
+    "nav.conf": "Conferences",
+    "conf1.name": "5th IBA Litigation Committee Conference on Private International Law",
+    "conf1.meta": "International Bar Association (IBA) — Milan, Italy, 2–3 October 2025",
+    "conf2.name": "25th & 26th World Lawyers Forum (WLF) Europe 2026",
+    "conf2.meta": "World Lawyers Forum — Amsterdam, the Netherlands, 15–16 September 2026",
     "edu.title": "Education",
     "edu1.name": "Master's degree in Management",
     "edu1.by": "La Trobe University, Australia",
@@ -677,7 +693,7 @@
         });
       });
     }, { rootMargin: '-35% 0px -55% 0px' });
-    ['top', 'about', 'skills', 'career', 'certs', 'edu', 'contact'].forEach(function (id) { var s = document.getElementById(id); if (s) secIO.observe(s); });
+    ['top', 'about', 'skills', 'career', 'certs', 'conf', 'edu', 'contact'].forEach(function (id) { var s = document.getElementById(id); if (s) secIO.observe(s); });
 
     var revIO = new IntersectionObserver(function (entries) {
       entries.forEach(function (en) { if (en.isIntersecting) { en.target.classList.add('in'); revIO.unobserve(en.target); } });
