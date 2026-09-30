@@ -127,12 +127,17 @@
     .layout{grid-template-columns:1fr} .side{position:static;grid-template-columns:minmax(0,40%) minmax(0,1fr);justify-items:start;text-align:start;align-items:center}
     .portrait{max-width:none} .side-list,.side .btn-cv{grid-column:1/-1} .hero-tags{justify-content:flex-start}
     .nav-bar{border-radius:24px;flex-wrap:wrap;justify-content:center} .nav-list{flex:1 1 100%;flex-wrap:wrap;justify-content:center} .nav-list li{flex:none} .nav-list a{padding:9px 12px;font-size:13.5px} .controls{border:0;padding:0}
-    .figs{grid-template-columns:repeat(2,minmax(0,1fr))} .grid2{grid-template-columns:1fr} .proj{grid-template-columns:1fr} .proj-img{order:-1} .form{grid-template-columns:1fr}
+    .figs{grid-template-columns:repeat(2,minmax(0,1fr))} .grid2{grid-template-columns:1fr} .proj{grid-template-columns:1fr} .cert-grid{grid-template-columns:1fr} .proj-img{order:-1} .form{grid-template-columns:1fr}
   }
   @media (max-width:480px){ .side{grid-template-columns:1fr;justify-items:center;text-align:center} .portrait{max-width:220px} .hero-tags{justify-content:center} .contact-row{grid-template-columns:1fr} }
   .org-logo.badge{width:60px;height:60px;border-radius:14px;background:#fff;padding:3px} .badge-link{flex:none;display:block;transition:transform .25s var(--ease)} .badge-link:hover{transform:scale(1.06)}
   .entry-title a{color:inherit;text-decoration:none} .entry-title a:hover{color:var(--accent)}
   .verified{display:inline-flex;align-items:center;gap:5px;font-size:11px;color:#3aa876;margin:2px 0 4px} .verified svg{width:14px;height:14px;stroke:currentColor;fill:none;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round}
+  .cert-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:14px;margin-top:18px}
+  .cert-card{background:var(--pill);border-radius:14px;padding:22px 18px;display:flex;flex-direction:column;align-items:center;text-align:center;gap:6px;transition:transform .25s var(--ease)} .cert-card:hover{transform:translateY(-3px)}
+  .cert-badge{width:130px;height:130px;border-radius:18px;background:#fff;display:flex;align-items:center;justify-content:center;padding:10px;margin-bottom:8px} .cert-badge.round{border-radius:50%;padding:6px} .cert-badge img{width:100%;height:100%;object-fit:contain}
+  .cert-body{display:flex;flex-direction:column;align-items:center;gap:4px;min-width:0} .cert-body .proj-t{font-size:16px;margin:0} .cert-body .entry-org{font-size:13px;color:var(--muted)} .cert-body .entry-period{font-size:13px}
+  .cert-link{margin-top:8px;font-size:13px;font-weight:600;color:var(--accent);text-decoration:none;border:1px solid var(--line);border-radius:999px;padding:7px 14px;transition:background .2s,color .2s} .cert-link:hover{background:var(--accent);color:var(--on-accent)}
   .zoom{cursor:zoom-in;display:block}
   .lb{position:fixed;inset:0;z-index:100;background:rgba(0,0,0,.86);display:none;align-items:center;justify-content:center;padding:24px;backdrop-filter:blur(6px)} .lb.open{display:flex;animation:lbin .25s var(--ease)} @keyframes lbin{from{opacity:0}to{opacity:1}}
   .lb img{max-width:min(100%,1100px);max-height:calc(100vh - 48px);border-radius:12px;box-shadow:0 30px 80px rgba(0,0,0,.6);background:#fff;cursor:zoom-out;animation:lbimg .3s var(--ease)} @keyframes lbimg{from{transform:scale(.94);opacity:0}to{transform:none;opacity:1}}
@@ -161,6 +166,7 @@
       <li><a href="#about" data-i18n="nav.about">نبذة</a></li>
       <li><a href="#career" data-i18n="nav.career">السيرة</a></li>
       <li><a href="#projects" data-i18n="nav.projects">المشاريع</a></li>
+      <li><a href="#certs" data-i18n="nav.certs">الشهادات</a></li>
       <li><a href="#conf" data-i18n="nav.conf">المؤتمرات</a></li>
       <li><a href="#contact" data-i18n="nav.contact">التواصل</a></li>
     </ul>
@@ -240,11 +246,6 @@
         <li class="entry"><span class="entry-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12.5 8.5 16 12l-3.5 3.5"/></svg></span><div><h3 class="entry-title small" data-i18n="edu1.name">ماجستير في الإدارة</h3><span class="entry-org"><span data-i18n="edu1.by">جامعة لا تروب، أستراليا</span></span></div></li>
         <li class="entry"><span class="entry-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12.5 8.5 16 12l-3.5 3.5"/></svg></span><div><h3 class="entry-title small" data-i18n="edu2.name">بكالوريوس في إدارة الأعمال، إدارة الموارد البشرية</h3><span class="entry-org"><span data-i18n="edu2.by">جامعة الملك عبدالعزيز</span></span></div></li>
       </ol></div>
-      <div class="sub"><div class="sub-head"><span class="sub-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="9" r="6"/><path d="M8.5 14 7 22l5-3 5 3-1.5-8"/></svg></span><h3 class="sub-title" data-i18n="certs.title">الشهادات</h3></div><ol class="entries" role="list">
-        <li class="entry"><a class="badge-link" href="https://www.credly.com/badges/750f5189-2f8e-44cf-a4e9-75ebe3105f3e" target="_blank" rel="noopener" title="شارة موثّقة عبر Credly" data-i18n-title="cert.verify"><span class="org-logo badge has-img"><img src="assets/badge-managing-benefits.png" alt="Managing Benefits™ Foundation"></span></a><div><h3 class="entry-title small latin" lang="en" dir="ltr"><a href="https://www.credly.com/badges/750f5189-2f8e-44cf-a4e9-75ebe3105f3e" target="_blank" rel="noopener">Managing Benefits™ Foundation</a></h3><span class="verified latin" dir="ltr"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg><span data-i18n="cert.verify">شارة موثّقة عبر Credly</span></span><span class="entry-period latin">Jul 2023</span><span class="entry-org latin">APMG International</span></div></li>
-        <li class="entry"><span class="org-logo badge has-img"><img src="assets/logo-lpc.png" alt="London Premier Centre (LPC Training)"></span><div><h3 class="entry-title small latin" lang="en" dir="ltr">Strategies for Leading Successful Change Initiatives</h3><span class="entry-period latin">Jul 2022</span><span class="entry-org latin">London Premier Centre (LPC Training)</span></div></li>
-        <li class="entry"><a class="badge-link" href="https://www.credly.com/badges/a980f9bf-c94a-49a0-8f97-ee2998516968" target="_blank" rel="noopener" title="شارة موثّقة عبر Credly" data-i18n-title="cert.verify"><span class="org-logo badge has-img"><img src="assets/badge-agile-change-agent.png" alt="Agile Change Agent"></span></a><div><h3 class="entry-title small latin" lang="en" dir="ltr"><a href="https://www.credly.com/badges/a980f9bf-c94a-49a0-8f97-ee2998516968" target="_blank" rel="noopener">Agile Change Agent</a></h3><span class="verified latin" dir="ltr"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg><span data-i18n="cert.verify">شارة موثّقة عبر Credly</span></span><span class="entry-period latin">Jun 2020</span><span class="entry-org latin">APMG International</span></div></li>
-      </ol></div>
     </div>
   </section>
   <section class="pane" id="projects" aria-labelledby="projects-title">
@@ -257,6 +258,15 @@
       <article class="proj"><div class="proj-body"><h3 class="proj-t" data-i18n="x2.t">منهجية استدامة مشاريع وزارة العدل ومكتب تحقيق الرؤية</h3><p class="proj-d" data-i18n="x2.d">منهجية معتمدة من معالي وزير العدل لضمان القيمة المضافة واستمرارية الأعمال بعد تسليم المشاريع، طُبّقت على مشاريع 2022 و2023.</p><ul class="chips" role="list"><li class="tag chip" data-i18n="x2.dl1">منهجية الاستدامة</li><li class="tag chip" data-i18n="x2.dl2">حقيبة تدريبية ودليل</li><li class="tag chip" data-i18n="x2.dl3">تدريب منسوبي الوزارة ومديري المشاريع</li><li class="tag chip" data-i18n="x2.dl4">معتمدة من معالي وزير العدل</li></ul></div><div class="proj-img" role="img" aria-label="صورة المشروع (موضع مؤقت)" data-i18n-aria="ph.projectAlt"><span data-i18n="ph.projectImage">صورة المشروع</span></div></article>
       <article class="proj"><div class="proj-body"><h3 class="proj-t" data-i18n="x3.t">منهجية تنفيذ تمكين المحاكم</h3><p class="proj-d" data-i18n="x3.d">المنهجية التنفيذية لتمكين المحاكم وخطتها التفصيلية، المعتمدة من وكيل الوزارة للشؤون القضائية.</p><ul class="chips" role="list"><li class="tag chip" data-i18n="x3.dl1">المنهجية التنفيذية</li><li class="tag chip" data-i18n="x3.dl2">الخطة التفصيلية</li><li class="tag chip" data-i18n="x3.dl3">معتمدة من وكيل الوزارة للشؤون القضائية</li></ul></div><div class="proj-img" role="img" aria-label="صورة المشروع (موضع مؤقت)" data-i18n-aria="ph.projectAlt"><span data-i18n="ph.projectImage">صورة المشروع</span></div></article>
       <article class="proj"><div class="proj-body"><h3 class="proj-t" data-i18n="x4.t">أدوات مركز التميّز لإدارة التغيير — برنامج تطوير وزارة الحرس الوطني</h3><p class="proj-d" data-i18n="x4.d">حزمة أدوات مركز التميّز للتغيير التي بنيتُها واعتمدها الرئيس التنفيذي للبرنامج، مع معايير القبول المواءمة مع مراجعات بوابات المحفظة ودمج المخرجات في ميثاق التحول.</p><ul class="chips" role="list"><li class="tag chip" data-i18n="x4.dl1">تقييم أثر التغيير</li><li class="tag chip" data-i18n="x4.dl2">تقييم جاهزية التغيير</li><li class="tag chip" data-i18n="x4.dl3">تقييم مخاطر التغيير</li><li class="tag chip" data-i18n="x4.dl4">سهولة الانتقال</li><li class="tag chip" data-i18n="x4.dl5">معايير قبول مركز التميّز</li><li class="tag chip" data-i18n="x4.dl6">دمج المخرجات في ميثاق التحول</li><li class="tag chip" data-i18n="x4.dl7">معتمدة من الرئيس التنفيذي للبرنامج</li></ul></div><div class="proj-img" role="img" aria-label="صورة المشروع (موضع مؤقت)" data-i18n-aria="ph.projectAlt"><span data-i18n="ph.projectImage">صورة المشروع</span></div></article>
+    </div>
+  </section>
+  <section class="pane" id="certs" aria-labelledby="certs-title">
+    <div class="block"><span class="sec-line" aria-hidden="true"></span><h2 class="sec-title" id="certs-title" data-i18n="certs.h">الشهادات المهنية</h2>
+      <div class="cert-grid">
+      <article class="cert-card"><div class="cert-badge round"><img src="assets/badge-managing-benefits.png" alt="Managing Benefits™ Foundation"></div><div class="cert-body"><h3 class="proj-t latin" lang="en" dir="ltr">Managing Benefits™ Foundation</h3><span class="entry-org latin" dir="ltr">APMG International</span><span class="entry-period latin" dir="ltr">Jul 2023</span><span class="verified latin" dir="ltr"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg><span data-i18n="cert.verify">شارة موثّقة عبر Credly</span></span><a class="cert-link" href="https://www.credly.com/badges/750f5189-2f8e-44cf-a4e9-75ebe3105f3e" target="_blank" rel="noopener"><span data-i18n="certs.view">عرض الشهادة</span> <span class="visually-hidden" data-i18n="newTab">(يُفتح في تبويب جديد)</span></a></div></article>
+      <article class="cert-card"><div class="cert-badge"><img src="assets/logo-lpc.png" alt="Strategies for Leading Successful Change Initiatives"></div><div class="cert-body"><h3 class="proj-t latin" lang="en" dir="ltr">Strategies for Leading Successful Change Initiatives</h3><span class="entry-org latin" dir="ltr">London Premier Centre (LPC Training)</span><span class="entry-period latin" dir="ltr">Jul 2022</span></div></article>
+      <article class="cert-card"><div class="cert-badge round"><img src="assets/badge-agile-change-agent.png" alt="Agile Change Agent"></div><div class="cert-body"><h3 class="proj-t latin" lang="en" dir="ltr">Agile Change Agent</h3><span class="entry-org latin" dir="ltr">APMG International</span><span class="entry-period latin" dir="ltr">Jun 2020</span><span class="verified latin" dir="ltr"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg><span data-i18n="cert.verify">شارة موثّقة عبر Credly</span></span><a class="cert-link" href="https://www.credly.com/badges/a980f9bf-c94a-49a0-8f97-ee2998516968" target="_blank" rel="noopener"><span data-i18n="certs.view">عرض الشهادة</span> <span class="visually-hidden" data-i18n="newTab">(يُفتح في تبويب جديد)</span></a></div></article>
+      </div>
     </div>
   </section>
   <section class="pane" id="conf" aria-labelledby="conf-title">
@@ -411,6 +421,8 @@
   "footer.rights": "All rights reserved.",
   "footer.top": "Back to top",
   "nav.projects": "Projects",
+  "certs.h": "Professional Certifications",
+  "certs.view": "View credential",
   "figs.title": "Key Figures",
   "fig1.l": "Years of experience",
   "fig2.l": "Indicators in the sector database",
