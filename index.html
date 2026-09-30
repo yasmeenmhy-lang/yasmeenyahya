@@ -130,6 +130,11 @@
     .figs{grid-template-columns:repeat(2,minmax(0,1fr))} .grid2{grid-template-columns:1fr} .proj{grid-template-columns:1fr} .proj-img{order:-1} .form{grid-template-columns:1fr}
   }
   @media (max-width:480px){ .side{grid-template-columns:1fr;justify-items:center;text-align:center} .portrait{max-width:220px} .hero-tags{justify-content:center} .contact-row{grid-template-columns:1fr} }
+  .zoom{cursor:zoom-in;display:block}
+  .lb{position:fixed;inset:0;z-index:100;background:rgba(0,0,0,.86);display:none;align-items:center;justify-content:center;padding:24px;backdrop-filter:blur(6px)} .lb.open{display:flex;animation:lbin .25s var(--ease)} @keyframes lbin{from{opacity:0}to{opacity:1}}
+  .lb img{max-width:min(100%,1100px);max-height:calc(100vh - 48px);border-radius:12px;box-shadow:0 30px 80px rgba(0,0,0,.6);background:#fff;cursor:zoom-out;animation:lbimg .3s var(--ease)} @keyframes lbimg{from{transform:scale(.94);opacity:0}to{transform:none;opacity:1}}
+  .lb-close{position:absolute;top:16px;inset-inline-end:16px;width:44px;height:44px;border-radius:50%;border:1px solid rgba(255,255,255,.25);background:rgba(255,255,255,.1);color:#fff;font-size:22px;line-height:1;cursor:pointer;display:grid;place-items:center} .lb-close:hover{background:rgba(255,255,255,.22)} .lb-close:focus-visible{outline:2px solid #fff;outline-offset:2px}
+  body.lb-lock{overflow:hidden}
   @media (prefers-reduced-motion:reduce){ *,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important} .js .pane.active > .block,.js .pane.active .mini,.js .pane.active .fig,.js .pane.active .proj,.js .pane.active .entry{animation:none} }
 </style>
 </head>
@@ -241,7 +246,7 @@
   </section>
   <section class="pane" id="projects" aria-labelledby="projects-title">
     <div class="block"><span class="sec-line" aria-hidden="true"></span><h2 class="sec-title" id="projects-title" data-i18n="projects.title">المشاريع</h2>
-      <article class="proj"><div class="proj-body"><h3 class="proj-t" data-i18n="c1.i1.t">الأداة المساعدة لتمكين المحامي — lawyer-media.org</h3><p class="proj-d" data-i18n="c1.i1.d">تأسيس وقيادة تطوير الأداة ضمن مشروع «الإطار التنظيمي للظهور الإعلامي والإعلاني للمحامين»: منصة فحص مسبق للنشر مدعومة بالذكاء الاصطناعي تُصدر توصيات مسندة إلى نظام المحاماة ولائحته التنفيذية وقواعد السلوك المهني للمحامين، مكمّلةً لضوابط الظهور الإعلامي والإعلاني.</p><ul class="chips" role="list"><li class="tag chip" data-i18n="c1.i1.dl1">منصة إدارة المحتوى الإعلامي والإعلاني للمحامين</li><li class="tag chip" data-i18n="c1.i1.dl2">محرك فحص الامتثال قبل النشر</li><li class="tag chip" data-i18n="c1.i1.dl3">تقارير التوصيات المسندة إلى النصوص النظامية</li></ul></div><div class="proj-img has-img"><img src="assets/proj-lawyer-media.jpg" alt="الأداة المساعدة لتمكين المحامي — lawyer-media.org" data-i18n-alt="c1.i1.t" loading="lazy"></div></article>
+      <article class="proj"><div class="proj-body"><h3 class="proj-t" data-i18n="c1.i1.t">الأداة المساعدة لتمكين المحامي — lawyer-media.org</h3><p class="proj-d" data-i18n="c1.i1.d">تأسيس وقيادة تطوير الأداة ضمن مشروع «الإطار التنظيمي للظهور الإعلامي والإعلاني للمحامين»: منصة فحص مسبق للنشر مدعومة بالذكاء الاصطناعي تُصدر توصيات مسندة إلى نظام المحاماة ولائحته التنفيذية وقواعد السلوك المهني للمحامين، مكمّلةً لضوابط الظهور الإعلامي والإعلاني.</p><ul class="chips" role="list"><li class="tag chip" data-i18n="c1.i1.dl1">منصة إدارة المحتوى الإعلامي والإعلاني للمحامين</li><li class="tag chip" data-i18n="c1.i1.dl2">محرك فحص الامتثال قبل النشر</li><li class="tag chip" data-i18n="c1.i1.dl3">تقارير التوصيات المسندة إلى النصوص النظامية</li></ul></div><a class="proj-img has-img zoom" href="assets/proj-lawyer-media.jpg" target="_blank" rel="noopener" data-lightbox title="اضغط للتكبير" data-i18n-title="lb.zoom"><img src="assets/proj-lawyer-media.jpg" alt="الأداة المساعدة لتمكين المحامي — lawyer-media.org" data-i18n-alt="c1.i1.t" loading="lazy"></a></article>
       <article class="proj"><div class="proj-body"><h3 class="proj-t" data-i18n="c1.i2.t">قاعدة بيانات قطاع المحاماة</h3><p class="proj-d" data-i18n="c1.i2.d">تصميم وبناء قاعدة بيانات موحّدة ومحوكمة للمحامين والمتدربين والمنشآت القانونية، بـ 137 مؤشرًا تغذّي لوحات القيادة، مع تتبّع كامل لمصدر كل قيمة.</p><ul class="chips" role="list"><li class="tag chip" data-i18n="c1.i2.dl1">ملف المحامي</li><li class="tag chip" data-i18n="c1.i2.dl2">ملف المتدرب</li><li class="tag chip" data-i18n="c1.i2.dl3">ملف المنشأة القانونية</li><li class="tag chip" data-i18n="c1.i2.dl4">ملف الممثل النظامي</li><li class="tag chip" data-i18n="c1.i2.dl5">ملف مكتب المحاماة الأجنبي</li><li class="tag chip" data-i18n="c1.i2.dl6">لوحة القيادة</li><li class="tag chip" data-i18n="c1.i2.dl7">الاستعلام الذكي</li><li class="tag chip" data-i18n="c1.i2.dl8">الإشعارات</li></ul></div><div class="proj-img" role="img" aria-label="صورة المشروع (موضع مؤقت)" data-i18n-aria="ph.projectAlt"><span data-i18n="ph.projectImage">صورة المشروع</span></div></article>
       <article class="proj"><div class="proj-body"><h3 class="proj-t" data-i18n="c1.i3.t">النموذج التشغيلي الجديد للإدارة</h3><p class="proj-d" data-i18n="c1.i3.d">تصميم وبناء نموذج أولي يقوم على خمسة وكلاء رقميين متخصصين ومساعد رقمي على ناجز محامين، يُنجز 56 خدمة عبر التكامل الحكومي بدلًا من المعالجة المستندية.</p><ul class="chips" role="list"><li class="tag chip" data-i18n="c1.i3.dl1">المساعد الرقمي على ناجز محامين</li><li class="tag chip" data-i18n="c1.i3.dl2">خمسة وكلاء رقميين متخصصين</li><li class="tag chip" data-i18n="c1.i3.dl3">سجل 56 خدمة</li><li class="tag chip" data-i18n="c1.i3.dl4">18 قناة تكامل حكومي</li></ul></div><div class="proj-img" role="img" aria-label="صورة المشروع (موضع مؤقت)" data-i18n-aria="ph.projectAlt"><span data-i18n="ph.projectImage">صورة المشروع</span></div></article>
       <article class="proj"><div class="proj-body"><h3 class="proj-t" data-i18n="p4.t">دراسة تفصيلية للنظر في تزايد عدد المحامين المرخصين</h3><p class="proj-d" data-i18n="p4.d">دراسة تفصيلية أعددتُها واعتمدها معالي وزير العدل.</p><ul class="chips" role="list"><li class="tag chip" data-i18n="p4.dl1">معتمدة من معالي وزير العدل</li></ul></div><div class="proj-img" role="img" aria-label="صورة المشروع (موضع مؤقت)" data-i18n-aria="ph.projectAlt"><span data-i18n="ph.projectImage">صورة المشروع</span></div></article>
@@ -253,7 +258,7 @@
   </section>
   <section class="pane" id="conf" aria-labelledby="conf-title">
     <div class="block"><span class="sec-line" aria-hidden="true"></span><h2 class="sec-title" id="conf-title" data-i18n="conf.title">المؤتمرات</h2>
-      <article class="proj"><div class="proj-body"><h3 class="proj-t" data-i18n="conf1.name">المؤتمر الخامس للجنة التقاضي في رابطة المحامين الدولية حول القانون الدولي الخاص</h3><p class="proj-d" data-i18n="conf1.meta">رابطة المحامين الدولية (IBA) — ميلانو، إيطاليا، 2–3 أكتوبر 2025</p></div><a class="proj-img cert" href="assets/cert-iba-2025.jpg" target="_blank" rel="noopener"><img src="assets/cert-iba-2025.jpg" alt="شهادة حضور المؤتمر الخامس للجنة التقاضي في رابطة المحامين الدولية، ميلانو 2025" data-i18n-alt="cert1.alt"></a></article>
+      <article class="proj"><div class="proj-body"><h3 class="proj-t" data-i18n="conf1.name">المؤتمر الخامس للجنة التقاضي في رابطة المحامين الدولية حول القانون الدولي الخاص</h3><p class="proj-d" data-i18n="conf1.meta">رابطة المحامين الدولية (IBA) — ميلانو، إيطاليا، 2–3 أكتوبر 2025</p></div><a class="proj-img cert zoom" href="assets/cert-iba-2025.jpg" target="_blank" rel="noopener" data-lightbox title="اضغط للتكبير" data-i18n-title="lb.zoom"><img src="assets/cert-iba-2025.jpg" alt="شهادة حضور المؤتمر الخامس للجنة التقاضي في رابطة المحامين الدولية، ميلانو 2025" data-i18n-alt="cert1.alt"></a></article>
       <article class="proj"><div class="proj-body"><h3 class="proj-t" data-i18n="conf2.name">منتدى المحامين العالمي أوروبا 2026 (الدورتان 25 و26)</h3><p class="proj-d" data-i18n="conf2.meta">أمستردام، هولندا، 15–16 سبتمبر 2026</p></div><div class="proj-img cert" role="img" aria-label="شهادة الحضور (موضع مؤقت)" data-i18n-aria="ph.certAlt"><span data-i18n="ph.cert">شهادة الحضور</span></div></article>
     </div>
   </section>
@@ -279,6 +284,7 @@
 </div>
 <div class="container">  <footer class="site-footer"><div class="footer-inner"><span>© <span class="num latin" id="year">2026</span> <span data-i18n="name">ياسمين بن يحيى</span>. <span data-i18n="footer.rights">جميع الحقوق محفوظة.</span></span><a href="#top" data-i18n="footer.top">العودة إلى الأعلى</a></div></footer>
 </div>
+<div class="lb" id="lb" role="dialog" aria-modal="true" aria-hidden="true"><button type="button" class="lb-close" id="lb-close" aria-label="إغلاق" data-i18n-aria="lb.close">&times;</button><img id="lb-img" src="" alt=""></div>
 <script>
 (function () {
   'use strict';
@@ -425,6 +431,8 @@
   "p4.t": "Detailed Study on the Increase in the Number of Licensed Lawyers",
   "p4.d": "A detailed study I prepared, approved by the Minister of Justice.",
   "p4.dl1": "Approved by the Minister of Justice",
+  "lb.close": "Close",
+  "lb.zoom": "Click to enlarge",
   "ph.cert": "Certificate of attendance",
   "ph.certAlt": "Certificate of attendance (placeholder)",
   "contact.form": "Send me a message",
@@ -472,10 +480,11 @@
     en: { 'doc.title': 'Yasmeen M. Bin Yahya — Transformation & Enablement Expert', 'lang.switch': 'التبديل إلى العربية', 'contact.copied': 'Copied', 'contact.copiedMsg': 'Email address copied', 'contact.copyFail': 'Copy failed, please copy manually' }
   };
   var AR = {};
-  var textEls = document.querySelectorAll('[data-i18n]'), ariaEls = document.querySelectorAll('[data-i18n-aria]'), altEls = document.querySelectorAll('[data-i18n-alt]');
+  var textEls = document.querySelectorAll('[data-i18n]'), ariaEls = document.querySelectorAll('[data-i18n-aria]'), altEls = document.querySelectorAll('[data-i18n-alt]'), titleEls = document.querySelectorAll('[data-i18n-title]');
   textEls.forEach(function (el) { var k = el.getAttribute('data-i18n'); if (!(k in AR)) AR[k] = el.textContent; });
   ariaEls.forEach(function (el) { var k = el.getAttribute('data-i18n-aria'); if (!(k in AR)) AR[k] = el.getAttribute('aria-label'); });
   altEls.forEach(function (el) { var k = el.getAttribute('data-i18n-alt'); if (!(k in AR)) AR[k] = el.getAttribute('alt'); });
+  titleEls.forEach(function (el) { var k = el.getAttribute('data-i18n-title'); if (!(k in AR)) AR[k] = el.getAttribute('title'); });
   function store(k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
   function lang() { return root.lang === 'en' ? 'en' : 'ar'; }
   function d(k) { return DYN[lang()][k]; }
@@ -488,6 +497,7 @@
     textEls.forEach(function (el) { var v = dict[el.getAttribute('data-i18n')]; if (typeof v === 'string') el.textContent = v; });
     ariaEls.forEach(function (el) { var v = dict[el.getAttribute('data-i18n-aria')]; if (typeof v === 'string') el.setAttribute('aria-label', v); });
     altEls.forEach(function (el) { var v = dict[el.getAttribute('data-i18n-alt')]; if (typeof v === 'string') el.setAttribute('alt', v); });
+    titleEls.forEach(function (el) { var v = dict[el.getAttribute('data-i18n-title')]; if (typeof v === 'string') el.setAttribute('title', v); });
     document.title = d('doc.title');
     langBtn.textContent = l === 'ar' ? 'EN' : 'ع'; langBtn.setAttribute('lang', l === 'ar' ? 'en' : 'ar'); langBtn.setAttribute('aria-label', d('lang.switch'));
     if (copyBtn.getAttribute('data-copied') === 'true') { copyLabel.textContent = d('contact.copied'); copyStatus.textContent = d('contact.copiedMsg'); }
@@ -538,6 +548,13 @@
     clearTimeout(resetTimer); resetTimer = setTimeout(function () { copyBtn.removeAttribute('data-copied'); copyLabel.textContent = txt('contact.copy'); copyStatus.textContent = ''; }, 2200);
   }
   copyBtn.addEventListener('click', function () { if (navigator.clipboard && window.isSecureContext) navigator.clipboard.writeText(email).then(function () { done(true); }, function () { done(fallbackCopy(email)); }); else done(fallbackCopy(email)); });
+  var lb = document.getElementById('lb'), lbImg = document.getElementById('lb-img'), lbClose = document.getElementById('lb-close'), lbOpener = null;
+  function openLb(a) { var im = a.querySelector('img'); lbImg.src = a.getAttribute('href'); lbImg.alt = im ? im.alt : ''; lb.classList.add('open'); lb.setAttribute('aria-hidden', 'false'); document.body.classList.add('lb-lock'); lbOpener = a; lbClose.focus(); }
+  function closeLb() { lb.classList.remove('open'); lb.setAttribute('aria-hidden', 'true'); document.body.classList.remove('lb-lock'); lbImg.src = ''; if (lbOpener) lbOpener.focus(); lbOpener = null; }
+  document.querySelectorAll('a[data-lightbox]').forEach(function (a) { a.addEventListener('click', function (e) { if (e.metaKey || e.ctrlKey) return; e.preventDefault(); openLb(a); }); });
+  lb.addEventListener('click', function (e) { if (e.target === lb || e.target === lbImg) closeLb(); });
+  lbClose.addEventListener('click', closeLb);
+  document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && lb.classList.contains('open')) closeLb(); });
 
   /* نموذج التواصل: يفتح بريد الزائر برسالة جاهزة */
   var form = document.getElementById('contact-form');
