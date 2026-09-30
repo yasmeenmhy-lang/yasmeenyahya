@@ -111,7 +111,7 @@
   .proj{display:grid;grid-template-columns:minmax(0,1fr) 220px;gap:18px;align-items:center;background:var(--pill);border-radius:14px;padding:16px;margin-top:12px;transition:transform .25s var(--ease)} .proj:hover{transform:translateY(-3px)}
   .proj-t{font-size:16px;margin-bottom:6px} .proj-d{font-size:14px}
   .proj-img{aspect-ratio:16/10;border-radius:10px;background:var(--ph);display:flex;align-items:center;justify-content:center;font-size:13px;overflow:hidden} .proj-img img{width:100%;height:100%;object-fit:cover}
-  .proj-img.cert{aspect-ratio:4/3;background:#f4f1e8;color:#6b6b6b} :root[data-theme="light"] .proj-img.cert{background:#fbfaf6}
+  .proj-img.cert{aspect-ratio:4/3;background:#f4f1e8;color:#6b6b6b;display:flex} a.proj-img.cert img{object-fit:cover;object-position:top;transition:transform .3s var(--ease)} a.proj-img.cert:hover img{transform:scale(1.03)} :root[data-theme="light"] .proj-img.cert{background:#fbfaf6}
   .chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px} .chip{font-size:12px;padding:4px 10px;background:var(--card)}
 
   .contact-list{display:grid;gap:10px;margin-bottom:22px}
@@ -253,7 +253,7 @@
   </section>
   <section class="pane" id="conf" aria-labelledby="conf-title">
     <div class="block"><span class="sec-line" aria-hidden="true"></span><h2 class="sec-title" id="conf-title" data-i18n="conf.title">المؤتمرات</h2>
-      <article class="proj"><div class="proj-body"><h3 class="proj-t" data-i18n="conf1.name">المؤتمر الخامس للجنة التقاضي في رابطة المحامين الدولية حول القانون الدولي الخاص</h3><p class="proj-d" data-i18n="conf1.meta">رابطة المحامين الدولية (IBA) — ميلانو، إيطاليا، 2–3 أكتوبر 2025</p></div><div class="proj-img cert" role="img" aria-label="شهادة الحضور (موضع مؤقت)" data-i18n-aria="ph.certAlt"><span data-i18n="ph.cert">شهادة الحضور</span></div></article>
+      <article class="proj"><div class="proj-body"><h3 class="proj-t" data-i18n="conf1.name">المؤتمر الخامس للجنة التقاضي في رابطة المحامين الدولية حول القانون الدولي الخاص</h3><p class="proj-d" data-i18n="conf1.meta">رابطة المحامين الدولية (IBA) — ميلانو، إيطاليا، 2–3 أكتوبر 2025</p></div><a class="proj-img cert" href="assets/cert-iba-2025.jpg" target="_blank" rel="noopener"><img src="assets/cert-iba-2025.jpg" alt="شهادة حضور المؤتمر الخامس للجنة التقاضي في رابطة المحامين الدولية، ميلانو 2025" data-i18n-alt="cert1.alt"></a></article>
       <article class="proj"><div class="proj-body"><h3 class="proj-t" data-i18n="conf2.name">منتدى المحامين العالمي أوروبا 2026 (الدورتان 25 و26)</h3><p class="proj-d" data-i18n="conf2.meta">أمستردام، هولندا، 15–16 سبتمبر 2026</p></div><div class="proj-img cert" role="img" aria-label="شهادة الحضور (موضع مؤقت)" data-i18n-aria="ph.certAlt"><span data-i18n="ph.cert">شهادة الحضور</span></div></article>
     </div>
   </section>
@@ -464,7 +464,8 @@
   "x4.dl4": "Ease of Transition",
   "x4.dl5": "COE acceptance criteria",
   "x4.dl6": "Transformation Charter integration",
-  "x4.dl7": "Approved by the Program CEO"
+  "x4.dl7": "Approved by the Program CEO",
+  "cert1.alt": "Certificate of attendance, 5th IBA Litigation Committee Conference, Milan 2025"
 };
   var DYN = {
     ar: { 'doc.title': 'ياسمين بن يحيى — خبيرة التحول والتمكين', 'lang.switch': 'Switch to English', 'contact.copied': 'تم النسخ', 'contact.copiedMsg': 'تم نسخ البريد الإلكتروني', 'contact.copyFail': 'تعذّر النسخ، يُرجى النسخ يدويًّا' },
