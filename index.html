@@ -99,7 +99,7 @@
   .sub-icon{width:48px;height:48px;flex:none;border-radius:12px;background:#222223;border:1px solid var(--line);display:flex;align-items:center;justify-content:center;color:#7a7ec9} :root[data-theme="light"] .sub-icon{background:var(--pill)}
   .sub-icon svg{width:24px;height:24px;stroke:currentColor;fill:none;stroke-width:1.6}
   .sub-title{font-size:clamp(19px,2vw,24px);color:#fff} :root[data-theme="light"] .sub-title{color:var(--text)}
-  .entry{display:grid;grid-template-columns:32px minmax(0,1fr);gap:14px;padding-block:18px} .entry+.entry{border-top:1px solid var(--line)}
+  .entry{display:grid;grid-template-columns:max-content minmax(0,1fr);gap:14px;padding-block:18px;align-items:start} .entry > .entry-icon,.entry > .org-logo.sm{width:32px} .entry+.entry{border-top:1px solid var(--line)}
   .entry-icon{width:28px;height:28px;margin-top:4px;color:#7a7ec9} .entry-icon svg{width:28px;height:28px;stroke:currentColor;fill:none;stroke-width:1.6} html[dir="rtl"] .entry-icon svg{transform:scaleX(-1)}
   .entry-title{font-size:17px;margin-bottom:4px} .entry-title.small{font-size:15.5px}
   .entry-period{display:block;color:var(--accent);font-size:14px;margin-bottom:2px}
@@ -130,7 +130,7 @@
     .figs{grid-template-columns:repeat(2,minmax(0,1fr))} .grid2{grid-template-columns:1fr} .proj{grid-template-columns:1fr} .proj-img{order:-1} .form{grid-template-columns:1fr}
   }
   @media (max-width:480px){ .side{grid-template-columns:1fr;justify-items:center;text-align:center} .portrait{max-width:220px} .hero-tags{justify-content:center} .contact-row{grid-template-columns:1fr} }
-  .org-logo.badge{width:64px;height:64px;border-radius:0;background:transparent} .badge-link{flex:none;display:block;transition:transform .25s var(--ease)} .badge-link:hover{transform:scale(1.06)}
+  .org-logo.badge{width:60px;height:60px;border-radius:0;background:transparent} .badge-link{flex:none;display:block;transition:transform .25s var(--ease)} .badge-link:hover{transform:scale(1.06)}
   .entry-title a{color:inherit;text-decoration:none} .entry-title a:hover{color:var(--accent)}
   .verified{display:inline-flex;align-items:center;gap:5px;font-size:11px;color:#3aa876;margin:2px 0 4px} .verified svg{width:14px;height:14px;stroke:currentColor;fill:none;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round}
   .zoom{cursor:zoom-in;display:block}
