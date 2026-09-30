@@ -130,6 +130,9 @@
     .figs{grid-template-columns:repeat(2,minmax(0,1fr))} .grid2{grid-template-columns:1fr} .proj{grid-template-columns:1fr} .proj-img{order:-1} .form{grid-template-columns:1fr}
   }
   @media (max-width:480px){ .side{grid-template-columns:1fr;justify-items:center;text-align:center} .portrait{max-width:220px} .hero-tags{justify-content:center} .contact-row{grid-template-columns:1fr} }
+  .org-logo.badge{width:64px;height:64px;border-radius:0;background:transparent} .badge-link{flex:none;display:block;transition:transform .25s var(--ease)} .badge-link:hover{transform:scale(1.06)}
+  .entry-title a{color:inherit;text-decoration:none} .entry-title a:hover{color:var(--accent)}
+  .verified{display:inline-flex;align-items:center;gap:5px;font-size:11px;color:#3aa876;margin:2px 0 4px} .verified svg{width:14px;height:14px;stroke:currentColor;fill:none;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round}
   .zoom{cursor:zoom-in;display:block}
   .lb{position:fixed;inset:0;z-index:100;background:rgba(0,0,0,.86);display:none;align-items:center;justify-content:center;padding:24px;backdrop-filter:blur(6px)} .lb.open{display:flex;animation:lbin .25s var(--ease)} @keyframes lbin{from{opacity:0}to{opacity:1}}
   .lb img{max-width:min(100%,1100px);max-height:calc(100vh - 48px);border-radius:12px;box-shadow:0 30px 80px rgba(0,0,0,.6);background:#fff;cursor:zoom-out;animation:lbimg .3s var(--ease)} @keyframes lbimg{from{transform:scale(.94);opacity:0}to{transform:none;opacity:1}}
@@ -238,7 +241,7 @@
         <li class="entry"><span class="entry-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12.5 8.5 16 12l-3.5 3.5"/></svg></span><div><h3 class="entry-title small" data-i18n="edu2.name">بكالوريوس في إدارة الأعمال، إدارة الموارد البشرية</h3><span class="entry-org"><span data-i18n="edu2.by">جامعة الملك عبدالعزيز</span></span></div></li>
       </ol></div>
       <div class="sub"><div class="sub-head"><span class="sub-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="9" r="6"/><path d="M8.5 14 7 22l5-3 5 3-1.5-8"/></svg></span><h3 class="sub-title" data-i18n="certs.title">الشهادات</h3></div><ol class="entries" role="list">
-        <li class="entry"><span class="org-logo sm has-img"><img src="assets/logo-apmg.png" alt="APMG International"></span><div><h3 class="entry-title small latin" lang="en" dir="ltr">Managing Benefits™ Foundation</h3><span class="entry-period latin">Jul 2023</span><span class="entry-org latin">APMG International</span></div></li>
+        <li class="entry"><a class="badge-link" href="https://www.credly.com/badges/750f5189-2f8e-44cf-a4e9-75ebe3105f3e" target="_blank" rel="noopener" title="شارة موثّقة عبر Credly" data-i18n-title="cert.verify"><span class="org-logo badge has-img"><img src="assets/badge-managing-benefits.png" alt="Managing Benefits™ Foundation"></span></a><div><h3 class="entry-title small latin" lang="en" dir="ltr"><a href="https://www.credly.com/badges/750f5189-2f8e-44cf-a4e9-75ebe3105f3e" target="_blank" rel="noopener">Managing Benefits™ Foundation</a></h3><span class="verified latin" dir="ltr"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg><span data-i18n="cert.verify">شارة موثّقة عبر Credly</span></span><span class="entry-period latin">Jul 2023</span><span class="entry-org latin">APMG International</span></div></li>
         <li class="entry"><span class="org-logo sm has-img"><img src="assets/logo-lpc.png" alt="London Premier Centre (LPC Training)"></span><div><h3 class="entry-title small latin" lang="en" dir="ltr">Strategies for Leading Successful Change Initiatives</h3><span class="entry-period latin">Jul 2022</span><span class="entry-org latin">London Premier Centre (LPC Training)</span></div></li>
         <li class="entry"><span class="org-logo sm has-img"><img src="assets/logo-apmg.png" alt="APMG International"></span><div><h3 class="entry-title small latin" lang="en" dir="ltr">Agile Change Agent</h3><span class="entry-period latin">Apr 2020</span><span class="entry-org latin">APMG International</span></div></li>
       </ol></div>
@@ -432,6 +435,7 @@
   "p4.d": "A detailed study I prepared, approved by the Minister of Justice.",
   "p4.dl1": "Approved by the Minister of Justice",
   "lb.close": "Close",
+  "cert.verify": "Verified badge on Credly",
   "lb.zoom": "Click to enlarge",
   "ph.cert": "Certificate of attendance",
   "ph.certAlt": "Certificate of attendance (placeholder)",
