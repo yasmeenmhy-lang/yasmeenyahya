@@ -166,6 +166,12 @@
   .iorgs{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px;width:min(1000px,92vw)} .iorg{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:22px 12px;display:flex;flex-direction:column;align-items:center;gap:12px;font-size:clamp(12px,1.2vw,16px);font-weight:600;line-height:1.5} .iorg .org-logo{width:64px;height:64px;border-radius:16px}
   @media (max-width:640px){ .ifigs,.iorgs{grid-template-columns:repeat(2,minmax(0,1fr))} .igrid{grid-template-columns:1fr} .icard-d{display:none} }
   @media (prefers-reduced-motion:reduce){ .intro{display:none!important} }
+  .edit-open{background:transparent;border:0;color:var(--muted);font:inherit;font-size:12px;cursor:pointer;opacity:.55;padding:4px 8px;border-radius:8px} .edit-open:hover{opacity:1;background:var(--pill)}
+  .edit-bar{position:fixed;left:0;right:0;bottom:0;z-index:150;background:var(--card);border-top:1px solid var(--accent);padding:10px 16px;display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between;box-shadow:0 -10px 30px rgba(0,0,0,.35)} .edit-bar[hidden]{display:none}
+  .edit-hint{font-size:12.5px;color:var(--muted);flex:1 1 260px} .edit-actions{display:flex;flex-wrap:wrap;gap:8px;align-items:center} .edit-n{font-size:13px;color:var(--muted);margin-inline-end:4px}
+  .edit-bar button{font:inherit;font-size:13px;font-weight:600;padding:8px 14px;border-radius:999px;border:1px solid var(--line);background:var(--pill);color:var(--text);cursor:pointer} .edit-bar #edit-save{background:var(--accent);color:var(--on-accent);border-color:var(--accent)} .edit-bar #edit-reset{color:#e07b7b}
+  body.editing{padding-bottom:120px} body.editing [data-i18n][contenteditable]{outline:1px dashed var(--accent);outline-offset:3px;border-radius:4px;cursor:text;min-width:1em} body.editing [data-i18n][contenteditable]:focus{outline:2px solid var(--accent);background:rgba(134,138,221,.08)}
+  body.editing .pane{display:block!important;animation:none} body.editing .pane + .pane{margin-top:16px} body.editing .nav-bar{pointer-events:none;opacity:.5}
   .zoom{cursor:zoom-in;display:block}
   .lb{position:fixed;inset:0;z-index:100;background:rgba(0,0,0,.86);display:none;align-items:center;justify-content:center;padding:24px;backdrop-filter:blur(6px)} .lb.open{display:flex;animation:lbin .25s var(--ease)} @keyframes lbin{from{opacity:0}to{opacity:1}}
   .lb img{max-width:min(100%,1100px);max-height:calc(100vh - 48px);border-radius:12px;box-shadow:0 30px 80px rgba(0,0,0,.6);background:#fff;cursor:zoom-out;animation:lbimg .3s var(--ease)} @keyframes lbimg{from{transform:scale(.94);opacity:0}to{transform:none;opacity:1}}
@@ -336,7 +342,8 @@
   </section>
   </main>
 </div>
-<div class="container">  <footer class="site-footer"><div class="footer-inner"><span>© <span class="num latin" id="year">2026</span> <span data-i18n="name">ياسمين بن يحيى</span>. <span data-i18n="footer.rights">جميع الحقوق محفوظة.</span></span><a href="#top" data-i18n="footer.top">العودة إلى الأعلى</a></div></footer>
+<div class="container">  <footer class="site-footer"><div class="footer-inner"><span>© <span class="num latin" id="year">2026</span> <span data-i18n="name">ياسمين بن يحيى</span>. <span data-i18n="footer.rights">جميع الحقوق محفوظة.</span></span><a href="#top" data-i18n="footer.top">العودة إلى الأعلى</a><button type="button" class="edit-open" id="edit-open" data-i18n="edit.open">تحرير المحتوى</button></div></footer>
+  <div class="edit-bar" id="edit-bar" hidden><span class="edit-hint" data-i18n="edit.hint">انقري على أي نص لتعديله. التعديلات تُحفظ على جهازك، وبعد النسخ أرسليها إليّ لنشرها.</span><div class="edit-actions"><span class="edit-n"><b id="edit-count">0</b> <span data-i18n="edit.changes">تعديلات</span></span><button type="button" id="edit-save" data-i18n="edit.save">حفظ</button><button type="button" id="edit-copy" data-i18n="edit.copy">نسخ التعديلات</button><button type="button" id="edit-reset" data-i18n="edit.reset">إلغاء كل التعديلات</button><button type="button" id="edit-cancel" data-i18n="edit.cancel">إلغاء</button></div></div>
 </div>
 <div class="lb" id="lb" role="dialog" aria-modal="true" aria-hidden="true"><button type="button" class="lb-close" id="lb-close" aria-label="إغلاق" data-i18n-aria="lb.close">&times;</button><button type="button" class="lb-nav lb-prev" id="lb-prev" aria-label="السابق" data-i18n-aria="lb.prev"><svg viewBox="0 0 24 24"><path d="M15 6l-6 6 6 6"/></svg></button><img id="lb-img" src="" alt=""><button type="button" class="lb-nav lb-next" id="lb-next" aria-label="التالي" data-i18n-aria="lb.next"><svg viewBox="0 0 24 24"><path d="M9 6l6 6-6 6"/></svg></button><div class="lb-cap" id="lb-cap"></div></div>
 <script>
@@ -498,6 +505,13 @@
   "lb.prev": "Previous",
   "lb.next": "Next",
   "lb.close": "Close",
+  "edit.open": "Edit content",
+  "edit.save": "Save",
+  "edit.cancel": "Cancel",
+  "edit.copy": "Copy edits",
+  "edit.reset": "Discard all edits",
+  "edit.hint": "Tap any text to edit it. Edits are saved on this device; copy them and send them to me to publish.",
+  "edit.changes": "edits",
   "intro.skip": "Skip",
   "intro.play": "Play intro",
   "intro.label": "Animated introduction",
@@ -554,10 +568,12 @@
   "cert1.alt": "Certificate of attendance, 5th IBA Litigation Committee Conference, Milan 2025"
 };
   var DYN = {
-    ar: { 'doc.title': 'ياسمين بن يحيى — خبيرة التحوّل والتمكين', 'lang.switch': 'Switch to English', 'contact.copied': 'تم النسخ', 'contact.copiedMsg': 'تم نسخ البريد الإلكتروني', 'contact.copyFail': 'تعذّر النسخ، يُرجى النسخ يدويًّا' },
-    en: { 'doc.title': 'Yasmeen M. Bin Yahya — Transformation & Enablement Expert', 'lang.switch': 'التبديل إلى العربية', 'contact.copied': 'Copied', 'contact.copiedMsg': 'Email address copied', 'contact.copyFail': 'Copy failed, please copy manually' }
+    ar: { 'edit.code': 'أدخلي رمز التحرير', 'edit.wrong': 'الرمز غير صحيح', 'edit.saved': 'تم حفظ التعديلات على هذا الجهاز. اضغطي «نسخ التعديلات» ثم أرسليها إليّ لنشرها.', 'edit.copied': 'نُسخت التعديلات. الصقيها في المحادثة لنشرها.', 'edit.manual': 'انسخي النص التالي وأرسليه إليّ:', 'edit.none': 'لا توجد تعديلات.', 'edit.resetQ': 'هل تريدين إلغاء جميع التعديلات المحفوظة على هذا الجهاز؟', 'doc.title': 'ياسمين بن يحيى — خبيرة التحوّل والتمكين', 'lang.switch': 'Switch to English', 'contact.copied': 'تم النسخ', 'contact.copiedMsg': 'تم نسخ البريد الإلكتروني', 'contact.copyFail': 'تعذّر النسخ، يُرجى النسخ يدويًّا' },
+    en: { 'edit.code': 'Enter the edit code', 'edit.wrong': 'Incorrect code', 'edit.saved': 'Edits saved on this device. Press "Copy edits" and send them to me to publish.', 'edit.copied': 'Edits copied. Paste them in the chat to publish.', 'edit.manual': 'Copy the following text and send it to me:', 'edit.none': 'No edits.', 'edit.resetQ': 'Discard all edits saved on this device?', 'doc.title': 'Yasmeen M. Bin Yahya — Transformation & Enablement Expert', 'lang.switch': 'التبديل إلى العربية', 'contact.copied': 'Copied', 'contact.copiedMsg': 'Email address copied', 'contact.copyFail': 'Copy failed, please copy manually' }
   };
   var AR = {};
+  var EDITS = {}; try { EDITS = JSON.parse(localStorage.getItem('pf-edits') || '{}') || {}; } catch (e) { EDITS = {}; }
+  function editOf(l, k) { var m = EDITS[l]; return m && typeof m[k] === 'string' ? m[k] : null; }
   var textEls = document.querySelectorAll('[data-i18n]'), ariaEls = document.querySelectorAll('[data-i18n-aria]'), altEls = document.querySelectorAll('[data-i18n-alt]'), titleEls = document.querySelectorAll('[data-i18n-title]');
   textEls.forEach(function (el) { var k = el.getAttribute('data-i18n'); if (!(k in AR)) AR[k] = el.textContent; });
   ariaEls.forEach(function (el) { var k = el.getAttribute('data-i18n-aria'); if (!(k in AR)) AR[k] = el.getAttribute('aria-label'); });
@@ -572,7 +588,7 @@
   function applyLang(l) {
     var dict = l === 'en' ? EN : AR;
     root.lang = l; root.dir = l === 'ar' ? 'rtl' : 'ltr';
-    textEls.forEach(function (el) { var v = dict[el.getAttribute('data-i18n')]; if (typeof v === 'string') el.textContent = v; });
+    textEls.forEach(function (el) { var k = el.getAttribute('data-i18n'), e = editOf(l, k), v = e !== null ? e : dict[k]; if (typeof v === 'string') el.textContent = v; });
     ariaEls.forEach(function (el) { var v = dict[el.getAttribute('data-i18n-aria')]; if (typeof v === 'string') el.setAttribute('aria-label', v); });
     altEls.forEach(function (el) { var v = dict[el.getAttribute('data-i18n-alt')]; if (typeof v === 'string') el.setAttribute('alt', v); });
     titleEls.forEach(function (el) { var v = dict[el.getAttribute('data-i18n-title')]; if (typeof v === 'string') el.setAttribute('title', v); });
@@ -598,6 +614,26 @@
   document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && !intro.hidden) stopIntro(); });
   var seen = false; try { seen = sessionStorage.getItem('pf-intro') === '1'; } catch (e) {}
   if (!seen && !location.hash) playIntro();
+  var editBar = document.getElementById('edit-bar'), editBtn = document.getElementById('edit-open'), editCount = document.getElementById('edit-count'), editing = false;
+  var editEls = Array.prototype.filter.call(textEls, function (el) { return !intro.contains(el) && !editBar.contains(el) && el !== editBtn && !el.closest('.lb'); });
+  editEls.forEach(function (el) { var e = editOf(lang(), el.getAttribute('data-i18n')); if (e !== null) el.textContent = e; });
+  function setEditing(on) {
+    editing = on; document.body.classList.toggle('editing', on); editBar.hidden = !on;
+    editEls.forEach(function (el) { if (on) { el.setAttribute('contenteditable', 'plaintext-only'); el.setAttribute('spellcheck', 'false'); } else { el.removeAttribute('contenteditable'); el.removeAttribute('spellcheck'); } });
+    if (on) { document.querySelectorAll('.pane').forEach(function (p) { p.classList.add('active'); }); } else { showTab(current(), false); }
+  }
+  function current() { var a = document.querySelector('.nav-list a[aria-current="page"]'); return a ? a.getAttribute('href').slice(1) : 'about'; }
+  function collectEdits() { var l = lang(), dict = l === 'en' ? EN : AR, m = EDITS[l] || (EDITS[l] = {}), n = 0;
+    editEls.forEach(function (el) { var k = el.getAttribute('data-i18n'), v = el.textContent.replace(/\s+/g, ' ').trim(), o = (dict[k] || '').replace(/\s+/g, ' ').trim(); if (v !== o) { m[k] = v; n++; } else { delete m[k]; } });
+    try { localStorage.setItem('pf-edits', JSON.stringify(EDITS)); } catch (e) {} return n; }
+  function editsReport() { var out = []; ['ar', 'en'].forEach(function (l) { var m = EDITS[l] || {}, dict = l === 'en' ? EN : AR; Object.keys(m).forEach(function (k) { out.push('[' + l + '] ' + k + '\n- قبل: ' + (dict[k] || '') + '\n- بعد: ' + m[k]); }); }); return out.join('\n\n'); }
+  function updateCount() { var n = 0; ['ar', 'en'].forEach(function (l) { n += Object.keys(EDITS[l] || {}).length; }); editCount.textContent = n; }
+  editBtn.addEventListener('click', function () { if (editing) return; var code = prompt(d('edit.code')); if (code === null) return; if (code.trim() !== 'yasmeen') { alert(d('edit.wrong')); return; } setEditing(true); updateCount(); });
+  document.getElementById('edit-save').addEventListener('click', function () { collectEdits(); updateCount(); setEditing(false); alert(d('edit.saved')); });
+  document.getElementById('edit-cancel').addEventListener('click', function () { setEditing(false); applyLang(lang()); });
+  document.getElementById('edit-copy').addEventListener('click', function () { collectEdits(); updateCount(); var t = editsReport() || d('edit.none'); if (navigator.clipboard && window.isSecureContext) navigator.clipboard.writeText(t).then(function () { alert(d('edit.copied')); }, function () { prompt(d('edit.manual'), t); }); else prompt(d('edit.manual'), t); });
+  document.getElementById('edit-reset').addEventListener('click', function () { if (!confirm(d('edit.resetQ'))) return; EDITS = {}; try { localStorage.removeItem('pf-edits'); } catch (e) {} updateCount(); applyLang(lang()); });
+  document.addEventListener('input', function (e) { if (editing && e.target.hasAttribute && e.target.hasAttribute('data-i18n')) { collectEdits(); updateCount(); } });
   var panes = Array.prototype.slice.call(document.querySelectorAll('.pane')), tabLinks = Array.prototype.slice.call(document.querySelectorAll('.nav-list a'));
   var counted = false;
   function runCount(el) {
