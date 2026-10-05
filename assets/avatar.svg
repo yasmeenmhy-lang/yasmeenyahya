@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+  <defs>
+    <radialGradient id="bg" cx=".75" cy=".2" r="1"><stop offset="0" stop-color="#4a4a78"/><stop offset=".55" stop-color="#2a2a3a"/><stop offset="1" stop-color="#1c1c24"/></radialGradient>
+    <linearGradient id="scarf" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a88a9b"/><stop offset="1" stop-color="#6f5464"/></linearGradient>
+    <linearGradient id="scarf2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7d6070"/><stop offset="1" stop-color="#5a4251"/></linearGradient>
+    <linearGradient id="skin" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#efd0b9"/><stop offset="1" stop-color="#ddb196"/></linearGradient>
+    <linearGradient id="hair" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5a3c2c"/><stop offset="1" stop-color="#3a271d"/></linearGradient>
+    <clipPath id="c"><circle cx="120" cy="120" r="120"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="240" height="240" fill="url(#bg)"/>
+    <!-- body / shoulders under scarf -->
+    <path d="M20 240c6-44 40-66 100-68 60 2 94 24 100 68z" fill="#24242f"/>
+    <!-- back scarf volume -->
+    <path d="M70 104c0-40 22-66 52-66 32 0 54 26 54 64 0 26-6 46-14 60 22 10 40 30 46 78H40c4-40 18-62 40-74-6-16-10-36-10-62z" fill="url(#scarf)"/>
+    <!-- neck -->
+    <path d="M108 146h24v24c-8 5-16 5-24 0z" fill="#d6a98d"/>
+    <!-- face -->
+    <path d="M90 106c0-24 13-40 30-40s30 16 30 40c0 26-14 44-30 44s-30-18-30-44z" fill="url(#skin)"/>
+    <!-- side-swept hair under scarf -->
+    <path d="M88 108c-2-30 14-48 36-48 16 0 28 9 32 22-10-7-24-9-36-4-14 6-24 16-32 30z" fill="url(#hair)"/>
+    <path d="M88 104c-3 18-1 34 6 46-9-5-14-16-14-28 0-8 3-14 8-18z" fill="url(#hair)"/>
+    <!-- scarf framing edge over head -->
+    <path d="M78 110c-2-42 20-66 44-66 26 0 46 22 46 60l6 4c2-46-22-74-52-74S68 58 70 106z" fill="#b89aab" opacity=".55"/>
+    <!-- front drape across chest -->
+    <path d="M96 156c10 12 20 18 28 18 14 0 28-12 40-30 6 34-6 70-26 96h-44c-8-26-8-58 2-84z" fill="url(#scarf2)"/>
+    <path d="M150 150c10 22 8 58-8 90h14c14-34 14-66 2-94z" fill="#4e3846" opacity=".7"/>
+  </g>
+</svg>
