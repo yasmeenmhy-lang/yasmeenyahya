@@ -709,8 +709,6 @@
   introSkip.addEventListener('click', stopIntro); introPlay.addEventListener('click', playIntro);
   intro.addEventListener('click', function (e) { if (e.target === intro || e.target.classList.contains('iscene')) stopIntro(); });
   document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && !intro.hidden) stopIntro(); });
-  var seen = false; try { seen = sessionStorage.getItem('pf-intro') === '1'; } catch (e) {}
-  if (!seen && !location.hash) playIntro();
   var editBar = document.getElementById('edit-bar'), editBtn = document.getElementById('edit-open'), editCount = document.getElementById('edit-count'), editing = false;
   var editEls = Array.prototype.filter.call(textEls, function (el) { return !intro.contains(el) && !editBar.contains(el) && el !== editBtn && !el.closest('.lb'); });
   editEls.forEach(function (el) { var e = editOf(lang(), el.getAttribute('data-i18n')); if (e !== null) el.textContent = e; });
