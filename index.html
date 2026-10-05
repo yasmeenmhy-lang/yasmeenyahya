@@ -38,7 +38,7 @@
   /* الشريط الجانبي */
   .side{position:sticky;top:20px;padding:22px;display:grid;gap:16px;justify-items:center;text-align:center}
   .portrait{aspect-ratio:1/1;width:100%;max-width:236px;border-radius:14px;background:var(--ph);display:flex;align-items:center;justify-content:center;font-size:14px;overflow:hidden}
-  .portrait img{width:100%;height:100%;object-fit:cover;display:block}
+  .portrait img{width:100%;height:100%;object-fit:cover;display:block} .portrait{border-radius:50%;background:none;box-shadow:0 0 0 1px var(--line),0 10px 30px rgba(0,0,0,.25)}
   .hero-name{font-size:24px}
   .hero-tags{display:flex;flex-wrap:wrap;justify-content:center;gap:8px}
   .side-list{width:100%;display:grid;gap:10px;padding-top:16px;border-top:1px solid var(--line);text-align:start}
@@ -215,7 +215,7 @@
 </div>
 <div class="container layout" id="top">
   <aside class="card side reveal" aria-label="ياسمين بن يحيى">
-    <div class="portrait" role="img" aria-label="صورة شخصية (موضع مؤقت)" data-i18n-aria="ph.portraitAlt"><span data-i18n="ph.portrait">صورة شخصية</span></div>
+    <div class="portrait"><img src="assets/portrait.jpg" alt="ياسمين بن يحيى" data-i18n-alt="name"></div>
     <h1 class="hero-name" data-i18n="name" id="hero-name">ياسمين بن يحيى</h1>
     <div class="hero-tags"><span class="tag" data-i18n="hero.tag1">خبيرة التحوّل والتمكين</span> <span class="tag" data-i18n="hero.tag2">تحقيق المنافع وإدارة التغيير</span></div>
     <ul class="side-list" role="list">
