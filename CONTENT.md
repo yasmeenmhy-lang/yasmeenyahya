@@ -53,7 +53,7 @@
 | تمكين منافع البرامج والمشاريع | Programs & Projects Benefits Enablement |
 | وزارة العدل – مكتب تحقيق الرؤية | Ministry of Justice – Vision Realization Office (VRO) |
 | سبتمبر 2022 – حتى الآن | Sep 2022 – Present |
-| إعداد الخطة التنفيذية لتطوير قطاع المحاماة، وتطوير حلول رقمية للإدارة العامة للمحاماة، والإشراف على منهجيتَي تمكين المحاكم واستدامة المشاريع، لضمان قيمة مضافة قابلة للقياس تستمر بعد تسليم المشاريع. | Development of the legal profession sector execution plan and of digital solutions for the General Directorate of Legal Profession, and oversight of the courts empowerment and project sustainability methodologies, ensuring measurable added value that continues after project handover. |
+| إعداد الخطة التنفيذية لتطوير قطاع المحاماة، وتطوير حلول رقمية للإدارة العامة للمحاماة، والإشراف على منهجيتَي تمكين المحاكم واستدامة المشاريع، لضمان قيمة مضافة قابلة للقياس تستمر بعد تسليم المشاريع. | Preparing the legal profession sector execution plan, developing digital solutions for the General Directorate of Legal Profession, and overseeing the courts empowerment and project sustainability methodologies to deliver measurable added value that continues after project handover. |
 | إعداد الخطة التنفيذية لتطوير قطاع المحاماة استنادًا إلى تحليل الفجوات، وعقد ورش العمل والاستبانات بالتعاون مع الهيئة السعودية للمحامين. | Developed the legal profession sector execution plan based on a gap analysis, and held workshops and surveys in collaboration with the Saudi Bar Association. |
 | تصميم وتطوير حلول رقمية للإدارة العامة للمحاماة، منها الأداة المساعدة لتمكين الظهور الإعلامي للمحامين، ومنصة قاعدة البيانات، ونموذج تشغيلي لتوظيف الذكاء الاصطناعي في تقديم الخدمات. | Designed and developed digital solutions for the General Directorate of Legal Profession, including the Lawyers’ Media Appearance Enablement Tool, the database platform and an AI-enabled operating model for service delivery. |
 | تطوير منهجية استدامة مشاريع الوزارة ومكتب تحقيق الرؤية، معتمدة من معالي وزير العدل، وتطبيقها على مشاريع عامَي 2022 و2023. | Developed the MOJ–VRO Project Sustainability Methodology, approved by the Minister of Justice, and applied it to the 2022 and 2023 projects. |
@@ -72,7 +72,7 @@
 | تمكين إدارة التغيير | Change Management Enablement |
 | برنامج تطوير وزارة الحرس الوطني | Ministry of National Guard Development Program (MNGDP) |
 | يناير 2020 – سبتمبر 2022 | Jan 2020 – Sep 2022 |
-| المشاركة ضمن فريق العمل في تطوير استراتيجية مركز التميّز لإدارة التغيير، ومتابعة أنشطة المركز خلال مرحلة الدراسة التفصيلية لضمان حوكمة التغيير في المشاريع. | Participation, as part of the team, in developing the Change Center of Excellence (COE) strategy, and follow-up of COE activities through the deep-dive phase to ensure governance of change across projects. |
+| المشاركة ضمن فريق العمل في تطوير استراتيجية مركز التميّز لإدارة التغيير، ومتابعة أنشطة المركز خلال مرحلة الدراسة التفصيلية لضمان حوكمة التغيير في المشاريع. | Contributing, as a team member, to the Change Center of Excellence (COE) strategy, and following up COE activities through the deep-dive phase to ensure change governance across projects. |
 | تطوير حزمة أدوات مركز التميّز لتقييم أثر التغيير والجاهزية والمخاطر وسهولة الانتقال، معتمدة من الرئيس التنفيذي للبرنامج. | Developed the COE toolkit suite for change impact, readiness, risk and ease-of-transition assessments, approved by the Program CEO. |
 | وضع معايير القبول الخاصة بالمركز وتضمينها في مراجعات بوابات المحفظة. | Established COE acceptance criteria and embedded them in portfolio gate reviews. |
 | تقييم الأثر والجاهزية للتغيير في مرحلة التصميم، ورفع النتائج إلى الإدارة العليا. | Assessed change impact and readiness in the design phase and submitted the results to top management. |
@@ -105,10 +105,10 @@
 |---|---|
 | منصات رقمية ومنهجيات عمل ودراسات معتمدة من القيادة العليا. | Digital platforms, methodologies and studies approved by senior leadership. |
 
-### الأداة المساعدة لتمكين الظهور الإعلامي للمحامين — lawyer-media.org
+### الأداة المساعدة لتمكين الظهور الإعلامي للمحامين
 | العربية | English |
 |---|---|
-| الأداة المساعدة لتمكين الظهور الإعلامي للمحامين — lawyer-media.org | Lawyers’ Media Appearance Enablement Tool — lawyer-media.org |
+| الأداة المساعدة لتمكين الظهور الإعلامي للمحامين | Lawyers’ Media Appearance Enablement Tool |
 | أداة رقمية ضمن مشروع «الإطار التنظيمي للظهور الإعلامي والإعلاني للمحامين»، توظّف الذكاء الاصطناعي في فحص المحتوى الإعلامي والإعلاني قبل نشره، وتُصدر توصيات مستندة إلى نظام المحاماة ولائحته التنفيذية وقواعد السلوك المهني. | A digital tool under the “Regulatory Framework for Lawyers’ Media and Advertising Appearance” project that applies AI to review media and advertising content before publication and issues recommendations based on the Law Practice Law, its Implementing Regulations and the Code of Professional Conduct. |
 | منصة | Platform |
 | 2026 | 2026 |
@@ -116,8 +116,8 @@
 ### منصة قاعدة بيانات الإدارة العامة للمحاماة
 | العربية | English |
 |---|---|
-| منصة قاعدة بيانات الإدارة العامة للمحاماة | General Directorate of Legal Profession Database Platform |
-| مشروع على مرحلتين: الأولى بناء تصوّر يشمل تحليل الفجوات، ونموذج بحيرة بيانات (Data Lakehouse) لتكوين «ملف المحامي الموحد»، ولوحات قيادية على ثلاثة مستويات (الإدارة، الوزارة، المملكة). والثانية تصميم وتطوير نسخة تجريبية من المنصة: قاعدة بيانات موحّدة للمحامين والمتدربين والمنشآت القانونية وفق معايير حوكمة البيانات، تغطي عشر مجموعات من خدمات الإدارة، مع محاكاة التكامل مع الجهات ذات العلاقة. وتعمل النسخة ببيانات افتراضية. | A two-phase project. Phase one: a concept covering gap analysis, a data lakehouse model to form the Unified Lawyer File, and leadership dashboards at three levels (Directorate, Ministry, Kingdom). Phase two: design and development of a demonstration version of the platform, a unified database for lawyers, trainees and law firms built to data-governance standards, covering ten groups of the Directorate’s services, with simulated integration with the relevant entities. The current version runs on synthetic data. |
+| منصة قاعدة بيانات الإدارة العامة للمحاماة | Central Lawyer Database Platform |
+| مشروع على مرحلتين: الأولى بناء تصوّر يشمل تحليل الفجوات، ونموذج بحيرة بيانات (Data Lakehouse) لتكوين «ملف المحامي الموحد»، ولوحات قيادية على ثلاثة مستويات (الإدارة، الوزارة، المملكة). والثانية تصميم وتطوير نسخة تجريبية من المنصة: قاعدة بيانات موحّدة للمحامين والمتدربين والمنشآت القانونية وفق معايير حوكمة البيانات، تغطي عشر مجموعات من خدمات الإدارة، مع محاكاة التكامل مع الجهات ذات العلاقة. وتعمل النسخة ببيانات افتراضية. | A two-phase project. Phase one developed the concept: a gap analysis, a data lakehouse model to build the Unified Lawyer Profile, and leadership dashboards at three levels (Directorate, Ministry, Kingdom). Phase two designed and built a demonstration version of the platform: a central database of lawyers, trainees and law firms, built to data-governance standards, covering ten groups of the Directorate’s services, with simulated integration with the relevant entities. It runs on synthetic data. |
 | منصة تجريبية | Demonstration platform |
 | 2026 | 2026 |
 
