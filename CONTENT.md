@@ -47,10 +47,10 @@
 | الإنجليزية | English |
 
 ## الخبرة المهنية
-### مدير إدارة منافع البرامج والمشاريع — وزارة العدل – مكتب تحقيق الرؤية
+### تمكين منافع البرامج والمشاريع — وزارة العدل – مكتب تحقيق الرؤية
 | العربية | English |
 |---|---|
-| مدير إدارة منافع البرامج والمشاريع | Director of Programs & Projects Benefits Management |
+| تمكين منافع البرامج والمشاريع | Programs & Projects Benefits Enablement |
 | وزارة العدل – مكتب تحقيق الرؤية | Ministry of Justice – Vision Realization Office (VRO) |
 | سبتمبر 2022 – حتى الآن | Sep 2022 – Present |
 | إدارة تمكين منافع البرامج والمشاريع، بخبرة تجمع بين إدارة التغيير ودعم القرار والتحول الرقمي، ومخرجات معتمدة من القيادة العليا تشمل منهجيات ودراسات وخططًا تنفيذية وحلولًا رقمية. | Managing programmes and projects benefits enablement, combining change management, decision support and digital transformation, with leadership-approved outputs spanning methodologies, studies, execution plans and digital solutions. |
