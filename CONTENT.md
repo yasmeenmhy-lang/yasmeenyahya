@@ -6,7 +6,7 @@
 | العربية | English |
 |---|---|
 | ياسمين بن يحيى | Yasmeen M. Bin Yahya |
-| خبيرة التحوّل والتمكين | Transformation & Enablement Expert |
+| التحوّل وإدارة وتمكين التغيير | Transformation, Change Management & Enablement |
 | خبرة في تمكين التحول وإدارة التغيير. | Experience in transformation enablement and change management. |
 
 ## النبذة
