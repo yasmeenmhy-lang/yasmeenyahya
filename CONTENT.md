@@ -125,7 +125,7 @@
 | العربية | English |
 |---|---|
 | تصميم نموذج تشغيلي لتوظيف الذكاء الاصطناعي في خدمات الإدارة العامة للمحاماة | AI-Enabled Operating Model for the Directorate’s Services |
-| نموذج أولي لنموذج تشغيلي جديد للإدارة العامة للمحاماة، يجمع بيانات القطاع في مكان واحد، ويعيد تصميم خدمات الإدارة من خلال توظيف الذكاء الاصطناعي. | A prototype of a new operating model for the General Directorate of Legal Profession that brings the sector’s data together in one place and redesigns the Directorate’s services through the use of AI. |
+| تصميم نموذج أولي لنموذج تشغيلي للإدارة العامة للمحاماة، يجمع بيانات القطاع في مكان واحد، ويعيد تصميم خدمات الإدارة من خلال توظيف الذكاء الاصطناعي. | Design of a prototype operating model for the General Directorate of Legal Profession that brings the sector’s data together in one place and redesigns the Directorate’s services through the use of AI. |
 | تصميم تشغيلي | Operating design |
 | 2026 | 2026 |
 
