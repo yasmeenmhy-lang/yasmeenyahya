@@ -19,7 +19,7 @@
 |---|---|
 | 12+ عامًا من الخبرة | 12+ years of experience |
 | 3 منهجيات معتمدة | 3 approved methodologies |
-| 5 مخرجات معتمدة | 5 approved deliverables |
+| 12 مشروعًا ومخرجًا | 12 projects & deliverables |
 | 3 شهادات مهنية في إدارة التغيير | 3 professional certifications in change management |
 
 ## مجالات العمل
