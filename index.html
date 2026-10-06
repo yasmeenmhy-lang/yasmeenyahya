@@ -31,7 +31,7 @@
 <link rel="shortcut icon" href="favicon.ico?v=5">
 <script>
   (function () { var d = document.documentElement; d.className += ' js';
-    try { var q = /[?&]lang=(ar|en)/.exec(location.search); var l = q ? q[1] : (localStorage.getItem('pf-lang2') || 'en'); if (q) localStorage.setItem('pf-lang2', l); if (l === 'en' || l === 'ar') { d.lang = l; d.dir = l === 'ar' ? 'rtl' : 'ltr'; }
+    try { var q = /[?&]lang=(ar|en)(?:&|$)/.exec(location.search); var l = q ? q[1] : (localStorage.getItem('pf-lang2') || 'en'); if (q) localStorage.setItem('pf-lang2', l); if (l === 'en' || l === 'ar') { d.lang = l; d.dir = l === 'ar' ? 'rtl' : 'ltr'; }
       if (localStorage.getItem('pf-theme') === 'light') d.setAttribute('data-theme', 'light'); } catch (e) {} })();
 </script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
