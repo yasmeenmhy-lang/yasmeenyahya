@@ -47,10 +47,10 @@
 | الإنجليزية | English |
 
 ## الخبرة المهنية
-### تمكين منافع البرامج والمشاريع — وزارة العدل – مكتب تحقيق الرؤية
+### مدير إدارة منافع البرامج والمشاريع — وزارة العدل – مكتب تحقيق الرؤية
 | العربية | English |
 |---|---|
-| تمكين منافع البرامج والمشاريع | Programs & Projects Benefits Enablement |
+| مدير إدارة منافع البرامج والمشاريع | Director of Programs & Projects Benefits Management |
 | وزارة العدل – مكتب تحقيق الرؤية | Ministry of Justice – Vision Realization Office (VRO) |
 | سبتمبر 2022 – حتى الآن | Sep 2022 – Present |
 | تولّي مهام تمكين منافع البرامج والمشاريع في مكتب تحقيق الرؤية بشكل مستقل، بما يشمل التحول الرقمي ودعم القرار وإدارة التغيير. ويتضمن ذلك تصميم وتطوير حلول رقمية قائمة على البيانات والذكاء الاصطناعي للإدارة العامة للمحاماة، وإعداد الخطة التنفيذية لتطوير قطاع المحاماة، وإعداد الدراسات والتقارير الداعمة لقرارات معالي الوزير والقيادة العليا، وتطوير منهجية تمكين المحاكم، ثم منهجية استدامة المشاريع مع تدريب منسوبي الوزارة ومديري المشاريع عليها. | Independently responsible for enabling the benefits of programmes and projects at the Vision Realization Office, spanning digital transformation, decision support and change management. This includes designing and developing data- and AI-driven digital solutions for the General Directorate of Legal Profession, preparing the legal profession sector execution plan, producing studies and reports that inform decisions of the Minister and senior leadership, developing the courts empowerment methodology, and earlier the project sustainability methodology together with training Ministry staff and project managers on it. |
