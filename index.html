@@ -9,7 +9,7 @@
 <meta property="og:site_name" content="yasmeenyahya.com">
 <meta property="og:url" content="https://yasmeenyahya.com/">
 <meta property="og:title" content="ياسمين بن يحيى — خبير التحول وتمكين التغيير">
-<meta property="og:description" content="خبرة 12 سنة في إدارة التغيير وتمكين منافع البرامج والمشاريع في القطاع المصرفي والحكومي والعدلي. الملف المهني والسيرة الذاتية والمشاريع.">
+<meta property="og:description" content="خبرة 12 سنة في إدارة التغيير وتمكين منافع البرامج والمشاريع في القطاع المصرفي والقطاع الحكومي العسكري والعدلي. الملف المهني والسيرة الذاتية والمشاريع.">
 <meta property="og:image" content="https://yasmeenyahya.com/assets/og-image.jpg">
 <meta property="og:image:secure_url" content="https://yasmeenyahya.com/assets/og-image.jpg">
 <meta property="og:image:type" content="image/jpeg">
@@ -19,7 +19,7 @@
 <meta property="og:locale:alternate" content="en_US">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="ياسمين بن يحيى — خبير التحول وتمكين التغيير">
-<meta name="twitter:description" content="خبرة 12 سنة في إدارة التغيير وتمكين منافع البرامج والمشاريع في القطاع المصرفي والحكومي والعدلي. الملف المهني والسيرة الذاتية والمشاريع.">
+<meta name="twitter:description" content="خبرة 12 سنة في إدارة التغيير وتمكين منافع البرامج والمشاريع في القطاع المصرفي والقطاع الحكومي العسكري والعدلي. الملف المهني والسيرة الذاتية والمشاريع.">
 <meta name="twitter:image" content="https://yasmeenyahya.com/assets/og-image.jpg">
 <link rel="canonical" href="https://yasmeenyahya.com/">
 <meta name="color-scheme" content="dark light">
@@ -29,7 +29,7 @@
 <link rel="shortcut icon" href="favicon.ico?v=5">
 <script>
   (function () { var d = document.documentElement; d.className += ' js';
-    try { var l = localStorage.getItem('pf-lang'); if (l === 'en' || l === 'ar') { d.lang = l; d.dir = l === 'ar' ? 'rtl' : 'ltr'; }
+    try { var l = localStorage.getItem('pf-lang2') || 'en'; if (l === 'en' || l === 'ar') { d.lang = l; d.dir = l === 'ar' ? 'rtl' : 'ltr'; }
       if (localStorage.getItem('pf-theme') === 'light') d.setAttribute('data-theme', 'light'); } catch (e) {} })();
 </script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -756,7 +756,7 @@
     langBtn.textContent = l === 'ar' ? 'EN' : 'ع'; langBtn.setAttribute('lang', l === 'ar' ? 'en' : 'ar'); langBtn.setAttribute('aria-label', d('lang.switch'));
     if (copyBtn.getAttribute('data-copied') === 'true') { copyLabel.textContent = d('contact.copied'); copyStatus.textContent = d('contact.copiedMsg'); }
   }
-  langBtn.addEventListener('click', function () { var next = lang() === 'ar' ? 'en' : 'ar'; store('pf-lang', next); applyLang(next); });
+  langBtn.addEventListener('click', function () { var next = lang() === 'ar' ? 'en' : 'ar'; store('pf-lang2', next); applyLang(next); });
 
   var themeBtn = document.getElementById('theme-toggle');
   function isDark() { return root.getAttribute('data-theme') !== 'light'; }
