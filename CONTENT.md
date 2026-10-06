@@ -54,7 +54,7 @@
 | وزارة العدل – مكتب تحقيق الرؤية | Ministry of Justice – Vision Realization Office (VRO) |
 | سبتمبر 2022 – حتى الآن | Sep 2022 – Present |
 | إدارة تمكين منافع البرامج والمشاريع، بخبرة تجمع بين إدارة التغيير ودعم القرار والتحول الرقمي، ومخرجات معتمدة من القيادة العليا تشمل منهجيات ودراسات وخططًا تنفيذية وحلولًا رقمية لتطوير قطاع المحاماة. | Managing programmes and projects benefits enablement, combining change management, decision support and digital transformation, with leadership-approved outputs spanning methodologies, studies, execution plans and digital solutions for the legal profession sector. |
-| تصميم وتطوير حلول رقمية، منها الأداة المساعدة لتمكين الظهور الإعلامي للمحامين، ومنصة قاعدة البيانات، ونموذج تشغيلي لتوظيف الذكاء الاصطناعي في تقديم الخدمات. | Designed and developed digital solutions, including the Lawyers’ Media Appearance Enablement Tool, the database platform and an AI-enabled operating model for service delivery. |
+| تصميم وتطوير حلول رقمية للإدارة العامة للمحاماة، منها الأداة المساعدة لتمكين الظهور الإعلامي للمحامين، ومنصة قاعدة البيانات، وإعادة تصميم النموذج التشغيلي بتوظيف الذكاء الاصطناعي. | Designed and developed digital solutions for the General Directorate of Legal Profession, including the Lawyers’ Media Appearance Enablement Tool, the database platform, and the redesign of the operating model using AI. |
 | إعداد «دراسة تفصيلية للنظر في تزايد عدد المحامين المرخصين»، معتمدة من معالي وزير العدل. | Prepared the Detailed Study on the Increase in the Number of Licensed Lawyers, approved by the Minister of Justice. |
 | إعداد الخطة التنفيذية لتطوير قطاع المحاماة استنادًا إلى تحليل الفجوات وخمس ورش عمل بالتعاون مع الهيئة السعودية للمحامين بمشاركة نحو 82 محاميًا، معتمدة من معالي وزير العدل. | Developed the legal profession sector execution plan based on a gap analysis and five workshops held with the Saudi Bar Association with around 82 lawyers, approved by the Minister of Justice. |
 | إعداد العروض التنفيذية لأربعة اجتماعات دورية متتالية مع معالي وزير العدل. | Prepared the executive presentations for four consecutive periodic meetings with H.E. the Minister of Justice. |
@@ -72,7 +72,7 @@
 | تمكين إدارة التغيير | Change Management Enablement |
 | برنامج تطوير وزارة الحرس الوطني | Ministry of National Guard Development Program (MNGDP) |
 | يناير 2020 – سبتمبر 2022 | Jan 2020 – Sep 2022 |
-| المشاركة ضمن فريق العمل في تطوير استراتيجية مركز التميّز لإدارة التغيير، ومتابعة أنشطة المركز خلال مرحلة الدراسة التفصيلية لضمان حوكمة التغيير في المشاريع. | Contributing, as a team member, to the Change Center of Excellence (COE) strategy, and following up COE activities through the deep-dive phase to ensure change governance across projects. |
+| المشاركة في تطوير استراتيجية مركز التميّز لإدارة التغيير، وتنفيذ أنشطة إدارة التغيير ومتابعتها خلال مرحلة الدراسة التفصيلية لضمان حوكمة التغيير في المشاريع. | Contributed to the development of the Change Management Center of Excellence strategy, and executed and monitored change management activities throughout the detailed study phase to ensure change governance across projects. |
 | تصميم وتطوير أدوات مركز التميّز لإدارة التغيير، ومنها أداة تقييم أثر التغيير وأداة تقييم الجاهزية للتغيير المرتبطتان ببوابات المحفظة، معتمدة من الرئيس التنفيذي للبرنامج. | Designed and developed the COE change management tools, including the Change Impact Assessment and Change Readiness Assessment tools linked to portfolio gates, approved by the Program CEO. |
 | وضع معايير القبول الخاصة بالمركز وتضمينها في مراجعات بوابات المحفظة. | Established COE acceptance criteria and embedded them in portfolio gate reviews. |
 | تقييم الأثر والجاهزية للتغيير في مرحلة التصميم، ورفع النتائج إلى الإدارة العليا. | Assessed change impact and readiness in the design phase and submitted the results to top management. |
@@ -93,7 +93,7 @@
 | قائد التحول | Transformation Leader |
 | البنك العربي الوطني | Arab National Bank (ANB) |
 | سبتمبر 2008 – أبريل 2014 | Sep 2008 – Apr 2014 |
-| المشاركة ضمن فريق التحوّل في تنفيذ برنامج تحوّل الفروع على مستوى البنك، ومتابعة فروع السيدات في التوعية بالاستراتيجية الجديدة وتبنّيها وتطبيقها. | Member of the bank-wide transformation team implementing the branch transformation program, following up ladies' branches on awareness, adoption and implementation of the new strategy. |
+| العمل على تنفيذ مبادرات برنامج تحوّل الفروع على مستوى البنك، وتمكين فروع السيدات من تبنّي الاستراتيجية الجديدة وتطبيقها عبر التوعية والمتابعة الميدانية. | Implemented branch transformation initiatives across the bank as part of the transformation team, and enabled the ladies' branches to adopt and apply the new strategy through awareness and field follow-up. |
 | تنفيذ مبادرات التحوّل على مستوى الفروع ومواءمة إجراءاتها مع الاستراتيجية الجديدة. | Implemented branch-level transformation initiatives and aligned branch procedures with the new strategy. |
 | تنفيذ أنشطة التواصل والتوعية ونقل المعرفة لدعم تبنّي الموظفين للتغيير. | Delivered communication, awareness and knowledge-transfer activities to support employee adoption of change. |
 | الحد من مقاومة التغيير عبر زيارات ميدانية منتظمة، وتحديد التحديات، وتوجيه فرق الفروع. | Reduced resistance to change through regular field visits, identification of challenges and guidance to branch teams. |
@@ -121,12 +121,12 @@
 | منصة تجريبية | Demonstration platform |
 | 2026 | 2026 |
 
-### تصميم نموذج تشغيلي لتوظيف الذكاء الاصطناعي في الخدمات
+### إعادة تصميم النموذج التشغيلي لخدمات الإدارة العامة للمحاماة بتوظيف الذكاء الاصطناعي
 | العربية | English |
 |---|---|
-| تصميم نموذج تشغيلي لتوظيف الذكاء الاصطناعي في الخدمات | AI-Enabled Operating Model for Services |
-| تصميم نموذج أولي لنموذج تشغيلي يجمع بيانات القطاع في مكان واحد، ويعيد تصميم الخدمات من خلال توظيف الذكاء الاصطناعي. | Design of a prototype operating model that brings the sector’s data together in one place and redesigns services through the use of AI. |
-| تصميم تشغيلي | Operating design |
+| إعادة تصميم النموذج التشغيلي لخدمات الإدارة العامة للمحاماة بتوظيف الذكاء الاصطناعي | AI-Enabled Redesign of the Operating Model for the General Directorate of Legal Profession Services |
+| إعادة تصميم النموذج التشغيلي لخدمات الإدارة العامة للمحاماة بتوظيف الذكاء الاصطناعي، بما يتيح للمستفيد تقديم الطلب نصًا، وجلب البيانات من الجهات ذات العلاقة، والفحص النظامي للطلب، ومتابعته. | Redesign of the operating model for the General Directorate of Legal Profession’s services using AI, enabling beneficiaries to submit requests in free text, retrieve data from the relevant entities, run a regulatory check and track the request. |
+| نموذج تجريبي | Prototype |
 | 2026 | 2026 |
 
 ### دراسة تفصيلية للنظر في تزايد عدد المحامين المرخصين
@@ -181,7 +181,7 @@
 | العربية | English |
 |---|---|
 | منهجية الخطة التنفيذية لتمكين المحاكم | Courts Empowerment Execution Plan Methodology |
-| منهجية وخطة تفصيلية لزيارات تمكين المحاكم ضمن محفظة القضاء، معتمدتان من وكيل الوزارة للشؤون القضائية. تستهدف المحاكم وفق مؤشرات العمليات وتذاكر الدعم، وتُنظَّم على ثلاث مراحل: قبل الزيارة (التوعية وتحديد التحديات)، وأثناءها (الدعم ونقل المعرفة)، وبعدها (التحسين ومتابعة الأداء). وتشمل الخطة تصنيف المحاكم المستهدفة حسب المناطق، والغرض من كل زيارة وأثرها المتوقع، وبطاقة اعتماد الزيارة. | An execution methodology and detailed plan for court-empowerment visits under the Judiciary Portfolio, approved by the Deputy Minister for Judicial Affairs. Courts are targeted using operational indicators and support tickets, and the work runs in three phases: before the visit (awareness and identifying challenges), during it (support and knowledge transfer), and after it (improvement and performance follow-up). The plan classifies target courts by region and sets the purpose and expected impact of each visit, with a visit-approval card. |
+| منهجية وخطة تفصيلية لزيارات تمكين المحاكم ضمن محفظة القضاء، معتمدتان من وكيل الوزارة للشؤون القضائية. تستهدف المحاكم وفق مؤشرات العمليات وتذاكر الدعم، وتُنظَّم على ثلاث مراحل: قبل الزيارة (التوعية وتحديد التحديات)، وأثناءها (الدعم ونقل المعرفة)، وبعدها (قياس أثر الزيارة وتحليل نتائجها، وتقديم توصيات التحسين، ومتابعة الأداء). وتشمل الخطة تصنيف المحاكم المستهدفة حسب المناطق، والغرض من كل زيارة وأثرها المتوقع، وبطاقة اعتماد الزيارة. | An execution methodology and detailed plan for court-empowerment visits under the Judiciary Portfolio, approved by the Deputy Minister for Judicial Affairs. Courts are targeted using operational indicators and support tickets, and the work runs in three phases: before the visit (awareness and identifying challenges), during it (support and knowledge transfer), and after it (measuring and analysing the visit’s impact, recommending improvements and following up performance). The plan classifies target courts by region and sets the purpose and expected impact of each visit, with a visit-approval card. |
 | منهجية — معتمد من وكيل الوزارة للشؤون القضائية | Methodology — Approved by the Deputy Minister for Judicial Affairs |
 | 2024 | 2024 |
 
