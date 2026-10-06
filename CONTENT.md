@@ -105,6 +105,14 @@
 |---|---|
 | منصات رقمية ومنهجيات عمل ودراسات معتمدة من القيادة العليا. | Digital platforms, methodologies and studies approved by senior leadership. |
 
+### الأداة المساعدة لتمكين الظهور الإعلامي للمحامين
+| العربية | English |
+|---|---|
+| الأداة المساعدة لتمكين الظهور الإعلامي للمحامين | Lawyers’ Media Appearance Enablement Tool |
+| أداة رقمية ضمن مشروع «الإطار التنظيمي للظهور الإعلامي والإعلاني للمحامين»، توظّف الذكاء الاصطناعي في فحص المحتوى الإعلامي والإعلاني قبل نشره، وتُصدر توصيات مستندة إلى نظام المحاماة ولائحته التنفيذية وقواعد السلوك المهني. | A digital tool under the “Regulatory Framework for Lawyers’ Media and Advertising Appearance” project that applies AI to review media and advertising content before publication and issues recommendations based on the Law Practice Law, its Implementing Regulations and the Code of Professional Conduct. |
+| منصة | Platform |
+| 2026 | 2026 |
+
 ### منصة قاعدة بيانات الإدارة العامة للمحاماة
 | العربية | English |
 |---|---|
@@ -119,14 +127,6 @@
 | تصميم نموذج تشغيلي لتوظيف الذكاء الاصطناعي في خدمات الإدارة العامة للمحاماة | AI-Enabled Operating Model for the Directorate’s Services |
 | تصميم نموذج تشغيلي لتوظيف الذكاء الاصطناعي في تقديم خدمات الإدارة العامة للمحاماة، من خلال «مساعد ناجز» قناةً موحّدة للمستفيدين تتيح تقديم الطلب نصًا، وجلب البيانات من الجهات ذات العلاقة، والفحص النظامي للطلب، ومتابعته. ويعمل نسخةً تجريبية للعرض. | Design of an operating model applying AI to the delivery of the Directorate’s services, through the “Najiz Assistant” as a single channel for beneficiaries to submit requests in free text, retrieve data from the relevant entities, run a regulatory eligibility check and track the request. It runs as a demonstration version. |
 | تصميم تشغيلي | Operating design |
-| 2026 | 2026 |
-
-### الأداة المساعدة لتمكين الظهور الإعلامي للمحامين
-| العربية | English |
-|---|---|
-| الأداة المساعدة لتمكين الظهور الإعلامي للمحامين | Lawyers’ Media Appearance Enablement Tool |
-| أداة رقمية ضمن مشروع «الإطار التنظيمي للظهور الإعلامي والإعلاني للمحامين»، توظّف الذكاء الاصطناعي في فحص المحتوى الإعلامي والإعلاني قبل نشره، وتُصدر توصيات مستندة إلى نظام المحاماة ولائحته التنفيذية وقواعد السلوك المهني. | A digital tool under the “Regulatory Framework for Lawyers’ Media and Advertising Appearance” project that applies AI to review media and advertising content before publication and issues recommendations based on the Law Practice Law, its Implementing Regulations and the Code of Professional Conduct. |
-| منصة | Platform |
 | 2026 | 2026 |
 
 ### دراسة تفصيلية للنظر في تزايد عدد المحامين المرخصين
