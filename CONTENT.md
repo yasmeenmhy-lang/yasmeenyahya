@@ -6,7 +6,7 @@
 | العربية | English |
 |---|---|
 | ياسمين بن يحيى | Yasmeen M. Bin Yahya |
-| التحوّل وإدارة وتمكين التغيير | Transformation, Change Management & Enablement |
+| خبير التحول وتمكين التغيير | Transformation & Change Enablement Expert |
 | خبرة في تمكين التحول وإدارة التغيير. | Experience in transformation enablement and change management. |
 
 ## النبذة
@@ -73,7 +73,7 @@
 | برنامج تطوير وزارة الحرس الوطني | Ministry of National Guard Development Program (MNGDP) |
 | يناير 2020 – سبتمبر 2022 | Jan 2020 – Sep 2022 |
 | المشاركة ضمن فريق العمل في تطوير استراتيجية مركز التميّز لإدارة التغيير، ومتابعة أنشطة المركز خلال مرحلة الدراسة التفصيلية لضمان حوكمة التغيير في المشاريع. | Contributing, as a team member, to the Change Center of Excellence (COE) strategy, and following up COE activities through the deep-dive phase to ensure change governance across projects. |
-| تطوير حزمة أدوات مركز التميّز لتقييم أثر التغيير والجاهزية والمخاطر وسهولة الانتقال، معتمدة من الرئيس التنفيذي للبرنامج. | Developed the COE toolkit suite for change impact, readiness, risk and ease-of-transition assessments, approved by the Program CEO. |
+| تصميم وتطوير أدوات مركز التميّز لإدارة التغيير، ومنها أداة تقييم أثر التغيير وأداة تقييم الجاهزية للتغيير المرتبطتان ببوابات المحفظة، معتمدة من الرئيس التنفيذي للبرنامج. | Designed and developed the COE change management tools, including the Change Impact Assessment and Change Readiness Assessment tools linked to portfolio gates, approved by the Program CEO. |
 | وضع معايير القبول الخاصة بالمركز وتضمينها في مراجعات بوابات المحفظة. | Established COE acceptance criteria and embedded them in portfolio gate reviews. |
 | تقييم الأثر والجاهزية للتغيير في مرحلة التصميم، ورفع النتائج إلى الإدارة العليا. | Assessed change impact and readiness in the design phase and submitted the results to top management. |
 | دمج مخرجات المركز وخطته التنفيذية في ميثاق تحوّل الحرس الوطني ضمن فريق الإشراف. | Integrated COE outputs and its implementation plan into the MNG Transformation Charter as part of the oversight team. |
@@ -87,10 +87,10 @@
 | 2019 | 2019 |
 | إلقاء محاضرات مقرر إدارة المبيعات لطلاب وطالبات مرحلة البكالوريوس. | Delivered lectures in the Sales Management course to male and female undergraduate students. |
 
-### قائدة تحوّل — البنك العربي الوطني
+### قائد التحول — البنك العربي الوطني
 | العربية | English |
 |---|---|
-| قائدة تحوّل | Transformation Leader |
+| قائد التحول | Transformation Leader |
 | البنك العربي الوطني | Arab National Bank (ANB) |
 | سبتمبر 2008 – أبريل 2014 | Sep 2008 – Apr 2014 |
 | المشاركة ضمن فريق التحوّل في تنفيذ برنامج تحوّل الفروع على مستوى البنك، ومتابعة فروع السيدات في التوعية بالاستراتيجية الجديدة وتبنّيها وتطبيقها. | Member of the bank-wide transformation team implementing the branch transformation program, following up ladies' branches on awareness, adoption and implementation of the new strategy. |
@@ -197,7 +197,7 @@
 | العربية | English |
 |---|---|
 | أدوات مركز التميّز لإدارة التغيير — برنامج تطوير وزارة الحرس الوطني | Change Center of Excellence Toolkits — MNGDP |
-| حزمة أدوات إدارة التغيير معتمدة من الرئيس التنفيذي للبرنامج، مع معايير قبول متوائمة مع مراجعات بوابات المحفظة، ودمج المخرجات في ميثاق التحوّل. | A change management toolkit suite approved by the Program CEO, with acceptance criteria aligned to portfolio gate reviews and outputs integrated into the Transformation Charter. |
+| تصميم وتطوير أدوات إدارة التغيير لمركز التميّز، معتمدة من الرئيس التنفيذي للبرنامج، ومرتبطة ببوابات المحفظة. وتشمل أداة تقييم أثر التغيير، التي تقيس حجم التغيير وطبيعته ومستوى تحمّل وحدات الأعمال، وتحلّل الأثر وسهولة الانتقال وتُخرج لوحات متابعة وخرائط حرارية؛ وأداة تقييم الجاهزية للتغيير، وهي استبانة باللغتين مبنية على نموذج ADKAR، تُطبَّق في مراحل التصميم وما قبل الإطلاق وما بعده. | Design and development of the Change Center of Excellence tools, approved by the Program CEO and linked to portfolio gates. They include the Change Impact Assessment tool, which measures the size and nature of change and business-area tolerance, analyses impact and ease of transition, and produces dashboards and heat maps; and the Change Readiness Assessment tool, a bilingual ADKAR-based survey applied at the design, pre-launch and post-launch stages. |
 | معتمدة من الرئيس التنفيذي للبرنامج | Approved by the Program CEO |
 | 2020–2022 | 2020–2022 |
 
