@@ -85,7 +85,7 @@
 | محاضرة جامعية غير متفرّغة | Part-time Undergraduate Lecturer |
 | جامعة اليمامة | Al Yamamah University |
 | 2019 | 2019 |
-| تدريس مقرر إدارة المبيعات لطلاب وطالبات مرحلة البكالوريوس. | Taught the Sales Management course to male and female undergraduate sections. |
+| إلقاء محاضرات مقرر إدارة المبيعات لطلاب وطالبات مرحلة البكالوريوس. | Delivered lectures in the Sales Management course to male and female undergraduate students. |
 
 ### قائدة تحوّل — البنك العربي الوطني
 | العربية | English |
