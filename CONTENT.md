@@ -18,8 +18,8 @@
 | العربية | English |
 |---|---|
 | 12+ عامًا من الخبرة | 12+ years of experience |
-| 3 منهجيات معتمدة | 3 approved methodologies |
 | 12 مشروعًا ومخرجًا | 12 projects & deliverables |
+| 5 مخرجات معتمدة | 5 approved deliverables |
 | 3 شهادات مهنية في إدارة التغيير | 3 professional certifications in change management |
 
 ## مجالات العمل
@@ -53,7 +53,7 @@
 | مدير إدارة منافع البرامج والمشاريع | Director of Programs & Projects Benefits Management |
 | وزارة العدل – مكتب تحقيق الرؤية | Ministry of Justice – Vision Realization Office (VRO) |
 | سبتمبر 2022 – حتى الآن | Sep 2022 – Present |
-| إدارة تمكين منافع البرامج والمشاريع في مكتب تحقيق الرؤية، بما يشمل التحول الرقمي ودعم القرار وإدارة التغيير. ويتضمن ذلك تصميم وتطوير حلول رقمية قائمة على البيانات والذكاء الاصطناعي للإدارة العامة للمحاماة، وإعداد الخطة التنفيذية لتطوير قطاع المحاماة، وإعداد الدراسات والتقارير الداعمة لقرارات معالي الوزير والقيادة العليا، وتطوير منهجية تمكين المحاكم، ثم منهجية استدامة المشاريع مع تدريب منسوبي الوزارة ومديري المشاريع عليها. | Managing programmes and projects benefits enablement at the Vision Realization Office, covering digital transformation, decision support and change management. This includes designing and developing data- and AI-driven digital solutions for the General Directorate of Legal Profession, preparing the legal profession sector execution plan, producing studies and reports that inform decisions of the Minister and senior leadership, developing the courts empowerment methodology, and earlier the project sustainability methodology together with training Ministry staff and project managers on it. |
+| إدارة تمكين منافع البرامج والمشاريع. بدأ العمل بتطوير منهجية استدامة المشاريع وتدريب منسوبي الوزارة ومديري المشاريع عليها، ثم منهجية تمكين المحاكم، وامتد لاحقًا إلى إعداد الدراسات والتقارير الداعمة لقرارات معالي الوزير والقيادة العليا، وإعداد الخطة التنفيذية لتطوير قطاع المحاماة، وتصميم وتطوير حلول رقمية قائمة على البيانات والذكاء الاصطناعي للإدارة العامة للمحاماة. | Managing programmes and projects benefits enablement. The work began with the project sustainability methodology and training Ministry staff and project managers on it, followed by the courts empowerment methodology, and later extended to studies and reports informing decisions of the Minister and senior leadership, the legal profession sector execution plan, and the design and development of data- and AI-driven digital solutions for the General Directorate of Legal Profession. |
 | تصميم وتطوير حلول رقمية للإدارة العامة للمحاماة، منها الأداة المساعدة لتمكين الظهور الإعلامي للمحامين، ومنصة قاعدة البيانات، ونموذج تشغيلي لتوظيف الذكاء الاصطناعي في تقديم الخدمات. | Designed and developed digital solutions for the General Directorate of Legal Profession, including the Lawyers’ Media Appearance Enablement Tool, the database platform and an AI-enabled operating model for service delivery. |
 | إعداد «دراسة تفصيلية للنظر في تزايد عدد المحامين المرخصين»، معتمدة من معالي وزير العدل. | Prepared the Detailed Study on the Increase in the Number of Licensed Lawyers, approved by the Minister of Justice. |
 | إعداد الخطة التنفيذية لتطوير قطاع المحاماة استنادًا إلى تحليل الفجوات وخمس ورش عمل بالتعاون مع الهيئة السعودية للمحامين بمشاركة نحو 82 محاميًا، معتمدة من معالي وزير العدل. | Developed the legal profession sector execution plan based on a gap analysis and five workshops held with the Saudi Bar Association with around 82 lawyers, approved by the Minister of Justice. |
