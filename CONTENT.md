@@ -57,7 +57,7 @@
 | تصميم وتطوير حلول رقمية، منها الأداة المساعدة لتمكين الظهور الإعلامي للمحامين، ومنصة قاعدة البيانات، ونموذج تشغيلي لتوظيف الذكاء الاصطناعي في تقديم الخدمات. | Designed and developed digital solutions, including the Lawyers’ Media Appearance Enablement Tool, the database platform and an AI-enabled operating model for service delivery. |
 | إعداد «دراسة تفصيلية للنظر في تزايد عدد المحامين المرخصين»، معتمدة من معالي وزير العدل. | Prepared the Detailed Study on the Increase in the Number of Licensed Lawyers, approved by the Minister of Justice. |
 | إعداد الخطة التنفيذية لتطوير قطاع المحاماة استنادًا إلى تحليل الفجوات وخمس ورش عمل بالتعاون مع الهيئة السعودية للمحامين بمشاركة نحو 82 محاميًا، معتمدة من معالي وزير العدل. | Developed the legal profession sector execution plan based on a gap analysis and five workshops held with the Saudi Bar Association with around 82 lawyers, approved by the Minister of Justice. |
-| إعداد عرض الإدارة العامة للمحاماة في أربعة اجتماعات دورية متتالية مع معالي وزير العدل. | Prepared the General Directorate of Legal Profession’s presentation for four consecutive periodic meetings with H.E. the Minister of Justice. |
+| إعداد العروض التنفيذية لأربعة اجتماعات دورية متتالية مع معالي وزير العدل. | Prepared the executive presentations for four consecutive periodic meetings with H.E. the Minister of Justice. |
 | بناء تصوّر لقاء تعريفي لمكاتب المحاماة الأجنبية المرخصة بمشاركة الجهات الحكومية ذات العلاقة. | Developed the concept for an introductory forum for licensed foreign law firms with the relevant government entities. |
 | بناء تقرير لقياس الأثر العدلي والأداء المؤسسي في التقارير السنوية لرؤية السعودية 2030. | Developed a report for measuring judicial impact and institutional performance in the Saudi Vision 2030 annual reports. |
 | إعداد دراسة تنظيمية لتعزيز التنسيق المؤسسي في الوزارة، تشمل تحليل الفجوات والمقارنة المعيارية والهيكل المقترح ومؤشرات الأثر. | Prepared an organizational study on strengthening institutional coordination across the Ministry, covering gap analysis, benchmarking, a proposed structure and impact indicators. |
@@ -149,7 +149,7 @@
 | العربية | English |
 |---|---|
 | إعداد العروض التنفيذية للاجتماعات الدورية مع معالي وزير العدل | Executive Presentations for Periodic Meetings with H.E. the Minister of Justice |
-| إعداد عرض الإدارة العامة للمحاماة في أربعة اجتماعات دورية متتالية مع معالي وزير العدل، شاملًا هيكلة المحتوى وصياغة الرسائل الرئيسية وتصميم العرض. | Preparation of the General Directorate of Legal Profession’s presentation for four consecutive periodic meetings with H.E. the Minister of Justice, covering content structure, key messages and presentation design. |
+| إعداد العروض التنفيذية لأربعة اجتماعات دورية متتالية مع معالي وزير العدل، شاملًا هيكلة المحتوى وصياغة الرسائل الرئيسية وتصميم العرض. | Preparation of the executive presentations for four consecutive periodic meetings with H.E. the Minister of Justice, covering content structure, key messages and presentation design. |
 | عروض تنفيذية | Executive presentations |
 | 2025–2026 | 2025–2026 |
 
