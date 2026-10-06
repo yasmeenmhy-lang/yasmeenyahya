@@ -115,7 +115,14 @@
   .chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px} .chip{font-size:12px;padding:4px 10px;background:var(--card)}
 
   .contact-list{display:grid;gap:10px;margin-bottom:22px}
-  .contact-row{display:grid;grid-template-columns:130px minmax(0,1fr);gap:12px;align-items:center;padding:14px 18px;background:var(--pill);border-radius:10px}
+  .contact-row{display:grid;grid-template-columns:44px minmax(0,1fr);gap:14px;align-items:center;padding:14px 18px;background:var(--pill);border-radius:10px}
+  .contact-row .cbody{display:grid;grid-template-columns:130px minmax(0,1fr);gap:12px;align-items:center;min-width:0}
+  @media (max-width:640px){.contact-row .cbody{grid-template-columns:1fr;gap:4px}}
+  .cico{width:44px;height:44px;border-radius:11px;display:grid;place-items:center;flex:none}
+  .cico svg{width:22px;height:22px;fill:none;stroke:#fff;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round} .cico svg.fill{fill:#fff;stroke:none}
+  html[dir=rtl] .contact-row .contact-value[dir=ltr]{text-align:right}
+  @media (max-width:640px){.contact-row .contact-value{font-size:13.5px} .contact-row .contact-value[dir=ltr]{white-space:nowrap;overflow-wrap:normal}}
+  .cico-mail{background:#ea4335} .cico-in{background:#0a66c2} .cico-pin{background:var(--accent)}
   .contact-label{font-size:13.5px} .contact-value{color:var(--text);font-size:15px;font-weight:500;text-decoration:none;overflow-wrap:anywhere} a.contact-value:hover{color:var(--accent)}
   .form{display:grid;grid-template-columns:1fr 1fr;gap:12px} .form label{display:grid;gap:6px;font-size:13px} .form .full{grid-column:1/-1}
   .form input,.form textarea{width:100%;padding:12px 14px;border-radius:10px;border:1px solid var(--line);background:var(--pill);color:var(--text);font-size:14.5px;transition:border-color .2s var(--ease)} .form input:focus,.form textarea:focus{border-color:var(--accent);outline:none}
@@ -129,7 +136,7 @@
     .main{min-width:0} .nav-bar{position:static;border-radius:24px;flex-wrap:wrap;justify-content:center} .nav-list{flex:1 1 100%;flex-wrap:wrap;justify-content:center} .nav-list li{flex:none} .nav-list a{padding:9px 12px;font-size:13.5px} .controls{border:0;padding:0}
     .figs{grid-template-columns:repeat(2,minmax(0,1fr))} .grid2{grid-template-columns:1fr} .proj{grid-template-columns:1fr} .cert-grid{grid-template-columns:1fr} .proj-img{order:-1} .gal .thumbs{grid-template-columns:repeat(3,minmax(0,1fr))} .form{grid-template-columns:1fr}
   }
-  @media (max-width:480px){ .side{grid-template-columns:1fr;justify-items:center;text-align:center} .portrait{max-width:220px} .hero-tags{justify-content:center} .contact-row{grid-template-columns:1fr} }
+  @media (max-width:480px){ .side{grid-template-columns:1fr;justify-items:center;text-align:center} .portrait{max-width:220px} .hero-tags{justify-content:center} .contact-row{grid-template-columns:40px minmax(0,1fr);gap:12px;padding:12px 14px} .cico{width:40px;height:40px} }
   .org-logo.badge{width:60px;height:60px;border-radius:14px;background:#fff;padding:3px} .badge-link{flex:none;display:block;transition:transform .25s var(--ease)} .badge-link:hover{transform:scale(1.06)}
   .entry-title a{color:inherit;text-decoration:none} .entry-title a:hover{color:var(--accent)}
   .verified{display:inline-flex;align-items:center;gap:5px;font-size:11px;color:#3aa876;margin:2px 0 4px} .verified svg{width:14px;height:14px;stroke:currentColor;fill:none;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round}
@@ -354,9 +361,9 @@
   <section class="pane" id="contact" aria-labelledby="contact-title">
     <div class="block"><span class="sec-line" aria-hidden="true"></span><h2 class="sec-title" id="contact-title" data-i18n="contact.title">التواصل</h2>
       <div class="contact-list">
-        <div class="contact-row"><span class="contact-label" data-i18n="contact.email">البريد الإلكتروني</span><a class="contact-value latin" href="mailto:Yasmeen.mhy@gmail.com">Yasmeen.mhy@gmail.com</a></div>
-        <div class="contact-row"><span class="contact-label" data-i18n="contact.location">الموقع</span><span class="contact-value" data-i18n="contact.locationValue">الرياض، المملكة العربية السعودية</span></div>
-        <div class="contact-row"><span class="contact-label latin">LinkedIn</span><a class="contact-value latin" dir="ltr" href="https://www.linkedin.com/in/yasmeen-bin-yahya-53801a4b" target="_blank" rel="noopener noreferrer"><span data-i18n="contact.linkedinValue">linkedin.com/in/yasmeen-bin-yahya-53801a4b</span> <span class="visually-hidden" data-i18n="newTab">(يُفتح في تبويب جديد)</span></a></div>
+        <div class="contact-row"><i class="cico cico-mail" aria-hidden="true"><svg viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg></i><div class="cbody"><span class="contact-label" data-i18n="contact.email">البريد الإلكتروني</span><a class="contact-value latin" href="mailto:Yasmeen.mhy@gmail.com">Yasmeen.mhy@gmail.com</a></div></div>
+        <div class="contact-row"><i class="cico cico-pin" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M12 21s-6-5.3-6-10a6 6 0 0 1 12 0c0 4.7-6 10-6 10Z"/><circle cx="12" cy="11" r="2.3"/></svg></i><div class="cbody"><span class="contact-label" data-i18n="contact.location">الموقع</span><span class="contact-value" data-i18n="contact.locationValue">الرياض، المملكة العربية السعودية</span></div></div>
+        <div class="contact-row"><i class="cico cico-in" aria-hidden="true"><svg viewBox="0 0 24 24" class="fill"><path d="M6.94 8.5H3.56V20h3.38zM5.25 3a1.97 1.97 0 1 0 0 3.94 1.97 1.97 0 0 0 0-3.94M20.44 13.4c0-3.1-1.65-4.9-4.3-4.9-1.6 0-2.6.88-3.05 1.6V8.5H9.7V20h3.38v-6.1c0-1.6.6-2.62 2-2.62 1.33 0 1.98.93 1.98 2.62V20h3.38z"/></svg></i><div class="cbody"><span class="contact-label latin">LinkedIn</span><a class="contact-value latin" dir="ltr" href="https://www.linkedin.com/in/yasmeen-bin-yahya-53801a4b" target="_blank" rel="noopener noreferrer"><span data-i18n="contact.linkedinValue">linkedin.com/in/yasmeen-bin-yahya</span> <span class="visually-hidden" data-i18n="newTab">(يُفتح في تبويب جديد)</span></a></div></div>
       </div>
       <h3 class="block-title" data-i18n="contact.form">إرسال رسالة</h3>
       <form class="form" id="contact-form" novalidate>
@@ -503,7 +510,7 @@
   "contact.copyLabel": "Copy email address",
   "contact.location": "Location",
   "contact.locationValue": "Riyadh, Saudi Arabia",
-  "contact.linkedinValue": "linkedin.com/in/yasmeen-bin-yahya-53801a4b",
+  "contact.linkedinValue": "linkedin.com/in/yasmeen-bin-yahya",
   "newTab": "(opens in a new tab)",
   "footer.rights": "All rights reserved.",
   "footer.top": "Back to top",
