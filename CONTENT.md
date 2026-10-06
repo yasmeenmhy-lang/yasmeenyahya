@@ -56,15 +56,15 @@
 | إعداد الخطة التنفيذية لتطوير قطاع المحاماة، وتطوير حلول رقمية للإدارة العامة للمحاماة، والإشراف على منهجيتَي تمكين المحاكم واستدامة المشاريع، لضمان قيمة مضافة قابلة للقياس تستمر بعد تسليم المشاريع. | Preparing the legal profession sector execution plan, developing digital solutions for the General Directorate of Legal Profession, and overseeing the courts empowerment and project sustainability methodologies to deliver measurable added value that continues after project handover. |
 | تصميم وتطوير حلول رقمية للإدارة العامة للمحاماة، منها الأداة المساعدة لتمكين الظهور الإعلامي للمحامين، ومنصة قاعدة البيانات، ونموذج تشغيلي لتوظيف الذكاء الاصطناعي في تقديم الخدمات. | Designed and developed digital solutions for the General Directorate of Legal Profession, including the Lawyers’ Media Appearance Enablement Tool, the database platform and an AI-enabled operating model for service delivery. |
 | إعداد الخطة التنفيذية لتطوير قطاع المحاماة استنادًا إلى تحليل الفجوات وخمس ورش عمل بالتعاون مع الهيئة السعودية للمحامين بمشاركة نحو 82 محاميًا، معتمدة من معالي وزير العدل. | Developed the legal profession sector execution plan based on a gap analysis and five workshops held with the Saudi Bar Association with around 82 lawyers, approved by the Minister of Justice. |
-| تطوير منهجية استدامة مشاريع الوزارة ومكتب تحقيق الرؤية، معتمدة من معالي وزير العدل، وتطبيقها على مشاريع عامَي 2022 و2023. | Developed the MOJ–VRO Project Sustainability Methodology, approved by the Minister of Justice, and applied it to the 2022 and 2023 projects. |
-| إعداد المنهجية التنفيذية لتمكين المحاكم وخطتها التفصيلية، معتمدتين من وكيل الوزارة للشؤون القضائية، والمشاركة في زيارات التمكين الميدانية. | Prepared the courts empowerment execution methodology and its detailed plan, approved by the Deputy Minister for Judicial Affairs, and took part in the field empowerment visits. |
-| إعداد الحقيبة التدريبية ودليل منهجية الاستدامة، وتدريب منسوبي الوزارة ومديري المشاريع على تطبيقها. | Prepared the sustainability training kit and methodology handbook, and trained MOJ staff and project managers on their application. |
-| تصميم بوابات ضمان القيمة وتطبيقها، لضمان تحقيق القيمة المضافة قبل التسليم واستمرارية الأعمال بعد الإغلاق. | Designed and applied value-assurance gates to ensure added value before handover and business continuity after closure. |
-| إعداد عرض الإدارة العامة للمحاماة في أربعة اجتماعات دورية متتالية مع معالي وزير العدل. | Prepared the General Directorate of Legal Profession’s presentation for four consecutive periodic meetings with H.E. the Minister of Justice. |
 | إعداد «دراسة تفصيلية للنظر في تزايد عدد المحامين المرخصين»، معتمدة من معالي وزير العدل. | Prepared the Detailed Study on the Increase in the Number of Licensed Lawyers, approved by the Minister of Justice. |
-| إعداد دراسة تنظيمية لتعزيز التنسيق المؤسسي في الوزارة، تشمل تحليل الفجوات والمقارنة المعيارية والهيكل المقترح ومؤشرات الأثر. | Prepared an organizational study on strengthening institutional coordination across the Ministry, covering gap analysis, benchmarking, a proposed structure and impact indicators. |
 | بناء تقرير لقياس الأثر العدلي والأداء المؤسسي في التقارير السنوية لرؤية السعودية 2030. | Developed a report for measuring judicial impact and institutional performance in the Saudi Vision 2030 annual reports. |
 | بناء تصوّر لقاء تعريفي لمكاتب المحاماة الأجنبية المرخصة بمشاركة الجهات الحكومية ذات العلاقة. | Developed the concept for an introductory forum for licensed foreign law firms with the relevant government entities. |
+| إعداد عرض الإدارة العامة للمحاماة في أربعة اجتماعات دورية متتالية مع معالي وزير العدل. | Prepared the General Directorate of Legal Profession’s presentation for four consecutive periodic meetings with H.E. the Minister of Justice. |
+| إعداد دراسة تنظيمية لتعزيز التنسيق المؤسسي في الوزارة، تشمل تحليل الفجوات والمقارنة المعيارية والهيكل المقترح ومؤشرات الأثر. | Prepared an organizational study on strengthening institutional coordination across the Ministry, covering gap analysis, benchmarking, a proposed structure and impact indicators. |
+| إعداد المنهجية التنفيذية لتمكين المحاكم وخطتها التفصيلية، معتمدتين من وكيل الوزارة للشؤون القضائية، والمشاركة في زيارات التمكين الميدانية. | Prepared the courts empowerment execution methodology and its detailed plan, approved by the Deputy Minister for Judicial Affairs, and took part in the field empowerment visits. |
+| تصميم بوابات ضمان القيمة وتطبيقها، لضمان تحقيق القيمة المضافة قبل التسليم واستمرارية الأعمال بعد الإغلاق. | Designed and applied value-assurance gates to ensure added value before handover and business continuity after closure. |
+| إعداد الحقيبة التدريبية ودليل منهجية الاستدامة، وتدريب منسوبي الوزارة ومديري المشاريع على تطبيقها. | Prepared the sustainability training kit and methodology handbook, and trained MOJ staff and project managers on their application. |
+| تطوير منهجية استدامة مشاريع الوزارة ومكتب تحقيق الرؤية، معتمدة من معالي وزير العدل، وتطبيقها على مشاريع عامَي 2022 و2023. | Developed the MOJ–VRO Project Sustainability Methodology, approved by the Minister of Justice, and applied it to the 2022 and 2023 projects. |
 
 ### تمكين إدارة التغيير — برنامج تطوير وزارة الحرس الوطني
 | العربية | English |
@@ -129,6 +129,14 @@
 | منصة | Platform |
 | 2026 | 2026 |
 
+### استراتيجية تطوير قطاع المحاماة والخطة التنفيذية
+| العربية | English |
+|---|---|
+| استراتيجية تطوير قطاع المحاماة والخطة التنفيذية | Legal Profession Sector Development Strategy & Execution Plan |
+| إعداد استراتيجية تطوير قطاع المحاماة وخطتها التنفيذية، معتمدة من معالي وزير العدل، استنادًا إلى أربعة أسس تنظيمية: الوضوح والشفافية، والمؤسسية وتعميق المهنة وتمكينها، وتأهيل الأفراد وحفظ حقوق العملاء، والعدالة الوقائية. وشمل العمل تحليل الفجوات والمقارنة المعيارية الدولية، وعقد خمس ورش عمل بالتعاون مع الهيئة السعودية للمحامين بمشاركة نحو 82 محاميًا، للتحقق من الفجوات المرصودة ورصد فجوات جديدة وترتيب الأولويات وفق الأثر وإمكانات التنفيذ، وانتهى إلى خطة المشاريع التطويرية ذات الأولوية. | Development of the legal profession sector strategy and execution plan, approved by the Minister of Justice, built on four regulatory pillars: clarity and transparency; institutionalisation, professional depth and enablement; individual capability and protection of client rights; and preventive justice. The work covered gap analysis and international benchmarking, and five workshops held with the Saudi Bar Association, attended by around 82 lawyers, to validate identified gaps, capture new ones and prioritise them by impact and feasibility, resulting in the priority development project plan. |
+| خطة تنفيذية — معتمد من معالي وزير العدل | Execution plan — Approved by the Minister of Justice |
+| 2026 | 2026 |
+
 ### دراسة تفصيلية للنظر في تزايد عدد المحامين المرخصين
 | العربية | English |
 |---|---|
@@ -160,14 +168,6 @@
 | إعداد عرض الإدارة العامة للمحاماة في أربعة اجتماعات دورية متتالية مع معالي وزير العدل، شاملًا هيكلة المحتوى وصياغة الرسائل الرئيسية وتصميم العرض. | Preparation of the General Directorate of Legal Profession’s presentation for four consecutive periodic meetings with H.E. the Minister of Justice, covering content structure, key messages and presentation design. |
 | عروض تنفيذية | Executive presentations |
 | 2025–2026 | 2025–2026 |
-
-### استراتيجية تطوير قطاع المحاماة والخطة التنفيذية
-| العربية | English |
-|---|---|
-| استراتيجية تطوير قطاع المحاماة والخطة التنفيذية | Legal Profession Sector Development Strategy & Execution Plan |
-| إعداد استراتيجية تطوير قطاع المحاماة وخطتها التنفيذية، معتمدة من معالي وزير العدل، استنادًا إلى أربعة أسس تنظيمية: الوضوح والشفافية، والمؤسسية وتعميق المهنة وتمكينها، وتأهيل الأفراد وحفظ حقوق العملاء، والعدالة الوقائية. وشمل العمل تحليل الفجوات والمقارنة المعيارية الدولية، وعقد خمس ورش عمل بالتعاون مع الهيئة السعودية للمحامين بمشاركة نحو 82 محاميًا، للتحقق من الفجوات المرصودة ورصد فجوات جديدة وترتيب الأولويات وفق الأثر وإمكانات التنفيذ، وانتهى إلى خطة المشاريع التطويرية ذات الأولوية. | Development of the legal profession sector strategy and execution plan, approved by the Minister of Justice, built on four regulatory pillars: clarity and transparency; institutionalisation, professional depth and enablement; individual capability and protection of client rights; and preventive justice. The work covered gap analysis and international benchmarking, and five workshops held with the Saudi Bar Association, attended by around 82 lawyers, to validate identified gaps, capture new ones and prioritise them by impact and feasibility, resulting in the priority development project plan. |
-| خطة تنفيذية — معتمد من معالي وزير العدل | Execution plan — Approved by the Minister of Justice |
-| 2026 | 2026 |
 
 ### دراسة تنظيمية لتعزيز التنسيق المؤسسي في وزارة العدل
 | العربية | English |
