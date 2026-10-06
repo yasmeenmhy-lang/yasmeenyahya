@@ -233,5 +233,5 @@
 | +966 55 440 6607 | +966 55 440 6607 |
 | linkedin.com/in/yasmeen-bin-yahya | linkedin.com/in/yasmeen-bin-yahya |
 | الرياض، المملكة العربية السعودية | Riyadh, Saudi Arabia |
-| yasmeenmhy-lang.github.io/yasmeenyahya | yasmeenmhy-lang.github.io/yasmeenyahya |
+| yasmeenyahya.com | yasmeenyahya.com |
 
