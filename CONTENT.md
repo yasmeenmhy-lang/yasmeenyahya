@@ -72,7 +72,7 @@
 | تمكين إدارة التغيير | Change Management Enablement |
 | برنامج تطوير وزارة الحرس الوطني | Ministry of National Guard Development Program (MNGDP) |
 | يناير 2020 – سبتمبر 2022 | Jan 2020 – Sep 2022 |
-| المشاركة في تطوير استراتيجية مركز التميّز لإدارة التغيير، وتنفيذ أنشطة إدارة التغيير ومتابعتها خلال مرحلة الدراسة التفصيلية لضمان حوكمة التغيير في المشاريع. | Contributed to the development of the Change Management Center of Excellence strategy, and executed and monitored change management activities throughout the detailed study phase to ensure change governance across projects. |
+| الإسهام في تطوير استراتيجية مركز التميّز لإدارة التغيير، وتنفيذ أنشطة إدارة التغيير ومتابعتها خلال مرحلة الدراسة التفصيلية للمشاريع، بما يضمن حوكمة التغيير واتساقه مع بوابات المحفظة. | Contributed to developing the Change Management Center of Excellence strategy, and delivered and monitored change management activities through the projects’ detailed study phase, ensuring change governance in line with portfolio gates. |
 | تصميم وتطوير أدوات مركز التميّز لإدارة التغيير، ومنها أداة تقييم أثر التغيير وأداة تقييم الجاهزية للتغيير المرتبطتان ببوابات المحفظة، معتمدة من الرئيس التنفيذي للبرنامج. | Designed and developed the COE change management tools, including the Change Impact Assessment and Change Readiness Assessment tools linked to portfolio gates, approved by the Program CEO. |
 | وضع معايير القبول الخاصة بالمركز وتضمينها في مراجعات بوابات المحفظة. | Established COE acceptance criteria and embedded them in portfolio gate reviews. |
 | تقييم الأثر والجاهزية للتغيير في مرحلة التصميم، ورفع النتائج إلى الإدارة العليا. | Assessed change impact and readiness in the design phase and submitted the results to top management. |
