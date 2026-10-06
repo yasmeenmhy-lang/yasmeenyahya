@@ -142,7 +142,7 @@
 |---|---|
 | استراتيجية تطوير قطاع المحاماة والخطة التنفيذية | Legal Profession Sector Development Strategy & Execution Plan |
 | إعداد استراتيجية تطوير قطاع المحاماة وخطتها التنفيذية، معتمدة من معالي وزير العدل، استنادًا إلى أربعة أسس تنظيمية: الوضوح والشفافية، والمؤسسية وتعميق المهنة وتمكينها، وتأهيل الأفراد وحفظ حقوق العملاء، والعدالة الوقائية. وشمل العمل تحليل الفجوات والمقارنة المعيارية الدولية، وعقد خمس ورش عمل بالتعاون مع الهيئة السعودية للمحامين بمشاركة نحو 82 محاميًا، للتحقق من الفجوات المرصودة ورصد فجوات جديدة وترتيب الأولويات وفق الأثر وإمكانات التنفيذ، وانتهى إلى خطة المشاريع التطويرية ذات الأولوية. | Development of the legal profession sector strategy and execution plan, approved by the Minister of Justice, built on four regulatory pillars: clarity and transparency; institutionalisation, professional depth and enablement; individual capability and protection of client rights; and preventive justice. The work covered gap analysis and international benchmarking, and five workshops held with the Saudi Bar Association, attended by around 82 lawyers, to validate identified gaps, capture new ones and prioritise them by impact and feasibility, resulting in the priority development project plan. |
-| خطة تنفيذية — معتمد من معالي وزير العدل | Execution plan — Approved by the Minister of Justice |
+| خطة تنفيذية | Execution plan |
 | 2026 | 2026 |
 
 ### إعداد العروض التنفيذية للاجتماعات الدورية مع معالي وزير العدل
