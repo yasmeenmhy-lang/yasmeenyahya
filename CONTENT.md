@@ -12,14 +12,14 @@
 ## النبذة
 | العربية | English |
 |---|---|
-| خبرة تتجاوز اثني عشر عامًا في تمكين التحول وإدارة التغيير، في القطاع المصرفي وبرامج التطوير الحكومية والقطاع العدلي. وتشمل إعداد الخطط التنفيذية، وقياس المنافع المتحققة، واستدامة القيمة بعد تسليم المشاريع. ومن أبرز المخرجات ثلاث منهجيات عمل: منهجية استدامة المشاريع، ومنهجية تمكين المحاكم، وأدوات مركز التميّز لإدارة التغيير. | More than twelve years of experience in transformation enablement and change management across banking, government development programs and the justice sector, covering the preparation of execution plans, measurement of realized benefits, and sustaining value after project handover. Key outputs include three methodologies: the project sustainability methodology, the courts empowerment methodology, and the Change Center of Excellence toolkits. |
+| خبرة تتجاوز اثني عشر عامًا في تمكين التحول وإدارة التغيير، في القطاع المصرفي وبرامج التطوير الحكومية والقطاع العدلي. وتشمل إعداد الخطط التنفيذية، وقياس المنافع المتحققة، واستدامة القيمة بعد تسليم المشاريع. ومن أبرز المخرجات ثلاث منهجيات معتمدة من القيادة: منهجية استدامة المشاريع، ومنهجية تمكين المحاكم، وأدوات مركز التميّز لإدارة التغيير. | More than twelve years of experience in transformation enablement and change management across banking, government development programs and the justice sector, covering the preparation of execution plans, measurement of realized benefits, and sustaining value after project handover. Key outputs include three leadership-approved methodologies: the project sustainability methodology, the courts empowerment methodology, and the Change Center of Excellence toolkits. |
 
 ## الأرقام الرئيسية
 | العربية | English |
 |---|---|
 | 12+ عامًا من الخبرة | 12+ years of experience |
 | 12 مشروعًا ومخرجًا | 12 projects & deliverables |
-| 3 منهجيات عمل | 3 methodologies |
+| 4 مخرجات معتمدة | 4 approved deliverables |
 | 3 شهادات مهنية في إدارة التغيير | 3 professional certifications in change management |
 
 ## مجالات العمل
@@ -28,7 +28,7 @@
 | الاستراتيجية والتنفيذ: إعداد الخطط التنفيذية والمبادرات وقياس أدائها. | Strategy & Delivery: Preparing execution plans and initiatives and measuring their performance. |
 | إدارة التغيير: تقييم الأثر والجاهزية، وإشراك أصحاب المصلحة، وتخطيط التواصل. | Change Management: Impact and readiness assessment, stakeholder engagement, and communication planning. |
 | تحقيق المنافع والاستدامة: إعداد منهجيات لاستدامة القيمة بعد تسليم المشاريع إلى الجهات المشغّلة. | Benefits & Sustainability: Developing methodologies to sustain value after handover to operating entities. |
-| دعم القرار التنفيذي: إعداد دراسات ومواد داعمة لقرارات القيادة العليا. | Executive Decision Support: Preparing studies and decision materials for senior leadership. |
+| دعم القرار التنفيذي: إعداد دراسات ومواد داعمة لقرارات القيادة العليا، منها دراسات معتمدة من معالي وزير العدل. | Executive Decision Support: Preparing studies and decision materials for senior leadership, including studies approved by the Minister of Justice. |
 
 ## الكفاءات
 | العربية | English |
@@ -53,18 +53,18 @@
 | مدير إدارة منافع البرامج والمشاريع | Director of Programs & Projects Benefits Management |
 | وزارة العدل – مكتب تحقيق الرؤية | Ministry of Justice – Vision Realization Office (VRO) |
 | سبتمبر 2022 – حتى الآن | Sep 2022 – Present |
-| إدارة تمكين منافع البرامج والمشاريع، بخبرة تجمع بين إدارة التغيير ودعم القرار والتحول الرقمي، ومخرجات تشمل منهجيات ودراسات وخططًا تنفيذية وحلولًا رقمية لتطوير قطاع المحاماة. | Managing programmes and projects benefits enablement, combining change management, decision support and digital transformation, with outputs spanning methodologies, studies, execution plans and digital solutions for the legal profession sector. |
+| إدارة تمكين منافع البرامج والمشاريع، بخبرة تجمع بين إدارة التغيير ودعم القرار والتحول الرقمي، ومخرجات معتمدة من القيادة العليا تشمل منهجيات ودراسات وخططًا تنفيذية وحلولًا رقمية لتطوير قطاع المحاماة. | Managing programmes and projects benefits enablement, combining change management, decision support and digital transformation, with leadership-approved outputs spanning methodologies, studies, execution plans and digital solutions for the legal profession sector. |
 | تصميم وتطوير حلول رقمية للإدارة العامة للمحاماة، منها الأداة المساعدة لتمكين الظهور الإعلامي للمحامين، ومنصة قاعدة البيانات، وإعادة تصميم النموذج التشغيلي بتوظيف الذكاء الاصطناعي. | Designed and developed digital solutions for the General Directorate of Legal Profession, including the Lawyers’ Media Appearance Enablement Tool, the database platform, and the redesign of the operating model using AI. |
-| إعداد «دراسة تفصيلية للنظر في تزايد عدد المحامين المرخصين». | Prepared the Detailed Study on the Increase in the Number of Licensed Lawyers. |
+| إعداد «دراسة تفصيلية للنظر في تزايد عدد المحامين المرخصين»، معتمدة من معالي وزير العدل. | Prepared the Detailed Study on the Increase in the Number of Licensed Lawyers, approved by the Minister of Justice. |
 | إعداد الخطة التنفيذية لتطوير قطاع المحاماة استنادًا إلى تحليل الفجوات وخمس ورش عمل بالتعاون مع الهيئة السعودية للمحامين بمشاركة نحو 82 محاميًا. | Developed the legal profession sector execution plan based on a gap analysis and five workshops held with the Saudi Bar Association with around 82 lawyers. |
 | إعداد العروض التنفيذية لأربعة اجتماعات دورية متتالية مع معالي وزير العدل. | Prepared the executive presentations for four consecutive periodic meetings with H.E. the Minister of Justice. |
 | بناء تصوّر لقاء تعريفي لمكاتب المحاماة الأجنبية المرخصة بمشاركة الجهات الحكومية ذات العلاقة. | Developed the concept for an introductory forum for licensed foreign law firms with the relevant government entities. |
 | بناء تقرير لقياس الأثر العدلي والأداء المؤسسي في التقارير السنوية لرؤية السعودية 2030. | Developed a report for measuring judicial impact and institutional performance in the Saudi Vision 2030 annual reports. |
 | إعداد دراسة تنظيمية لتعزيز التنسيق المؤسسي في الوزارة، تشمل تحليل الفجوات والمقارنة المعيارية والهيكل المقترح ومؤشرات الأثر. | Prepared an organizational study on strengthening institutional coordination across the Ministry, covering gap analysis, benchmarking, a proposed structure and impact indicators. |
-| إعداد المنهجية التنفيذية لتمكين المحاكم وخطتها التفصيلية، والمشاركة في زيارات التمكين الميدانية. | Prepared the courts empowerment execution methodology and its detailed plan, and took part in the field empowerment visits. |
+| إعداد المنهجية التنفيذية لتمكين المحاكم وخطتها التفصيلية، معتمدتين من وكيل الوزارة للشؤون القضائية، والمشاركة في زيارات التمكين الميدانية. | Prepared the courts empowerment execution methodology and its detailed plan, approved by the Deputy Minister for Judicial Affairs, and took part in the field empowerment visits. |
 | تصميم بوابات ضمان القيمة وتطبيقها، لضمان تحقيق القيمة المضافة قبل التسليم واستمرارية الأعمال بعد الإغلاق. | Designed and applied value-assurance gates to ensure added value before handover and business continuity after closure. |
 | إعداد الحقيبة التدريبية ودليل منهجية الاستدامة، وتدريب منسوبي الوزارة ومديري المشاريع على تطبيقها. | Prepared the sustainability training kit and methodology handbook, and trained MOJ staff and project managers on their application. |
-| تطوير منهجية استدامة مشاريع الوزارة ومكتب تحقيق الرؤية، وتطبيقها على مشاريع عامَي 2022 و2023. | Developed the MOJ–VRO Project Sustainability Methodology and applied it to the 2022 and 2023 projects. |
+| تطوير منهجية استدامة مشاريع الوزارة ومكتب تحقيق الرؤية، معتمدة من معالي وزير العدل، وتطبيقها على مشاريع عامَي 2022 و2023. | Developed the MOJ–VRO Project Sustainability Methodology, approved by the Minister of Justice, and applied it to the 2022 and 2023 projects. |
 
 ### تمكين إدارة التغيير — برنامج تطوير وزارة الحرس الوطني
 | العربية | English |
@@ -73,7 +73,7 @@
 | برنامج تطوير وزارة الحرس الوطني | Ministry of National Guard Development Program (MNGDP) |
 | يناير 2020 – سبتمبر 2022 | Jan 2020 – Sep 2022 |
 | المشاركة في تطوير استراتيجية مركز التميّز لإدارة التغيير، وتنفيذ أنشطة إدارة التغيير ومتابعتها خلال مرحلة الدراسة التفصيلية لضمان حوكمة التغيير في المشاريع. | Contributed to the development of the Change Management Center of Excellence strategy, and executed and monitored change management activities throughout the detailed study phase to ensure change governance across projects. |
-| تصميم وتطوير أدوات مركز التميّز لإدارة التغيير، ومنها أداة تقييم أثر التغيير وأداة تقييم الجاهزية للتغيير المرتبطتان ببوابات المحفظة. | Designed and developed the COE change management tools, including the Change Impact Assessment and Change Readiness Assessment tools linked to portfolio gates. |
+| تصميم وتطوير أدوات مركز التميّز لإدارة التغيير، ومنها أداة تقييم أثر التغيير وأداة تقييم الجاهزية للتغيير المرتبطتان ببوابات المحفظة، معتمدة من الرئيس التنفيذي للبرنامج. | Designed and developed the COE change management tools, including the Change Impact Assessment and Change Readiness Assessment tools linked to portfolio gates, approved by the Program CEO. |
 | وضع معايير القبول الخاصة بالمركز وتضمينها في مراجعات بوابات المحفظة. | Established COE acceptance criteria and embedded them in portfolio gate reviews. |
 | تقييم الأثر والجاهزية للتغيير في مرحلة التصميم، ورفع النتائج إلى الإدارة العليا. | Assessed change impact and readiness in the design phase and submitted the results to top management. |
 | دمج مخرجات المركز وخطته التنفيذية في ميثاق تحوّل الحرس الوطني ضمن فريق الإشراف. | Integrated COE outputs and its implementation plan into the MNG Transformation Charter as part of the oversight team. |
@@ -103,7 +103,7 @@
 ## المشاريع
 | العربية | English |
 |---|---|
-| منصات رقمية ومنهجيات عمل ودراسات وخطط تنفيذية. | Digital platforms, methodologies, studies and execution plans. |
+| منصات رقمية ومنهجيات عمل ودراسات معتمدة من القيادة العليا. | Digital platforms, methodologies and studies approved by senior leadership. |
 
 ### الأداة المساعدة لتمكين الظهور الإعلامي للمحامين
 | العربية | English |
@@ -134,7 +134,7 @@
 |---|---|
 | دراسة تفصيلية للنظر في تزايد عدد المحامين المرخصين | Detailed Study on the Increase in the Number of Licensed Lawyers |
 | دراسة تحليلية مقارنة لاتجاه التزايد في أعداد المحامين المرخصين وأثره التنظيمي والمهني، تحدد موقع المملكة معياريًا من حيث كثافة المحامين ومعدلات النمو وأنماط السوق مقارنةً بدول المقارنة، وتنتهي إلى توصيات تنفيذية في الدخول إلى المهنة والتصنيف والتطوير المهني المستمر. | A comparative analytical study of the growth in the number of licensed lawyers and its regulatory and professional impact. It benchmarks the Kingdom’s position on lawyer density, growth rates and market patterns against comparator countries, and concludes with executive recommendations on entry to the profession, classification and continuing professional development. |
-| دراسة | Study |
+| دراسة — معتمد من معالي وزير العدل | Study — Approved by the Minister of Justice |
 | 2026 | 2026 |
 
 ### الخطة التنفيذية لتطوير قطاع المحاماة
@@ -181,8 +181,8 @@
 | العربية | English |
 |---|---|
 | منهجية الخطة التنفيذية لتمكين المحاكم | Courts Empowerment Execution Plan Methodology |
-| منهجية وخطة تفصيلية لزيارات تمكين المحاكم ضمن محفظة القضاء. تستهدف المحاكم وفق مؤشرات العمليات وتذاكر الدعم، وتُنظَّم على ثلاث مراحل: قبل الزيارة (التوعية وتحديد التحديات)، وأثناءها (الدعم ونقل المعرفة)، وبعدها (قياس أثر الزيارة وتحليل نتائجها، وتقديم توصيات التحسين، ومتابعة الأداء). وتشمل الخطة تصنيف المحاكم المستهدفة حسب المناطق، والغرض من كل زيارة وأثرها المتوقع، وبطاقة اعتماد الزيارة. | An execution methodology and detailed plan for court-empowerment visits under the Judiciary Portfolio. Courts are targeted using operational indicators and support tickets, and the work runs in three phases: before the visit (awareness and identifying challenges), during it (support and knowledge transfer), and after it (measuring and analysing the visit’s impact, recommending improvements and following up performance). The plan classifies target courts by region and sets the purpose and expected impact of each visit, with a visit-approval card. |
-| منهجية | Methodology |
+| منهجية وخطة تفصيلية لزيارات تمكين المحاكم ضمن محفظة القضاء، معتمدتان من وكيل الوزارة للشؤون القضائية. تستهدف المحاكم وفق مؤشرات العمليات وتذاكر الدعم، وتُنظَّم على ثلاث مراحل: قبل الزيارة (التوعية وتحديد التحديات)، وأثناءها (الدعم ونقل المعرفة)، وبعدها (قياس أثر الزيارة وتحليل نتائجها، وتقديم توصيات التحسين، ومتابعة الأداء). وتشمل الخطة تصنيف المحاكم المستهدفة حسب المناطق، والغرض من كل زيارة وأثرها المتوقع، وبطاقة اعتماد الزيارة. | An execution methodology and detailed plan for court-empowerment visits under the Judiciary Portfolio, approved by the Deputy Minister for Judicial Affairs. Courts are targeted using operational indicators and support tickets, and the work runs in three phases: before the visit (awareness and identifying challenges), during it (support and knowledge transfer), and after it (measuring and analysing the visit’s impact, recommending improvements and following up performance). The plan classifies target courts by region and sets the purpose and expected impact of each visit, with a visit-approval card. |
+| منهجية — معتمد من وكيل الوزارة للشؤون القضائية | Methodology — Approved by the Deputy Minister for Judicial Affairs |
 | 2024 | 2024 |
 
 ### منهجية استدامة مشاريع وزارة العدل ومكتب تحقيق الرؤية
@@ -190,15 +190,15 @@
 |---|---|
 | منهجية استدامة مشاريع وزارة العدل ومكتب تحقيق الرؤية | MOJ–VRO Project Sustainability Methodology |
 | منهجية لضمان تحقق القيمة المضافة واستمرارية الأعمال بعد تسليم المشاريع، طُبّقت على مشاريع عامَي 2022 و2023. وتشمل بطاقة الاستدامة وضمان تحقيق الأثر، والحقيبة التدريبية، وتوثيق الإجراءات وخرائط سير العمل، وتحديد المهام والمسؤوليات التنظيمية بما فيها سلسلة القيمة ومصفوفة الصلاحيات وآلية تصنيف المشاريع حسب الأولوية. | A methodology to secure added value and business continuity after project handover, applied to the 2022 and 2023 projects. It includes the Sustainability & Impact Assurance Card, a training kit, documented procedures and workflow maps, and organizational roles and responsibilities, including the value chain, RACI matrix and a priority-based project classification mechanism. |
-| منهجية | Methodology |
+| منهجية — معتمد من معالي وزير العدل | Methodology — Approved by the Minister of Justice |
 | 2022–2023 | 2022–2023 |
 
 ### أدوات مركز التميّز لإدارة التغيير — برنامج تطوير وزارة الحرس الوطني
 | العربية | English |
 |---|---|
 | أدوات مركز التميّز لإدارة التغيير — برنامج تطوير وزارة الحرس الوطني | Change Center of Excellence Toolkits — MNGDP |
-| تصميم وتطوير أدوات إدارة التغيير لمركز التميّز، مرتبطة ببوابات المحفظة. وتشمل أداة تقييم أثر التغيير، التي تقيس حجم التغيير وطبيعته ومستوى تحمّل وحدات الأعمال، وتحلّل الأثر وسهولة الانتقال وتُخرج لوحات متابعة وخرائط حرارية؛ وأداة تقييم الجاهزية للتغيير، وهي استبانة باللغتين مبنية على نموذج ADKAR، تُطبَّق في مراحل التصميم وما قبل الإطلاق وما بعده. | Design and development of the Change Center of Excellence tools, linked to portfolio gates. They include the Change Impact Assessment tool, which measures the size and nature of change and business-area tolerance, analyses impact and ease of transition, and produces dashboards and heat maps; and the Change Readiness Assessment tool, a bilingual ADKAR-based survey applied at the design, pre-launch and post-launch stages. |
-| أدوات قياس | Assessment tools |
+| تصميم وتطوير أدوات إدارة التغيير لمركز التميّز، معتمدة من الرئيس التنفيذي للبرنامج، ومرتبطة ببوابات المحفظة. وتشمل أداة تقييم أثر التغيير، التي تقيس حجم التغيير وطبيعته ومستوى تحمّل وحدات الأعمال، وتحلّل الأثر وسهولة الانتقال وتُخرج لوحات متابعة وخرائط حرارية؛ وأداة تقييم الجاهزية للتغيير، وهي استبانة باللغتين مبنية على نموذج ADKAR، تُطبَّق في مراحل التصميم وما قبل الإطلاق وما بعده. | Design and development of the Change Center of Excellence tools, approved by the Program CEO and linked to portfolio gates. They include the Change Impact Assessment tool, which measures the size and nature of change and business-area tolerance, analyses impact and ease of transition, and produces dashboards and heat maps; and the Change Readiness Assessment tool, a bilingual ADKAR-based survey applied at the design, pre-launch and post-launch stages. |
+| أدوات قياس — معتمد من الرئيس التنفيذي للبرنامج | Assessment tools — Approved by the Program CEO |
 | 2020–2022 | 2020–2022 |
 
 ## الشهادات المهنية
