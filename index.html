@@ -162,6 +162,7 @@
   .intro{position:fixed;inset:0;z-index:200;background:var(--bg);color:var(--text);overflow:hidden;display:block} .intro[hidden]{display:none}
   .intro-glow{position:absolute;width:90vmax;height:90vmax;left:50%;top:50%;border-radius:50%;background:radial-gradient(circle,rgba(134,138,221,.22),transparent 60%);filter:blur(30px);animation:iglow 24s linear both}
   @keyframes iglow{from{transform:translate(-40%,-60%) scale(.9)}to{transform:translate(-60%,-40%) scale(1.1)}}
+  .intro-sound{position:absolute;top:18px;inset-inline-start:18px;z-index:2;width:42px;height:42px;border-radius:50%;background:rgba(255,255,255,.08);border:1px solid var(--line);color:var(--text);display:grid;place-items:center;cursor:pointer} .intro-sound svg{width:20px;height:20px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round} .intro-sound .w1,.intro-sound .w2{opacity:0} .intro-sound[aria-pressed="true"] .w1,.intro-sound[aria-pressed="true"] .w2{opacity:1} .intro-sound[aria-pressed="true"] .mx{display:none} .intro-sound:hover{border-color:var(--accent)}
   .intro-skip{position:absolute;top:18px;inset-inline-end:18px;z-index:2;background:rgba(255,255,255,.08);border:1px solid var(--line);color:var(--text);border-radius:999px;padding:8px 18px;font:inherit;font-size:13px;cursor:pointer} .intro-skip:hover{background:rgba(255,255,255,.16)}
   .intro-bar{position:absolute;left:0;bottom:0;height:4px;background:linear-gradient(90deg,var(--accent),#5457b8);width:0;animation:ibar 24s linear both}
   @keyframes ibar{to{width:100%}}
@@ -228,6 +229,7 @@
 <div class="intro" id="intro" role="dialog" aria-modal="true" aria-label="عرض تعريفي متحرك" data-i18n-aria="intro.label" hidden>
   <div class="intro-glow"></div>
   <button type="button" class="intro-skip" id="intro-skip" data-i18n="intro.skip">تخطي</button>
+  <button type="button" class="intro-sound" id="intro-sound" aria-pressed="false" aria-label="تشغيل الموسيقى" data-i18n-aria="intro.sound" title="تشغيل الموسيقى" data-i18n-title="intro.sound"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9v6h4l5 4V5L8 9z"/><path class="w1" d="M16 9a4 4 0 0 1 0 6"/><path class="w2" d="M18.5 6.5a7.5 7.5 0 0 1 0 11"/><path class="mx" d="M4 4l16 16"/></svg></button>
   <section class="iscene" style="--s:0s;--d:5s"><svg class="ilogo iel" style="--i:0" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect x="2" y="2" width="60" height="60" rx="14" fill="#15151d"/><path d="M10 11H19.5L37.2 36.5V53H28.4V39.2Z" fill="#30328a"/><path d="M54 11H44.5L28.4 34.5V53H37.2V37Z" fill="#9c9ff2"/><path d="M28.4 34.5 37.2 36.5V53H28.4Z" fill="#8084e4"/></svg><span class="ikicker latin iel" style="--i:0" data-i18n="intro.kicker">ملف مهني</span><h2 class="iname iel" style="--i:1" data-i18n="name">ياسمين بن يحيى</h2><span class="iline iel" style="--i:2"></span><span class="isub iel" style="--i:3" data-i18n="hero.tag1">خبير التحول وتمكين التغيير</span><span class="ipills iel" style="--i:4" data-i18n="intro.tag2">خبرة في تمكين التحول وإدارة التغيير.</span></section>
   <section class="iscene" style="--s:5s;--d:4.5s"><h3 class="ih iel" style="--i:0" data-i18n="figs.title">أرقام رئيسية</h3><div class="ifigs"><div class="ifig iel" style="--i:1"><span class="ifig-v latin"><span class="icount" data-count="12">0</span><span class="suf">+</span></span><span class="ifig-l" data-i18n="fig1.l">عامًا من الخبرة</span></div><div class="ifig iel" style="--i:2"><span class="ifig-v latin"><span class="icount" data-count="3">0</span><span class="suf"></span></span><span class="ifig-l" data-i18n="fig2.l">منهجيات معتمدة</span></div><div class="ifig iel" style="--i:3"><span class="ifig-v latin"><span class="icount" data-count="4">0</span><span class="suf"></span></span><span class="ifig-l" data-i18n="fig3.l">مخرجات معتمدة</span></div><div class="ifig iel" style="--i:4"><span class="ifig-v latin"><span class="icount" data-count="3">0</span><span class="suf"></span></span><span class="ifig-l" data-i18n="fig4.l">شهادات مهنية في إدارة التغيير</span></div></div></section>
   <section class="iscene" style="--s:9.5s;--d:5s"><h3 class="ih iel" style="--i:0" data-i18n="doing.title">مجالات العمل</h3><div class="igrid"><div class="icard iel" style="--i:1"><span class="icard-t" data-i18n="d1.t">الاستراتيجية والتنفيذ</span><span class="icard-d" data-i18n="d1.d">إعداد الخطط التنفيذية والمبادرات وقياس أدائها.</span></div><div class="icard iel" style="--i:2"><span class="icard-t" data-i18n="d2.t">إدارة التغيير</span><span class="icard-d" data-i18n="d2.d">تقييم الأثر والجاهزية، وإشراك أصحاب المصلحة، وتخطيط التواصل.</span></div><div class="icard iel" style="--i:3"><span class="icard-t" data-i18n="d3.t">تحقيق المنافع والاستدامة</span><span class="icard-d" data-i18n="d3.d">إعداد منهجيات لاستدامة القيمة بعد تسليم المشاريع إلى الجهات المشغّلة.</span></div><div class="icard iel" style="--i:4"><span class="icard-t" data-i18n="d4.t">دعم القرار التنفيذي</span><span class="icard-d" data-i18n="d4.d">إعداد دراسات ومواد داعمة لقرارات القيادة العليا، منها دراسات معتمدة من معالي وزير العدل.</span></div></div></section>
@@ -570,6 +572,8 @@
   "p4.g6": "Executive recommendations",
   "lb.prev": "Previous",
   "lb.next": "Next",
+  "intro.sound": "Play music",
+  "intro.mute": "Mute music",
   "lb.close": "Close",
   "edit.open": "Edit content",
   "edit.save": "Save",
@@ -740,13 +744,55 @@
   var reduce = window.matchMedia('(prefers-reduced-motion: reduce)');
   var intro = document.getElementById('intro'), introSkip = document.getElementById('intro-skip'), introPlay = document.getElementById('intro-play'), introTimer = null, introCountTimer = null, INTRO_MS = 24000;
   function introCount() { clearTimeout(introCountTimer); introCountTimer = setTimeout(function () { intro.querySelectorAll('.icount').forEach(function (el) { var n = +el.getAttribute('data-count'), t0 = null; function step(ts) { if (!t0) t0 = ts; var p = Math.min(1, (ts - t0) / 1400), e = 1 - Math.pow(1 - p, 3); el.textContent = Math.round(n * e); if (p < 1) requestAnimationFrame(step); } requestAnimationFrame(step); }); }, 5600); }
-  function playIntro() { if (reduce.matches) return; clearTimeout(introTimer); intro.querySelectorAll('.icount').forEach(function (el) { el.textContent = '0'; }); intro.hidden = true; void intro.offsetWidth; intro.hidden = false; document.body.classList.add('lb-lock'); introCount(); introTimer = setTimeout(stopIntro, INTRO_MS); introSkip.focus(); }
-  function stopIntro() { clearTimeout(introTimer); clearTimeout(introCountTimer); intro.hidden = true; document.body.classList.remove('lb-lock'); try { sessionStorage.setItem('pf-intro', '1'); } catch (e) {} }
-  introSkip.addEventListener('click', stopIntro); introPlay.addEventListener('click', playIntro);
+  function playIntro() { if (reduce.matches) return; clearTimeout(introTimer); intro.querySelectorAll('.icount').forEach(function (el) { el.textContent = '0'; }); intro.hidden = true; void intro.offsetWidth; intro.hidden = false; document.body.classList.add('lb-lock'); introCount(); introTimer = setTimeout(stopIntro, INTRO_MS); introSkip.focus(); if (MUSIC_WANT) { try { musicStart(); } catch (e) {} } }
+  function stopIntro() { musicStop(true); clearTimeout(introTimer); clearTimeout(introCountTimer); intro.hidden = true; document.body.classList.remove('lb-lock'); try { sessionStorage.setItem('pf-intro', '1'); } catch (e) {} }
+
+  /* موسيقى خلفية هادئة للعرض التعريفي، مولّدة داخل المتصفح (بلا ملفات خارجية) */
+  var AC = null, musicBus = null, musicOn = false, musicNodes = [], musicTimer = null, soundBtn = document.getElementById('intro-sound');
+  var MUSIC_WANT = false; try { MUSIC_WANT = localStorage.getItem('pf-music') === '1'; } catch (e) {}
+  function musicStop(fade) {
+    clearTimeout(musicTimer);
+    if (musicBus && AC) { var t = AC.currentTime; musicBus.gain.cancelScheduledValues(t); musicBus.gain.setValueAtTime(musicBus.gain.value, t); musicBus.gain.linearRampToValueAtTime(0, t + (fade ? 1.2 : 0.05)); }
+    var nodes = musicNodes; musicNodes = [];
+    setTimeout(function () { nodes.forEach(function (n) { try { n.stop(); } catch (e) {} try { n.disconnect(); } catch (e) {} }); }, fade ? 1300 : 80);
+    musicOn = false; if (soundBtn) soundBtn.setAttribute('aria-pressed', 'false');
+  }
+  function musicStart() {
+    if (musicOn) return;
+    try { AC = AC || new (window.AudioContext || window.webkitAudioContext)(); } catch (e) { return; }
+    if (AC.state === 'suspended') AC.resume();
+    var t0 = AC.currentTime + 0.05;
+    musicBus = AC.createGain(); musicBus.gain.setValueAtTime(0, t0); musicBus.gain.linearRampToValueAtTime(0.16, t0 + 2.5);
+    var lp = AC.createBiquadFilter(); lp.type = 'lowpass'; lp.frequency.value = 1400; lp.Q.value = 0.4;
+    var delay = AC.createDelay(2); delay.delayTime.value = 0.42; var fb = AC.createGain(); fb.gain.value = 0.32; var wet = AC.createGain(); wet.gain.value = 0.28;
+    lp.connect(musicBus); lp.connect(delay); delay.connect(fb); fb.connect(delay); delay.connect(wet); wet.connect(musicBus); musicBus.connect(AC.destination);
+    /* تتابع هادئ في مقام ري الكبير: D – Bm – G – A */
+    var chords = [[146.83, 220.0, 293.66, 369.99], [123.47, 185.0, 246.94, 293.66], [98.0, 146.83, 196.0, 246.94], [110.0, 164.81, 220.0, 277.18]];
+    var bar = 6.0, total = chords.length * bar;
+    function pad(freq, start, dur, vol, type, det) {
+      var o = AC.createOscillator(), g = AC.createGain(); o.type = type; o.frequency.value = freq; o.detune.value = det;
+      g.gain.setValueAtTime(0, start); g.gain.linearRampToValueAtTime(vol, start + 1.6); g.gain.setValueAtTime(vol, start + dur - 1.8); g.gain.linearRampToValueAtTime(0, start + dur);
+      o.connect(g); g.connect(lp); o.start(start); o.stop(start + dur + 0.1); musicNodes.push(o);
+    }
+    function schedule(base) {
+      chords.forEach(function (c, i) {
+        var st = base + i * bar;
+        c.forEach(function (f, k) { pad(f, st, bar + 0.6, k === 0 ? 0.22 : 0.13, k === 0 ? 'sine' : 'triangle', (k & 1) ? 4 : -4); pad(f * 2, st, bar + 0.6, 0.04, 'sine', 6); });
+        /* نغمة لحنية خفيفة في منتصف كل مازورة */
+        pad(c[2] * 2, st + bar * 0.5, 2.6, 0.06, 'sine', 0);
+      });
+    }
+    schedule(t0); musicTimer = setTimeout(function loop() { if (!musicOn) return; schedule(AC.currentTime + 0.05); musicTimer = setTimeout(loop, total * 1000 - 300); }, total * 1000 - 300);
+    musicOn = true; if (soundBtn) soundBtn.setAttribute('aria-pressed', 'true');
+  }
+  if (soundBtn) soundBtn.addEventListener('click', function () { if (musicOn) { musicStop(true); MUSIC_WANT = false; } else { musicStart(); MUSIC_WANT = true; } try { localStorage.setItem('pf-music', MUSIC_WANT ? '1' : '0'); } catch (e) {} });
+  introSkip.addEventListener('click', stopIntro);
+  introPlay.addEventListener('click', function () { playIntro(); musicStart(); });
   /* يُعرض العرض التعريفي أولًا عند فتح الموقع، مرة واحدة في الجلسة */
   /* العرض التعريفي هو الصفحة الرئيسية: يُعرض عند كل فتح للموقع */
   if (!location.hash) playIntro();
   intro.addEventListener('click', function (e) { if (e.target === intro || e.target.classList.contains('iscene')) stopIntro(); });
+  ['pointerdown', 'keydown', 'touchstart'].forEach(function (ev) { document.addEventListener(ev, function () { if (!intro.hidden && MUSIC_WANT && !musicOn) musicStart(); }, { passive: true }); });
   document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && !intro.hidden) stopIntro(); });
   var editBar = document.getElementById('edit-bar'), editBtn = document.getElementById('edit-open');
   if (/(^|[#&])edit($|&)/.test(location.hash.slice(1)) || (function(){try{return localStorage.getItem('pf-edits');}catch(e){return null;}})()) editBtn.hidden = false;
