@@ -125,7 +125,7 @@
 | العربية | English |
 |---|---|
 | تصميم نموذج تشغيلي لتوظيف الذكاء الاصطناعي في خدمات الإدارة العامة للمحاماة | AI-Enabled Operating Model for the Directorate’s Services |
-| تصميم نموذج تشغيلي لتوظيف الذكاء الاصطناعي في تقديم خدمات الإدارة العامة للمحاماة، من خلال «مساعد ناجز» قناةً موحّدة للمستفيدين تتيح تقديم الطلب نصًا، وجلب البيانات من الجهات ذات العلاقة، والفحص النظامي للطلب، ومتابعته. ويعمل نسخةً تجريبية للعرض. | Design of an operating model applying AI to the delivery of the Directorate’s services, through the “Najiz Assistant” as a single channel for beneficiaries to submit requests in free text, retrieve data from the relevant entities, run a regulatory eligibility check and track the request. It runs as a demonstration version. |
+| نموذج أولي لنموذج تشغيلي جديد للإدارة العامة للمحاماة، يجمع بيانات القطاع في مكان واحد، ويعيد تصميم خدمات الإدارة من خلال توظيف الذكاء الاصطناعي. | A prototype of a new operating model for the General Directorate of Legal Profession that brings the sector’s data together in one place and redesigns the Directorate’s services through the use of AI. |
 | تصميم تشغيلي | Operating design |
 | 2026 | 2026 |
 
