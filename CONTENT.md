@@ -113,10 +113,10 @@
 | منصة | Platform |
 | 2026 | 2026 |
 
-### منصة قاعدة بيانات الإدارة العامة للمحاماة
+### منصة توحيد قاعدة بيانات قطاع المحاماة
 | العربية | English |
 |---|---|
-| منصة قاعدة بيانات الإدارة العامة للمحاماة | Central Lawyer Database Platform |
+| منصة توحيد قاعدة بيانات قطاع المحاماة | Unified Legal Sector Database Platform |
 | مشروع على مرحلتين: الأولى بناء تصوّر يشمل تحليل الفجوات، ونموذج بحيرة بيانات (Data Lakehouse) لتكوين «ملف المحامي الموحد»، ولوحات قيادية على ثلاثة مستويات (الإدارة، الوزارة، المملكة). والثانية تصميم وتطوير نسخة تجريبية من المنصة: قاعدة بيانات موحّدة للمحامين والمتدربين والمنشآت القانونية مع محاكاة التكامل مع الجهات ذات العلاقة. وتعمل النسخة ببيانات افتراضية. | A two-phase project. Phase one developed the concept: a gap analysis, a data lakehouse model to build the Unified Lawyer Profile, and leadership dashboards at three levels (Directorate, Ministry, Kingdom). Phase two designed and built a demonstration version of the platform: a central database of lawyers, trainees and law firms, with simulated integration with the relevant entities. It runs on synthetic data. |
 | منصة تجريبية | Demonstration platform |
 | 2026 | 2026 |
