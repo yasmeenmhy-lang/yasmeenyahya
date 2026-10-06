@@ -55,8 +55,8 @@
 | سبتمبر 2022 – حتى الآن | Sep 2022 – Present |
 | دور متعدد المسارات في مكتب تحقيق الرؤية يجمع بين التحول الرقمي ودعم القرار وإدارة التغيير وتمكين المنافع. ويشمل تصميم وتطوير حلول رقمية قائمة على البيانات والذكاء الاصطناعي للإدارة العامة للمحاماة، وإعداد الخطة التنفيذية لتطوير قطاع المحاماة، وإعداد الدراسات والتقارير الداعمة لقرارات معالي الوزير والقيادة العليا، وتطوير منهجية تمكين المحاكم، ثم منهجية استدامة المشاريع مع تدريب منسوبي الوزارة ومديري المشاريع عليها. | A multi-track role at the Vision Realization Office spanning digital transformation, decision support, change management and benefits enablement. It covers designing and developing data- and AI-driven digital solutions for the General Directorate of Legal Profession, preparing the legal profession sector execution plan, producing studies and reports that inform decisions of the Minister and senior leadership, developing the courts empowerment methodology, and earlier the project sustainability methodology together with training Ministry staff and project managers on it. |
 | تصميم وتطوير حلول رقمية للإدارة العامة للمحاماة، منها الأداة المساعدة لتمكين الظهور الإعلامي للمحامين، ومنصة قاعدة البيانات، ونموذج تشغيلي لتوظيف الذكاء الاصطناعي في تقديم الخدمات. | Designed and developed digital solutions for the General Directorate of Legal Profession, including the Lawyers’ Media Appearance Enablement Tool, the database platform and an AI-enabled operating model for service delivery. |
-| إعداد الخطة التنفيذية لتطوير قطاع المحاماة استنادًا إلى تحليل الفجوات وخمس ورش عمل بالتعاون مع الهيئة السعودية للمحامين بمشاركة نحو 82 محاميًا، معتمدة من معالي وزير العدل. | Developed the legal profession sector execution plan based on a gap analysis and five workshops held with the Saudi Bar Association with around 82 lawyers, approved by the Minister of Justice. |
 | إعداد «دراسة تفصيلية للنظر في تزايد عدد المحامين المرخصين»، معتمدة من معالي وزير العدل. | Prepared the Detailed Study on the Increase in the Number of Licensed Lawyers, approved by the Minister of Justice. |
+| إعداد الخطة التنفيذية لتطوير قطاع المحاماة استنادًا إلى تحليل الفجوات وخمس ورش عمل بالتعاون مع الهيئة السعودية للمحامين بمشاركة نحو 82 محاميًا، معتمدة من معالي وزير العدل. | Developed the legal profession sector execution plan based on a gap analysis and five workshops held with the Saudi Bar Association with around 82 lawyers, approved by the Minister of Justice. |
 | بناء تقرير لقياس الأثر العدلي والأداء المؤسسي في التقارير السنوية لرؤية السعودية 2030. | Developed a report for measuring judicial impact and institutional performance in the Saudi Vision 2030 annual reports. |
 | بناء تصوّر لقاء تعريفي لمكاتب المحاماة الأجنبية المرخصة بمشاركة الجهات الحكومية ذات العلاقة. | Developed the concept for an introductory forum for licensed foreign law firms with the relevant government entities. |
 | إعداد عرض الإدارة العامة للمحاماة في أربعة اجتماعات دورية متتالية مع معالي وزير العدل. | Prepared the General Directorate of Legal Profession’s presentation for four consecutive periodic meetings with H.E. the Minister of Justice. |
@@ -129,20 +129,20 @@
 | منصة | Platform |
 | 2026 | 2026 |
 
-### استراتيجية تطوير قطاع المحاماة والخطة التنفيذية
-| العربية | English |
-|---|---|
-| استراتيجية تطوير قطاع المحاماة والخطة التنفيذية | Legal Profession Sector Development Strategy & Execution Plan |
-| إعداد استراتيجية تطوير قطاع المحاماة وخطتها التنفيذية، معتمدة من معالي وزير العدل، استنادًا إلى أربعة أسس تنظيمية: الوضوح والشفافية، والمؤسسية وتعميق المهنة وتمكينها، وتأهيل الأفراد وحفظ حقوق العملاء، والعدالة الوقائية. وشمل العمل تحليل الفجوات والمقارنة المعيارية الدولية، وعقد خمس ورش عمل بالتعاون مع الهيئة السعودية للمحامين بمشاركة نحو 82 محاميًا، للتحقق من الفجوات المرصودة ورصد فجوات جديدة وترتيب الأولويات وفق الأثر وإمكانات التنفيذ، وانتهى إلى خطة المشاريع التطويرية ذات الأولوية. | Development of the legal profession sector strategy and execution plan, approved by the Minister of Justice, built on four regulatory pillars: clarity and transparency; institutionalisation, professional depth and enablement; individual capability and protection of client rights; and preventive justice. The work covered gap analysis and international benchmarking, and five workshops held with the Saudi Bar Association, attended by around 82 lawyers, to validate identified gaps, capture new ones and prioritise them by impact and feasibility, resulting in the priority development project plan. |
-| خطة تنفيذية — معتمد من معالي وزير العدل | Execution plan — Approved by the Minister of Justice |
-| 2026 | 2026 |
-
 ### دراسة تفصيلية للنظر في تزايد عدد المحامين المرخصين
 | العربية | English |
 |---|---|
 | دراسة تفصيلية للنظر في تزايد عدد المحامين المرخصين | Detailed Study on the Increase in the Number of Licensed Lawyers |
 | دراسة تحليلية مقارنة لاتجاه التزايد في أعداد المحامين المرخصين وأثره التنظيمي والمهني، تحدد موقع المملكة معياريًا من حيث كثافة المحامين ومعدلات النمو وأنماط السوق مقارنةً بدول المقارنة، وتنتهي إلى توصيات تنفيذية في الدخول إلى المهنة والتصنيف والتطوير المهني المستمر. | A comparative analytical study of the growth in the number of licensed lawyers and its regulatory and professional impact. It benchmarks the Kingdom’s position on lawyer density, growth rates and market patterns against comparator countries, and concludes with executive recommendations on entry to the profession, classification and continuing professional development. |
 | دراسة — معتمد من معالي وزير العدل | Study — Approved by the Minister of Justice |
+| 2026 | 2026 |
+
+### استراتيجية تطوير قطاع المحاماة والخطة التنفيذية
+| العربية | English |
+|---|---|
+| استراتيجية تطوير قطاع المحاماة والخطة التنفيذية | Legal Profession Sector Development Strategy & Execution Plan |
+| إعداد استراتيجية تطوير قطاع المحاماة وخطتها التنفيذية، معتمدة من معالي وزير العدل، استنادًا إلى أربعة أسس تنظيمية: الوضوح والشفافية، والمؤسسية وتعميق المهنة وتمكينها، وتأهيل الأفراد وحفظ حقوق العملاء، والعدالة الوقائية. وشمل العمل تحليل الفجوات والمقارنة المعيارية الدولية، وعقد خمس ورش عمل بالتعاون مع الهيئة السعودية للمحامين بمشاركة نحو 82 محاميًا، للتحقق من الفجوات المرصودة ورصد فجوات جديدة وترتيب الأولويات وفق الأثر وإمكانات التنفيذ، وانتهى إلى خطة المشاريع التطويرية ذات الأولوية. | Development of the legal profession sector strategy and execution plan, approved by the Minister of Justice, built on four regulatory pillars: clarity and transparency; institutionalisation, professional depth and enablement; individual capability and protection of client rights; and preventive justice. The work covered gap analysis and international benchmarking, and five workshops held with the Saudi Bar Association, attended by around 82 lawyers, to validate identified gaps, capture new ones and prioritise them by impact and feasibility, resulting in the priority development project plan. |
+| خطة تنفيذية — معتمد من معالي وزير العدل | Execution plan — Approved by the Minister of Justice |
 | 2026 | 2026 |
 
 ### بناء تقرير لقياس الأثر العدلي في التقارير السنوية لرؤية السعودية 2030
