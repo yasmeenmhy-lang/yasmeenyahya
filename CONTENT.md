@@ -198,7 +198,7 @@
 |---|---|
 | أدوات مركز التميّز لإدارة التغيير — برنامج تطوير وزارة الحرس الوطني | Change Center of Excellence Toolkits — MNGDP |
 | تصميم وتطوير أدوات إدارة التغيير لمركز التميّز، معتمدة من الرئيس التنفيذي للبرنامج، ومرتبطة ببوابات المحفظة. وتشمل أداة تقييم أثر التغيير، التي تقيس حجم التغيير وطبيعته ومستوى تحمّل وحدات الأعمال، وتحلّل الأثر وسهولة الانتقال وتُخرج لوحات متابعة وخرائط حرارية؛ وأداة تقييم الجاهزية للتغيير، وهي استبانة باللغتين مبنية على نموذج ADKAR، تُطبَّق في مراحل التصميم وما قبل الإطلاق وما بعده. | Design and development of the Change Center of Excellence tools, approved by the Program CEO and linked to portfolio gates. They include the Change Impact Assessment tool, which measures the size and nature of change and business-area tolerance, analyses impact and ease of transition, and produces dashboards and heat maps; and the Change Readiness Assessment tool, a bilingual ADKAR-based survey applied at the design, pre-launch and post-launch stages. |
-| أدوات — معتمد من الرئيس التنفيذي للبرنامج | Toolkit — Approved by the Program CEO |
+| أدوات قياس — معتمد من الرئيس التنفيذي للبرنامج | Assessment tools — Approved by the Program CEO |
 | 2020–2022 | 2020–2022 |
 
 ## الشهادات المهنية
