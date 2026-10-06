@@ -54,7 +54,7 @@
 | وزارة العدل – مكتب تحقيق الرؤية | Ministry of Justice – Vision Realization Office (VRO) |
 | سبتمبر 2022 – حتى الآن | Sep 2022 – Present |
 | إدارة تمكين منافع البرامج والمشاريع، بخبرة تجمع بين إدارة التغيير ودعم القرار والتحول الرقمي، ومخرجات معتمدة من القيادة العليا تشمل منهجيات ودراسات وخططًا تنفيذية وحلولًا رقمية لتطوير قطاع المحاماة. | Managing programmes and projects benefits enablement, combining change management, decision support and digital transformation, with leadership-approved outputs spanning methodologies, studies, execution plans and digital solutions for the legal profession sector. |
-| تصميم وتطوير حلول رقمية للإدارة العامة للمحاماة، منها الأداة المساعدة لتمكين الظهور الإعلامي للمحامين، ومنصة قاعدة البيانات، ونموذج تشغيلي لتوظيف الذكاء الاصطناعي في تقديم الخدمات. | Designed and developed digital solutions for the General Directorate of Legal Profession, including the Lawyers’ Media Appearance Enablement Tool, the database platform and an AI-enabled operating model for service delivery. |
+| تصميم وتطوير حلول رقمية، منها الأداة المساعدة لتمكين الظهور الإعلامي للمحامين، ومنصة قاعدة بيانات الإدارة العامة للمحاماة، ونموذج تشغيلي لتوظيف الذكاء الاصطناعي في تقديم الخدمات. | Designed and developed digital solutions, including the Lawyers’ Media Appearance Enablement Tool, the General Directorate of Legal Profession database platform and an AI-enabled operating model for service delivery. |
 | إعداد «دراسة تفصيلية للنظر في تزايد عدد المحامين المرخصين»، معتمدة من معالي وزير العدل. | Prepared the Detailed Study on the Increase in the Number of Licensed Lawyers, approved by the Minister of Justice. |
 | إعداد الخطة التنفيذية لتطوير قطاع المحاماة استنادًا إلى تحليل الفجوات وخمس ورش عمل بالتعاون مع الهيئة السعودية للمحامين بمشاركة نحو 82 محاميًا، معتمدة من معالي وزير العدل. | Developed the legal profession sector execution plan based on a gap analysis and five workshops held with the Saudi Bar Association with around 82 lawyers, approved by the Minister of Justice. |
 | إعداد عرض الإدارة العامة للمحاماة في أربعة اجتماعات دورية متتالية مع معالي وزير العدل. | Prepared the General Directorate of Legal Profession’s presentation for four consecutive periodic meetings with H.E. the Minister of Justice. |
@@ -121,11 +121,11 @@
 | منصة تجريبية | Demonstration platform |
 | 2026 | 2026 |
 
-### تصميم نموذج تشغيلي لتوظيف الذكاء الاصطناعي في خدمات الإدارة العامة للمحاماة
+### تصميم نموذج تشغيلي لتوظيف الذكاء الاصطناعي في الخدمات
 | العربية | English |
 |---|---|
-| تصميم نموذج تشغيلي لتوظيف الذكاء الاصطناعي في خدمات الإدارة العامة للمحاماة | AI-Enabled Operating Model for the Directorate’s Services |
-| تصميم نموذج أولي لنموذج تشغيلي للإدارة العامة للمحاماة، يجمع بيانات القطاع في مكان واحد، ويعيد تصميم خدمات الإدارة من خلال توظيف الذكاء الاصطناعي. | Design of a prototype operating model for the General Directorate of Legal Profession that brings the sector’s data together in one place and redesigns the Directorate’s services through the use of AI. |
+| تصميم نموذج تشغيلي لتوظيف الذكاء الاصطناعي في الخدمات | AI-Enabled Operating Model for Services |
+| تصميم نموذج أولي لنموذج تشغيلي يجمع بيانات القطاع في مكان واحد، ويعيد تصميم الخدمات من خلال توظيف الذكاء الاصطناعي. | Design of a prototype operating model that brings the sector’s data together in one place and redesigns services through the use of AI. |
 | تصميم تشغيلي | Operating design |
 | 2026 | 2026 |
 
