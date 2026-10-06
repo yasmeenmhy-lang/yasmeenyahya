@@ -57,9 +57,9 @@
 | تصميم وتطوير حلول رقمية للإدارة العامة للمحاماة، منها الأداة المساعدة لتمكين الظهور الإعلامي للمحامين، ومنصة قاعدة البيانات، ونموذج تشغيلي لتوظيف الذكاء الاصطناعي في تقديم الخدمات. | Designed and developed digital solutions for the General Directorate of Legal Profession, including the Lawyers’ Media Appearance Enablement Tool, the database platform and an AI-enabled operating model for service delivery. |
 | إعداد «دراسة تفصيلية للنظر في تزايد عدد المحامين المرخصين»، معتمدة من معالي وزير العدل. | Prepared the Detailed Study on the Increase in the Number of Licensed Lawyers, approved by the Minister of Justice. |
 | إعداد الخطة التنفيذية لتطوير قطاع المحاماة استنادًا إلى تحليل الفجوات وخمس ورش عمل بالتعاون مع الهيئة السعودية للمحامين بمشاركة نحو 82 محاميًا، معتمدة من معالي وزير العدل. | Developed the legal profession sector execution plan based on a gap analysis and five workshops held with the Saudi Bar Association with around 82 lawyers, approved by the Minister of Justice. |
+| إعداد عرض الإدارة العامة للمحاماة في أربعة اجتماعات دورية متتالية مع معالي وزير العدل. | Prepared the General Directorate of Legal Profession’s presentation for four consecutive periodic meetings with H.E. the Minister of Justice. |
 | بناء تقرير لقياس الأثر العدلي والأداء المؤسسي في التقارير السنوية لرؤية السعودية 2030. | Developed a report for measuring judicial impact and institutional performance in the Saudi Vision 2030 annual reports. |
 | بناء تصوّر لقاء تعريفي لمكاتب المحاماة الأجنبية المرخصة بمشاركة الجهات الحكومية ذات العلاقة. | Developed the concept for an introductory forum for licensed foreign law firms with the relevant government entities. |
-| إعداد عرض الإدارة العامة للمحاماة في أربعة اجتماعات دورية متتالية مع معالي وزير العدل. | Prepared the General Directorate of Legal Profession’s presentation for four consecutive periodic meetings with H.E. the Minister of Justice. |
 | إعداد دراسة تنظيمية لتعزيز التنسيق المؤسسي في الوزارة، تشمل تحليل الفجوات والمقارنة المعيارية والهيكل المقترح ومؤشرات الأثر. | Prepared an organizational study on strengthening institutional coordination across the Ministry, covering gap analysis, benchmarking, a proposed structure and impact indicators. |
 | إعداد المنهجية التنفيذية لتمكين المحاكم وخطتها التفصيلية، معتمدتين من وكيل الوزارة للشؤون القضائية، والمشاركة في زيارات التمكين الميدانية. | Prepared the courts empowerment execution methodology and its detailed plan, approved by the Deputy Minister for Judicial Affairs, and took part in the field empowerment visits. |
 | تصميم بوابات ضمان القيمة وتطبيقها، لضمان تحقيق القيمة المضافة قبل التسليم واستمرارية الأعمال بعد الإغلاق. | Designed and applied value-assurance gates to ensure added value before handover and business continuity after closure. |
@@ -145,6 +145,14 @@
 | خطة تنفيذية — معتمد من معالي وزير العدل | Execution plan — Approved by the Minister of Justice |
 | 2026 | 2026 |
 
+### إعداد العروض التنفيذية للاجتماعات الدورية مع معالي وزير العدل
+| العربية | English |
+|---|---|
+| إعداد العروض التنفيذية للاجتماعات الدورية مع معالي وزير العدل | Executive Presentations for Periodic Meetings with H.E. the Minister of Justice |
+| إعداد عرض الإدارة العامة للمحاماة في أربعة اجتماعات دورية متتالية مع معالي وزير العدل، شاملًا هيكلة المحتوى وصياغة الرسائل الرئيسية وتصميم العرض. | Preparation of the General Directorate of Legal Profession’s presentation for four consecutive periodic meetings with H.E. the Minister of Justice, covering content structure, key messages and presentation design. |
+| عروض تنفيذية | Executive presentations |
+| 2025–2026 | 2025–2026 |
+
 ### بناء تقرير لقياس الأثر العدلي في التقارير السنوية لرؤية السعودية 2030
 | العربية | English |
 |---|---|
@@ -160,14 +168,6 @@
 | بناء تصوّر للقاء تنسيقي وورشة عمل مع مكاتب المحاماة الأجنبية المرخصة بمشاركة الجهات الحكومية ذات العلاقة، لتوحيد الرسائل وتعزيز الامتثال للالتزامات النظامية. ويحدد محاور اللقاء، ومعايير قياس التزامات نقل المعرفة والتوطين، والمخرجات المستهدفة. | A concept for a coordination forum and workshop with licensed foreign law firms and the relevant government entities, to align messaging and strengthen compliance with regulatory obligations. It sets the forum tracks, measures for knowledge-transfer and localisation obligations, and the targeted outcomes. |
 | تصوّر | Concept |
 | 2026 | 2026 |
-
-### إعداد العروض التنفيذية للاجتماعات الدورية مع معالي وزير العدل
-| العربية | English |
-|---|---|
-| إعداد العروض التنفيذية للاجتماعات الدورية مع معالي وزير العدل | Executive Presentations for Periodic Meetings with H.E. the Minister of Justice |
-| إعداد عرض الإدارة العامة للمحاماة في أربعة اجتماعات دورية متتالية مع معالي وزير العدل، شاملًا هيكلة المحتوى وصياغة الرسائل الرئيسية وتصميم العرض. | Preparation of the General Directorate of Legal Profession’s presentation for four consecutive periodic meetings with H.E. the Minister of Justice, covering content structure, key messages and presentation design. |
-| عروض تنفيذية | Executive presentations |
-| 2025–2026 | 2025–2026 |
 
 ### دراسة تنظيمية لتعزيز التنسيق المؤسسي في وزارة العدل
 | العربية | English |
