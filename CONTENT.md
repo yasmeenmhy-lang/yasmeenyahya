@@ -47,10 +47,10 @@
 | الإنجليزية | English |
 
 ## الخبرة المهنية
-### خبيرة تمكين منافع البرامج والمشاريع — وزارة العدل – مكتب تحقيق الرؤية
+### تمكين منافع البرامج والمشاريع — وزارة العدل – مكتب تحقيق الرؤية
 | العربية | English |
 |---|---|
-| خبيرة تمكين منافع البرامج والمشاريع | Programs & Projects Benefits Enablement |
+| تمكين منافع البرامج والمشاريع | Programs & Projects Benefits Enablement |
 | وزارة العدل – مكتب تحقيق الرؤية | Ministry of Justice – Vision Realization Office (VRO) |
 | سبتمبر 2022 – حتى الآن | Sep 2022 – Present |
 | إعداد الخطة التنفيذية لتطوير قطاع المحاماة، وتطوير حلول رقمية للإدارة العامة للمحاماة، والإشراف على منهجيتَي تمكين المحاكم واستدامة المشاريع، لضمان قيمة مضافة قابلة للقياس تستمر بعد تسليم المشاريع. | Development of the legal profession sector execution plan and of digital solutions for the General Directorate of Legal Profession, and oversight of the courts empowerment and project sustainability methodologies, ensuring measurable added value that continues after project handover. |
@@ -66,10 +66,10 @@
 | بناء تقرير لقياس الأثر العدلي والأداء المؤسسي في التقارير السنوية لرؤية السعودية 2030. | Developed a report for measuring judicial impact and institutional performance in the Saudi Vision 2030 annual reports. |
 | بناء تصوّر لقاء تعريفي لمكاتب المحاماة الأجنبية المرخصة بمشاركة الجهات الحكومية ذات العلاقة. | Developed the concept for an introductory forum for licensed foreign law firms with the relevant government entities. |
 
-### خبيرة تمكين إدارة التغيير — برنامج تطوير وزارة الحرس الوطني
+### تمكين إدارة التغيير — برنامج تطوير وزارة الحرس الوطني
 | العربية | English |
 |---|---|
-| خبيرة تمكين إدارة التغيير | Change Management Enablement |
+| تمكين إدارة التغيير | Change Management Enablement |
 | برنامج تطوير وزارة الحرس الوطني | Ministry of National Guard Development Program (MNGDP) |
 | يناير 2020 – سبتمبر 2022 | Jan 2020 – Sep 2022 |
 | المشاركة ضمن فريق العمل في تطوير استراتيجية مركز التميّز لإدارة التغيير، ومتابعة أنشطة المركز خلال مرحلة الدراسة التفصيلية لضمان حوكمة التغيير في المشاريع. | Participation, as part of the team, in developing the Change Center of Excellence (COE) strategy, and follow-up of COE activities through the deep-dive phase to ensure governance of change across projects. |
