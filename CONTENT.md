@@ -141,7 +141,7 @@
 | العربية | English |
 |---|---|
 | الخطة التنفيذية لتطوير قطاع المحاماة | Law Practice Sector Development Execution Plan |
-| خطة تنفيذية لتطوير قطاع المحاماة، تم إعدادها من خلال تحليل الوضع الراهن والمقارنات المعيارية، وعقد خمس ورش عمل بالتعاون مع الهيئة السعودية للمحامين وبمشاركة نحو 82 محاميًا، وصولًا إلى تحديد المشاريع التطويرية ذات الأولوية. | An execution plan for developing the law practice sector. The plan was developed through a workshop held at the Saudi Bar Association with participating lawyers and sets out the foundations and initiatives for the development of the sector. |
+| خطة تنفيذية لتطوير قطاع المحاماة، تم إعدادها من خلال تحليل الوضع الراهن والمقارنات المعيارية، وعقد خمس ورش عمل بالتعاون مع الهيئة السعودية للمحامين وبمشاركة نحو 82 محاميًا، وصولًا إلى تحديد المشاريع التطويرية ذات الأولوية. | An execution plan for developing the law practice sector. The plan was developed through five workshops held at the Saudi Bar Association with around 82 participating lawyers, and sets out the foundations and initiatives for the development of the sector. |
 | خطة تنفيذية | Execution plan |
 | 2026 | 2026 |
 
