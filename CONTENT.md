@@ -153,19 +153,19 @@
 | عروض تنفيذية | Executive presentations |
 | 2025–2026 | 2025–2026 |
 
-### تصور اللقاء التعريفي لمكاتب المحاماة الأجنبية
+### اللقاء التعريفي لمكاتب المحاماة الأجنبية
 | العربية | English |
 |---|---|
-| تصور اللقاء التعريفي لمكاتب المحاماة الأجنبية | Foreign Law Firms Forum |
-| إعداد تصور وخطة للقاء تعريفي وورشة عمل تجمع مكاتب المحاماة الأجنبية المرخصة والجهات الحكومية ذات العلاقة، تشمل هيكلة اللقاء ومحاوره وآلية تنفيذه والمخرجات المستهدفة. | A concept and plan for a proposed workshop bringing together licensed foreign law firms and relevant government entities, including the workshop structure, key topics, and proposed approach. |
+| اللقاء التعريفي لمكاتب المحاماة الأجنبية | Foreign Law Firms Forum |
+| إعداد خطة للقاء تعريفي وورشة عمل تجمع مكاتب المحاماة الأجنبية المرخصة والجهات الحكومية ذات العلاقة، تشمل هيكلة اللقاء ومحاوره وآلية تنفيذه والمخرجات المستهدفة. | A plan for an introductory forum and workshop bringing together licensed foreign law firms and relevant government entities, including the forum structure, key topics, delivery approach, and target outcomes. |
 | لقاء تعريفي | Introductory forum |
 | 2026 | 2026 |
 
-### تقرير وزارة العدل في التقرير السنوي لرؤية السعودية 2030
+### إسهام وزارة العدل في التقرير السنوي لرؤية السعودية 2030
 | العربية | English |
 |---|---|
-| تقرير وزارة العدل في التقرير السنوي لرؤية السعودية 2030 | Ministry of Justice Contribution to the Saudi Vision 2030 Annual Report |
-| إعداد تصور لتعزيز عرض منجزات وزارة العدل وأثرها ضمن التقرير السنوي لرؤية السعودية 2030، من خلال مراجعة التقارير السابقة وتطوير إطار لعرض الأثر ومؤشرات الأداء بما يعكس منجزات الوزارة بصورة أكثر وضوحًا. | A review of the Ministry of Justice’s contribution to the Saudi Vision 2030 Annual Report, with recommendations to better highlight its achievements, impact, and progress in future reports. |
+| إسهام وزارة العدل في التقرير السنوي لرؤية السعودية 2030 | Ministry of Justice Contribution to the Saudi Vision 2030 Annual Report |
+| مراجعة لتعزيز عرض منجزات وزارة العدل وأثرها ضمن التقرير السنوي لرؤية السعودية 2030، من خلال مراجعة التقارير السابقة وتطوير إطار لعرض الأثر ومؤشرات الأداء بما يعكس منجزات الوزارة بصورة أكثر وضوحًا. | A review of the Ministry of Justice’s contribution to the Saudi Vision 2030 Annual Report, with recommendations to better highlight its achievements, impact, and progress in future reports. |
 | تقرير | Report |
 | 2026 | 2026 |
 
@@ -173,7 +173,7 @@
 | العربية | English |
 |---|---|
 | دراسة مشروع إدارة الشؤون البينية (التنسيق المؤسسي) | Interdepartmental Affairs (Institutional Coordination) Study |
-| دراسة لتقييم إنشاء إدارة للشؤون البينية في وزارة العدل، بهدف تعزيز التنسيق والتكامل المؤسسي، وتطوير نموذج تنظيمي وتشغيلي مقترح يحدد دور الإدارة وآليات عملها. | A study on establishing an Interdepartmental Affairs Department within the Ministry of Justice to strengthen coordination and integration across the Ministry. |
+| دراسة لتقييم إنشاء إدارة للشؤون البينية في وزارة العدل، بهدف تعزيز التنسيق والتكامل المؤسسي، وتطوير نموذج تنظيمي وتشغيلي يحدد دور الإدارة وآليات عملها. | A study on establishing an Interdepartmental Affairs Department within the Ministry of Justice to strengthen coordination and integration across the Ministry. |
 | دراسة | Study |
 | 2025 | 2025 |
 
