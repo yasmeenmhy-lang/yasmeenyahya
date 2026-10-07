@@ -125,7 +125,7 @@
 | العربية | English |
 |---|---|
 | إعادة تصميم النموذج التشغيلي لخدمات الإدارة العامة للمحاماة بتوظيف الذكاء الاصطناعي | AI-Enabled Redesign of the Operating Model for the General Directorate of Legal Profession Services |
-| إعادة تصميم النموذج التشغيلي لخدمات الإدارة العامة للمحاماة بتوظيف الذكاء الاصطناعي، بما يتيح للمستفيد تقديم الطلب. | Redesign of the operating model for the General Directorate of Legal Profession’s services using AI, enabling beneficiaries to submit their requests. |
+| إعادة تصميم النموذج التشغيلي لخدمات الإدارة العامة للمحاماة بتوظيف الذكاء الاصطناعي، بما يتيح للمستفيد تقديم الطلب من خلال ناجز. | Redesign of the operating model for the General Directorate of Legal Profession’s services using AI, enabling beneficiaries to submit their requests through Najiz. |
 | نموذج تشغيلي | Operating model |
 | 2026 | 2026 |
 
