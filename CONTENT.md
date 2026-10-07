@@ -121,10 +121,10 @@
 | منصة | Platform |
 | 2026 | 2026 |
 
-### المساعد الذكي في ناجز محامين
+### المساعد الذكي
 | العربية | English |
 |---|---|
-| المساعد الذكي في ناجز محامين | Smart Assistant for Najiz Lawyers |
+| المساعد الذكي | Smart Assistant |
 | تصميم نموذج تشغيلي لتقديم خدمات الإدارة العامة للمحاماة عبر منصة ناجز، يقوم على مساعد ذكي لاستقبال طلب المحامي، واستكمال بياناته آليًّا من خلال التكامل مع الجهات ذات العلاقة، والتحقق من استيفاء الشروط النظامية وفق نظام المحاماة ولائحته التنفيذية، وإصدار النتيجة فورًا مع بيان أسبابها، وتُدار فيه الخدمات عبر وكلاء رقميين متخصصين. | Designed an operating model for delivering the General Directorate of Legal Profession’s services via the Najiz platform, built around a smart assistant that receives the lawyer’s request, auto-populates their data through integration with relevant stakeholders, validates statutory requirements under the Law of Legal Practice and its Implementing Regulations, and issues an instant decision with its justification. Services are orchestrated by specialized digital agents. |
 | نموذج تشغيلي | Operating model |
 | 2026 | 2026 |
