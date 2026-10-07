@@ -117,8 +117,8 @@
 | العربية | English |
 |---|---|
 | منصة توحيد قاعدة بيانات قطاع المحاماة | Unified Legal Sector Database Platform |
-| مشروع على مرحلتين: الأولى بناء تصوّر يشمل تحليل الفجوات، ونموذج بحيرة بيانات (Data Lakehouse) لتكوين «ملف المحامي الموحد»، ولوحات قيادية على ثلاثة مستويات (الإدارة، الوزارة، المملكة). والثانية تصميم وتطوير نسخة تجريبية من المنصة: قاعدة بيانات موحّدة للمحامين والمتدربين والمنشآت القانونية مع محاكاة التكامل مع الجهات ذات العلاقة. وتعمل النسخة ببيانات افتراضية. | A two-phase project. Phase one developed the concept: a gap analysis, a data lakehouse model to build the Unified Lawyer Profile, and leadership dashboards at three levels (Directorate, Ministry, Kingdom). Phase two designed and built a demonstration version of the platform: a central database of lawyers, trainees and law firms, with simulated integration with the relevant entities. It runs on synthetic data. |
-| منصة تجريبية | Demonstration platform |
+| مشروع على مرحلتين: الأولى بناء تصوّر يشمل تحليل الفجوات، ونموذج بحيرة بيانات (Data Lakehouse) لتكوين «ملف المحامي الموحد»، ولوحات قيادية على ثلاثة مستويات (الإدارة، الوزارة، المملكة). والثانية تصميم وتطوير نسخة من المنصة: قاعدة بيانات موحّدة للمحامين والمتدربين والمنشآت القانونية مع محاكاة التكامل مع الجهات ذات العلاقة. | A two-phase project. Phase one developed the concept: a gap analysis, a data lakehouse model to build the Unified Lawyer Profile, and leadership dashboards at three levels (Directorate, Ministry, Kingdom). Phase two designed and built a version of the platform: a central database of lawyers, trainees and law firms, with simulated integration with the relevant entities. |
+| منصة | Platform |
 | 2026 | 2026 |
 
 ### إعادة تصميم النموذج التشغيلي لخدمات الإدارة العامة للمحاماة بتوظيف الذكاء الاصطناعي
@@ -126,7 +126,7 @@
 |---|---|
 | إعادة تصميم النموذج التشغيلي لخدمات الإدارة العامة للمحاماة بتوظيف الذكاء الاصطناعي | AI-Enabled Redesign of the Operating Model for the General Directorate of Legal Profession Services |
 | إعادة تصميم النموذج التشغيلي لخدمات الإدارة العامة للمحاماة بتوظيف الذكاء الاصطناعي، بما يتيح للمستفيد تقديم الطلب. | Redesign of the operating model for the General Directorate of Legal Profession’s services using AI, enabling beneficiaries to submit their requests. |
-| نموذج تجريبي | Prototype |
+| نموذج تشغيلي | Operating model |
 | 2026 | 2026 |
 
 ### دراسة تفصيلية للنظر في تزايد عدد المحامين المرخصين
