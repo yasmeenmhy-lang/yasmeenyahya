@@ -117,7 +117,7 @@
 | العربية | English |
 |---|---|
 | منصة بيانات قطاع المحاماة | Legal Sector Data Platform |
-| منصة تمثّل مرجعًا موحّدًا لبيانات قطاع المحاماة، تضمّ ملفات المحامين والمتدربين والمنشآت القانونية والممثلين النظاميين ومكاتب المحاماة الأجنبية في ملف موحّد لكل كيان، بالتكامل مع الجهات ذات العلاقة. وتقدّم للقيادات لوحة قيادة ترصد القطاع، وتشمل مؤشرات، وإشعارات استباقية بما يستوجب إجراءً، واستعلامًا ذكيًّا يجيب عن أسئلة القطاع. | A platform serving as a single reference for legal sector data, bringing the files of lawyers, trainees, law firms, legal representatives and foreign law offices into one unified file per entity, integrated with the relevant entities. It provides leadership with a dashboard that monitors the sector, including indicators, proactive notifications on matters requiring action, and a smart query that answers questions about the sector. |
+| منصة تمثّل مرجعًا موحّدًا لبيانات قطاع المحاماة، تضمّ ملفات المحامين والمتدربين والمنشآت القانونية والممثلين النظاميين ومكاتب المحاماة الأجنبية في ملف موحّد لكل كيان، بالتكامل مع الجهات ذات العلاقة. وتقدّم للقيادات لوحة قيادة ترصد القطاع، وتشمل مؤشرات، وإشعارات استباقية بما يستوجب إجراءً، واستعلامًا ذكيًّا يجيب عن أسئلة القطاع. | A unified reference platform for legal sector data that consolidates the records of lawyers, trainees, law firms, legal representatives and foreign law offices into a single profile per entity, integrated with relevant stakeholders. It provides leadership with a sector-monitoring dashboard featuring key indicators, proactive alerts on matters requiring action, and an intelligent query capability for sector insights. |
 | منصة | Platform |
 | 2026 | 2026 |
 
@@ -125,7 +125,7 @@
 | العربية | English |
 |---|---|
 | مقترح المساعد الذكي في ناجز محامين | Proposed Smart Assistant for Najiz Lawyers |
-| تصميم نموذج تشغيلي لتقديم خدمات الإدارة العامة للمحاماة للمحامين عبر منصة ناجز، يختار فيه المحامي الخدمة، فيستكمل المساعد الذكي بياناته آليًّا من الجهات الحكومية، ويتحقق من استيفاء الشروط النظامية وفق نظام المحاماة ولائحته التنفيذية، ثم يُصدر النتيجة فورًا مع بيان أسبابها. وتُدار الخدمات عبر وكلاء رقميين متخصصين. | Design of an operating model that delivers the General Directorate of Legal Profession’s services to lawyers through the Najiz platform. The lawyer selects a service; the smart assistant automatically completes their data from government sources, verifies the statutory conditions under the Code of Law Practice and its implementing regulations, and issues an instant outcome with its reasons. Services are managed by specialized digital agents. |
+| تصميم نموذج تشغيلي لتقديم خدمات الإدارة العامة للمحاماة للمحامين عبر منصة ناجز، يختار فيه المحامي الخدمة، فيستكمل المساعد الذكي بياناته آليًّا من الجهات الحكومية، ويتحقق من استيفاء الشروط النظامية وفق نظام المحاماة ولائحته التنفيذية، ثم يُصدر النتيجة فورًا مع بيان أسبابها. وتُدار الخدمات عبر وكلاء رقميين متخصصين. | Designed an operating model for delivering the General Directorate of Legal Profession’s services to lawyers via the Najiz platform. Once a lawyer selects a service, a smart assistant auto-populates their data from government sources, validates statutory requirements under the Law of Legal Practice and its Implementing Regulations, and issues an instant decision with its justification. Services are orchestrated by specialized digital agents. |
 | نموذج تشغيلي | Operating model |
 | 2026 | 2026 |
 
