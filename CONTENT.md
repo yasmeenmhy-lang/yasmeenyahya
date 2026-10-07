@@ -72,11 +72,10 @@
 | تمكين إدارة التغيير | Change Management Enablement |
 | برنامج تطوير وزارة الحرس الوطني | Ministry of National Guard Development Program (MNGDP) |
 | يناير 2020 – سبتمبر 2022 | Jan 2020 – Sep 2022 |
-| الإسهام في تطوير استراتيجية مركز التميّز لإدارة التغيير، وتنفيذ أنشطة إدارة التغيير ومتابعتها خلال مرحلة الدراسة التفصيلية للمشاريع، بما يضمن حوكمة التغيير واتساقه مع بوابات المحفظة. والمشاركة ضمن فريق بناء ميثاق التحوّل. | Contributed to developing the Change Management Center of Excellence (COE) strategy, and delivered and monitored change management activities during the projects’ detailed study phase, ensuring change governance aligned with portfolio gates. Part of the team that built the Transformation Charter. |
+| المشاركة في بناء وتطوير استراتيجية مركز التميّز لإدارة التغيير، ومتابعة أنشطة المركز والتحقق منها خلال مراحل الدراسة التفصيلية، بما يضمن حوكمة التغيير واتساقها مع بوابات المحفظة. والعضوية في فريق الإشراف ودمج مخرجات المركز في ميثاق تحوّل الحرس الوطني. | Participated in building and developing the Change Management Center of Excellence (COE) strategy, and monitored and validated COE activities during the deep-dive phases, ensuring change governance aligned with portfolio gates. Member of the oversight team that integrated COE outcomes into the National Guard Transformation Charter. |
 | تصميم وتطوير أدوات مركز التميّز لإدارة التغيير، ومنها أداة تقييم أثر التغيير وأداة تقييم الجاهزية للتغيير المرتبطتان ببوابات المحفظة، معتمدة من الرئيس التنفيذي للبرنامج. | Designed and developed the COE change management tools, including the Change Impact Assessment and Change Readiness Assessment tools, linked to portfolio gates and approved by the Program CEO. |
 | وضع معايير القبول الخاصة بالمركز وتضمينها في مراجعات بوابات المحفظة. | Established COE acceptance criteria and embedded them in portfolio gate reviews. |
 | تقييم الأثر والجاهزية للتغيير في مرحلة التصميم، ورفع النتائج إلى الإدارة العليا. | Assessed change impact and readiness during the design phase and submitted the results to senior management. |
-| المشاركة في بناء ميثاق تحوّل الحرس الوطني ضمن فريق الإشراف، ودمج مخرجات المركز وخطته التنفيذية فيه. | Contributed to building the National Guard Transformation Charter as a member of the oversight team, integrating the COE outputs and implementation plan into it. |
 | المشاركة في تطوير استراتيجيات التغيير وأطره ومراجعتها. | Participated in developing and reviewing change strategies and frameworks. |
 
 ### محاضرة جامعية غير متفرّغة — جامعة اليمامة
@@ -96,9 +95,9 @@
 | العمل على تنفيذ مبادرات برنامج تحوّل الفروع على مستوى البنك، وتمكين فروع السيدات من تبنّي الاستراتيجية الجديدة وتطبيقها عبر التوعية والمتابعة الميدانية. | Implemented branch transformation initiatives across the bank as part of the transformation team, and enabled the women’s branches to adopt and apply the new strategy through awareness activities and field follow-up. |
 | تنفيذ مبادرات التحوّل على مستوى الفروع ومواءمة إجراءاتها مع الاستراتيجية الجديدة. | Implemented branch-level transformation initiatives and aligned branch procedures with the new strategy. |
 | تنفيذ أنشطة التواصل والتوعية ونقل المعرفة لدعم تبنّي الموظفين للتغيير. | Delivered communication, awareness and knowledge-transfer activities to support employee adoption of change. |
-| الحد من مقاومة التغيير عبر زيارات ميدانية منتظمة، وتحديد التحديات، وتوجيه فرق الفروع. | Reduced resistance to change through regular field visits, identification of challenges and guidance to branch teams. |
+| الحد من مقاومة التغيير عبر زيارات منتظمة للفروع، وتحديد عوائق التبنّي ومخاوف الموظفين، وتوجيه فرق الفروع. | Reduced resistance to change through regular branch visits, identifying adoption barriers and staff concerns, and coaching branch teams. |
 | التنسيق مع مديري الفروع لتنمية الأعمال وتحسين خدمة العملاء وتحقيق مستهدفات الأداء. | Coordinated with branch managers on business growth, customer service and performance targets. |
-| تحليل فاعلية بطاقة الأداء المتوازن ورفع التوصيات إلى الإدارة العليا. | Analyzed the effectiveness of the balanced scorecard and submitted recommendations to senior management. |
+| تحليل فاعلية بطاقة الأداء المتوازن ورفع التوصيات إلى الإدارة العليا لتحسين الأداء. | Analyzed the effectiveness of the balanced scorecard and submitted recommendations to senior management to improve performance. |
 
 ## المشاريع
 | العربية | English |
