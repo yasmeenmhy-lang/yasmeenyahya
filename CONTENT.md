@@ -12,7 +12,7 @@
 ## النبذة
 | العربية | English |
 |---|---|
-| خبرة تتجاوز اثني عشر عامًا في تمكين التحول وإدارة التغيير، في القطاع المصرفي وبرامج التطوير الحكومية والقطاع العدلي. وتشمل إعداد الخطط التنفيذية، وقياس المنافع المتحققة، واستدامة القيمة بعد تسليم المشاريع. ومن أبرز المخرجات ثلاث منهجيات معتمدة من القيادة: منهجية استدامة المشاريع، ومنهجية تمكين المحاكم، وأدوات مركز التميّز لإدارة التغيير. | More than twelve years of experience in transformation enablement and change management across banking, government development programs and the justice sector, covering execution planning, measurement of realized benefits and sustaining value after project handover. Key outputs include three leadership-approved methodologies: the Project Sustainability Methodology, the Court Empowerment Methodology and the Change Center of Excellence toolkits. |
+| خبرة تتجاوز اثني عشر عامًا في تمكين التحول وإدارة التغيير، في القطاع المصرفي وبرامج التطوير الحكومية والقطاع العدلي. وتشمل إعداد الخطط التنفيذية، وقياس المنافع المتحققة، واستدامة القيمة بعد تسليم المشاريع. ومن أبرز المخرجات ثلاثة مخرجات معتمدة من القيادة: منهجية استدامة المشاريع، والخطة التنفيذية لتمكين المحاكم، وأدوات مركز التميّز لإدارة التغيير. | More than twelve years of experience in transformation enablement and change management across banking, government development programs and the justice sector, covering execution planning, measurement of realized benefits and sustaining value after project handover. Key outputs include three leadership-approved deliverables: the MOJ–VRO Project Sustainability Methodology, the Courts Enablement Execution Plan and the Change Center of Excellence Toolkits. |
 
 ## الأرقام الرئيسية
 | العربية | English |
@@ -54,17 +54,17 @@
 | وزارة العدل – مكتب تحقيق الرؤية | Ministry of Justice – Vision Realization Office (VRO) |
 | سبتمبر 2022 – حتى الآن | Sep 2022 – Present |
 | إدارة تمكين منافع البرامج والمشاريع، بخبرة تجمع بين إدارة التغيير ودعم القرار والتحول الرقمي، ومخرجات معتمدة من القيادة العليا تشمل منهجيات ودراسات وخططًا تنفيذية وحلولًا رقمية. | Leads benefits enablement for programs and projects, integrating change management, decision support and digital transformation, with leadership-approved outputs spanning methodologies, studies, execution plans and digital solutions. |
-| تصميم وتطوير حلول رقمية للإدارة العامة للمحاماة، منها الأداة المساعدة لتمكين الظهور الإعلامي للمحامين، ومنصة قاعدة البيانات، وإعادة تصميم النموذج التشغيلي بتوظيف الذكاء الاصطناعي. | Designed and developed digital solutions for the General Directorate of Law Practice, including the AI Media Appearance Compliance Tool for Lawyers, the Law Practice Sector Data Platform and the AI-enabled redesign of the operating model. |
-| إعداد «دراسة تفصيلية للنظر في تزايد عدد المحامين المرخصين»، معتمدة من معالي وزير العدل. | Prepared the Detailed Study on the Increase in the Number of Licensed Lawyers, approved by the Minister of Justice. |
-| إعداد الخطة التنفيذية لتطوير قطاع المحاماة استنادًا إلى تحليل الفجوات وخمس ورش عمل بالتعاون مع الهيئة السعودية للمحامين بمشاركة نحو 82 محاميًا. | Developed the law practice sector execution plan based on a gap analysis and five workshops held with the Saudi Bar Association and attended by around 82 lawyers. |
-| إعداد العروض التنفيذية لأربعة اجتماعات دورية متتالية مع معالي وزير العدل. | Prepared the executive presentations for four consecutive periodic meetings with H.E. the Minister of Justice. |
-| إعداد اللقاء التعريفي لمكاتب المحاماة الأجنبية المرخصة بمشاركة الجهات الحكومية ذات العلاقة. | Prepared the introductory forum for licensed foreign law firms in coordination with the relevant government entities. |
-| بناء تقرير لقياس الأثر العدلي والأداء المؤسسي في التقارير السنوية لرؤية السعودية 2030. | Developed a report to measure judicial impact and institutional performance for the Saudi Vision 2030 annual reports. |
-| إعداد دراسة تنظيمية لتعزيز التنسيق المؤسسي في الوزارة، تشمل تحليل الفجوات والمقارنة المعيارية والهيكل المقترح ومؤشرات الأثر. | Prepared an organizational study on strengthening institutional coordination across the Ministry, covering gap analysis, benchmarking, a proposed structure and impact indicators. |
-| إعداد المنهجية التنفيذية لتمكين المحاكم وخطتها التفصيلية، والمشاركة في زيارات التمكين الميدانية. | Prepared the court empowerment execution methodology and its detailed plan, and participated in the court empowerment field visits. |
+| تصميم وتطوير حلول رقمية للإدارة العامة للمحاماة، منها الأداة المساعدة لتمكين الظهور الإعلامي والإعلاني للمحامين، ومنصة بيانات قطاع المحاماة، والمساعد الذكي. | Designed and developed digital solutions for the General Directorate of Law Practice, including the Lawyers’ Media and Advertising Enablement Tool, the Law Practice Data Platform and the AI Assistant. |
+| إعداد «دراسة تفصيلية للنظر في تزايد عدد المحامين المرخصين»، معتمدة من معالي وزير العدل. | Prepared the Licensed Lawyers Growth Study, approved by the Minister of Justice. |
+| إعداد الخطة التنفيذية لتطوير قطاع المحاماة من خلال خمس ورش عمل في الهيئة السعودية للمحامين بمشاركة نحو 82 محاميًا. | Developed the Law Practice Sector Development Execution Plan through five workshops held at the Saudi Bar Association with around 82 participating lawyers. |
+| إعداد العروض التنفيذية لأربعة اجتماعات مع معالي وزير العدل. | Developed the presentations for four meetings with H.E. the Minister of Justice. |
+| إعداد خطة اللقاء التعريفي لمكاتب المحاماة الأجنبية المرخصة بمشاركة الجهات الحكومية ذات العلاقة. | Prepared the Foreign Law Firms Forum plan with the participation of relevant government entities. |
+| مراجعة إسهام وزارة العدل في التقرير السنوي لرؤية السعودية 2030، مع توصيات لإبراز منجزاتها وأثرها في التقارير القادمة. | Reviewed the Ministry of Justice contribution to the Saudi Vision 2030 Annual Report, with recommendations to better highlight its achievements and impact in future reports. |
+| إعداد دراسة إدارة الشؤون البينية (التنسيق المؤسسي) لتعزيز التنسيق والتكامل على مستوى الوزارة. | Prepared the Interdepartmental Affairs (Institutional Coordination) Study to strengthen coordination and integration across the Ministry. |
+| إعداد الخطة التنفيذية لتمكين المحاكم لإدارة الزيارات على ثلاث مراحل، والمشاركة في الزيارات الميدانية. | Prepared the Courts Enablement Execution Plan for managing court visits across three stages, and participated in the field visits. |
 | تصميم بوابات ضمان القيمة وتطبيقها، لضمان تحقيق القيمة المضافة قبل التسليم واستمرارية الأعمال بعد الإغلاق. | Designed and applied value-assurance gates to ensure added value before handover and business continuity after closure. |
 | إعداد الحقيبة التدريبية ودليل منهجية الاستدامة، وتدريب منسوبي الوزارة ومديري المشاريع على تطبيقها. | Prepared the sustainability training kit and methodology handbook, and trained MOJ staff and project managers on their application. |
-| تطوير منهجية استدامة مشاريع الوزارة ومكتب تحقيق الرؤية، معتمدة من معالي وزير العدل، وتطبيقها على مشاريع عامَي 2022 و2023. | Developed the MOJ–VRO Project Sustainability Methodology, approved by the Minister of Justice, and applied it to the 2022 and 2023 projects. |
+| تطوير منهجية استدامة مشاريع وزارة العدل ومكتب تحقيق الرؤية، معتمدة من معالي وزير العدل، وتطبيقها على مشاريع عامَي 2022 و2023. | Developed the MOJ–VRO Project Sustainability Methodology, approved by the Minister of Justice, and applied it to the 2022 and 2023 projects. |
 
 ### تمكين إدارة التغيير — برنامج تطوير وزارة الحرس الوطني
 | العربية | English |
@@ -105,11 +105,11 @@
 |---|---|
 | منصات رقمية ومنهجيات عمل ودراسات معتمدة من القيادة العليا. | Digital platforms, methodologies and studies approved by senior leadership. |
 
-### الأداة المساعدة لتمكين الظهور الإعلامي للمحامين
+### الأداة المساعدة لتمكين الظهور الإعلامي والإعلاني للمحامين
 | العربية | English |
 |---|---|
-| الأداة المساعدة لتمكين الظهور الإعلامي للمحامين | Lawyers’ Media and Advertising Enablement Tool |
-| أداة رقمية ضمن مشروع «الإطار التنظيمي للظهور الإعلامي والإعلاني للمحامين»، توظّف الذكاء الاصطناعي في فحص المحتوى الإعلامي والإعلاني قبل نشره، وتُصدر توصيات مستندة إلى نظام المحاماة ولائحته التنفيذية وقواعد السلوك المهني. | A digital tool that applies AI to review lawyers’ media and advertising content before publication and provides recommendations based on the Implementing Regulations of the Code of Law Practice and the Rules of Professional Conduct for Lawyers. |
+| الأداة المساعدة لتمكين الظهور الإعلامي والإعلاني للمحامين | Lawyers’ Media and Advertising Enablement Tool |
+| أداة رقمية توظّف الذكاء الاصطناعي في مراجعة المحتوى الإعلامي والإعلاني للمحامين قبل نشره، وتقدّم توصيات مستندة إلى اللائحة التنفيذية لنظام المحاماة وقواعد السلوك المهني للمحامين. | A digital tool that applies AI to review lawyers’ media and advertising content before publication and provides recommendations based on the Implementing Regulations of the Code of Law Practice and the Rules of Professional Conduct for Lawyers. |
 | منصة | Platform |
 | 2026 | 2026 |
 
@@ -133,7 +133,7 @@
 | العربية | English |
 |---|---|
 | دراسة تفصيلية للنظر في تزايد عدد المحامين المرخصين | Licensed Lawyers Growth Study |
-| دراسة تحليلية مقارنة لاتجاه التزايد في أعداد المحامين المرخصين وأثره التنظيمي والمهني، تحدد موقع المملكة معياريًا من حيث كثافة المحامين ومعدلات النمو وأنماط السوق مقارنةً بدول المقارنة، وتنتهي إلى توصيات تنفيذية في الدخول إلى المهنة والتصنيف والتطوير المهني المستمر. | A study of the growth in the number of licensed lawyers in the Kingdom, covering the number of lawyers relative to the population, growth rates, and market patterns. It also includes comparisons with selected countries to support planning and decision-making. |
+| دراسة لنمو أعداد المحامين المرخصين في المملكة، تشمل نسبة المحامين إلى عدد السكان ومعدلات النمو وأنماط السوق، مع مقارنات بدول مختارة لدعم التخطيط واتخاذ القرار. | A study of the growth in the number of licensed lawyers in the Kingdom, covering the number of lawyers relative to the population, growth rates, and market patterns. It also includes comparisons with selected countries to support planning and decision-making. |
 | دراسة — معتمد من معالي وزير العدل | Study — Approved by the Minister of Justice |
 | 2026 | 2026 |
 
@@ -141,15 +141,15 @@
 | العربية | English |
 |---|---|
 | الخطة التنفيذية لتطوير قطاع المحاماة | Law Practice Sector Development Execution Plan |
-| إعداد الخطة التنفيذية لتطوير قطاع المحاماة استنادًا إلى أربعة أسس تنظيمية: الوضوح والشفافية، والمؤسسية وتعميق المهنة وتمكينها، وتأهيل الأفراد وحفظ حقوق العملاء، والعدالة الوقائية. وشمل العمل تحليل الفجوات والمقارنة المعيارية الدولية، وعقد خمس ورش عمل بالتعاون مع الهيئة السعودية للمحامين بمشاركة نحو 82 محاميًا، للتحقق من الفجوات المرصودة ورصد فجوات جديدة وترتيب الأولويات وفق الأثر وإمكانات التنفيذ، وانتهى إلى خطة المشاريع التطويرية ذات الأولوية. | An execution plan for developing the law practice sector. The plan was developed through a workshop held at the Saudi Bar Association with participating lawyers and sets out the foundations and initiatives for the development of the sector. |
+| خطة تنفيذية لتطوير قطاع المحاماة، أُعدّت من خلال ورش عمل في الهيئة السعودية للمحامين بمشاركة المحامين، وتحدد الأسس والمبادرات اللازمة لتطوير القطاع. | An execution plan for developing the law practice sector. The plan was developed through workshops held at the Saudi Bar Association with participating lawyers and sets out the foundations and initiatives for the development of the sector. |
 | خطة تنفيذية | Execution plan |
 | 2026 | 2026 |
 
-### إعداد العروض التنفيذية للاجتماعات الدورية مع معالي وزير العدل
+### العروض التنفيذية لاجتماعات معالي وزير العدل
 | العربية | English |
 |---|---|
-| إعداد العروض التنفيذية للاجتماعات الدورية مع معالي وزير العدل | Presentations for Meetings with H.E. the Minister of Justice |
-| إعداد العروض التنفيذية لأربعة اجتماعات دورية متتالية مع معالي وزير العدل، شاملًا هيكلة المحتوى وصياغة الرسائل الرئيسية وتصميم العرض. | Developed comprehensive presentations for meetings with H.E. the Minister of Justice, covering key topics related to the portfolio and its work. |
+| العروض التنفيذية لاجتماعات معالي وزير العدل | Presentations for Meetings with H.E. the Minister of Justice |
+| إعداد عروض شاملة لاجتماعات معالي وزير العدل، تغطي الموضوعات الرئيسة المتعلقة بالمحفظة وأعمالها. | Developed comprehensive presentations for meetings with H.E. the Minister of Justice, covering key topics related to the portfolio and its work. |
 | عروض تنفيذية | Executive presentations |
 | 2025–2026 | 2025–2026 |
 
@@ -157,39 +157,39 @@
 | العربية | English |
 |---|---|
 | اللقاء التعريفي لمكاتب المحاماة الأجنبية | Foreign Law Firms Forum |
-| إعداد لقاء تعريفي وورشة عمل مع مكاتب المحاماة الأجنبية المرخصة بمشاركة الجهات الحكومية ذات العلاقة، لتوحيد الرسائل وتعزيز الامتثال للالتزامات النظامية. ويحدد محاور اللقاء، ومعايير قياس التزامات نقل المعرفة والتوطين، والمخرجات المستهدفة. | A concept and plan for a proposed workshop bringing together licensed foreign law firms and relevant government entities, including the workshop structure, key topics, and proposed approach. |
+| خطة لقاء تعريفي وورشة عمل تجمع مكاتب المحاماة الأجنبية المرخصة والجهات الحكومية ذات العلاقة، تشمل هيكل الورشة ومحاورها الرئيسة ومنهجية تنفيذها. | A plan for an introductory forum and workshop bringing together licensed foreign law firms and relevant government entities, including the workshop structure, key topics and approach. |
 | لقاء تعريفي | Introductory forum |
 | 2026 | 2026 |
 
-### بناء تقرير لقياس الأثر العدلي في التقارير السنوية لرؤية السعودية 2030
+### إسهام وزارة العدل في التقرير السنوي لرؤية السعودية 2030
 | العربية | English |
 |---|---|
-| بناء تقرير لقياس الأثر العدلي في التقارير السنوية لرؤية السعودية 2030 | Ministry of Justice Contribution to the Saudi Vision 2030 Annual Report |
-| بناء تقرير لرفع جاهزية الوزارة وتعزيز حضور منجزاتها في التقارير السنوية لرؤية السعودية 2030، استنادًا إلى قراءة تحليلية للتقارير السابقة. ويحدد مسارات الأثر العدلي ببطاقة أثر لكل مسار، وآلية لقياس الأداء المؤسسي. | A review of the Ministry of Justice’s contribution to the Saudi Vision 2030 Annual Report, with recommendations to better highlight its achievements, impact, and progress in future reports. |
+| إسهام وزارة العدل في التقرير السنوي لرؤية السعودية 2030 | Ministry of Justice Contribution to the Saudi Vision 2030 Annual Report |
+| مراجعة لإسهام وزارة العدل في التقرير السنوي لرؤية السعودية 2030، مع توصيات لإبراز منجزاتها وأثرها وتقدّمها في التقارير القادمة. | A review of the Ministry of Justice’s contribution to the Saudi Vision 2030 Annual Report, with recommendations to better highlight its achievements, impact, and progress in future reports. |
 | تقرير | Report |
 | 2026 | 2026 |
 
-### دراسة تنظيمية لتعزيز التنسيق المؤسسي في وزارة العدل
+### دراسة إدارة الشؤون البينية (التنسيق المؤسسي)
 | العربية | English |
 |---|---|
-| دراسة تنظيمية لتعزيز التنسيق المؤسسي في وزارة العدل | Interdepartmental Affairs (Institutional Coordination) Study |
-| دراسة لتقييم الحاجة إلى جهة مركزية للتنسيق المؤسسي ترتبط بالقيادة العليا، تشمل تحليل الوضع الراهن والفجوات، والمقارنة المعيارية مع وزارات عدل دولية وجهات محلية، وتحليل الفرص والمخاطر، وتنتهي إلى إطار استراتيجي وهيكل تنظيمي ومؤشرات لقياس الأثر. | A study on establishing an Interdepartmental Affairs Department within the Ministry of Justice to strengthen coordination and integration across the Ministry. |
+| دراسة إدارة الشؤون البينية (التنسيق المؤسسي) | Interdepartmental Affairs (Institutional Coordination) Study |
+| دراسة لإنشاء إدارة للشؤون البينية في وزارة العدل، بهدف تعزيز التنسيق والتكامل على مستوى الوزارة. | A study on establishing an Interdepartmental Affairs Department within the Ministry of Justice to strengthen coordination and integration across the Ministry. |
 | دراسة | Study |
 | 2025 | 2025 |
 
-### منهجية الخطة التنفيذية لتمكين المحاكم
+### الخطة التنفيذية لتمكين المحاكم
 | العربية | English |
 |---|---|
-| منهجية الخطة التنفيذية لتمكين المحاكم | Courts Enablement Execution Plan |
-| منهجية وخطة تفصيلية لزيارات تمكين المحاكم ضمن محفظة القضاء. تستهدف المحاكم وفق مؤشرات العمليات وتذاكر الدعم، وتُنظَّم على ثلاث مراحل: قبل الزيارة (التوعية وتحديد التحديات)، وأثناءها (الدعم ونقل المعرفة)، وبعدها (قياس أثر الزيارة وتحليل نتائجها، وتقديم توصيات التحسين، ومتابعة الأداء). وتشمل الخطة تصنيف المحاكم المستهدفة حسب المناطق، والغرض من كل زيارة وأثرها المتوقع، وبطاقة اعتماد الزيارة. | A plan for managing court visits across three stages: before, during, and after each visit, with a clear approach for supporting courts and following up on outcomes. |
-| منهجية — معتمد من وكيل الوزارة للشؤون القضائية | Methodology — Approved by the Deputy Minister for Judicial Affairs |
+| الخطة التنفيذية لتمكين المحاكم | Courts Enablement Execution Plan |
+| خطة لإدارة زيارات المحاكم على ثلاث مراحل: قبل كل زيارة وأثناءها وبعدها، مع منهجية واضحة لدعم المحاكم ومتابعة النتائج. | A plan for managing court visits across three stages: before, during, and after each visit, with a clear approach for supporting courts and following up on outcomes. |
+| خطة تنفيذية — معتمد من وكيل الوزارة للشؤون القضائية | Execution plan — Approved by the Deputy Minister for Judicial Affairs |
 | 2024 | 2024 |
 
 ### منهجية استدامة مشاريع وزارة العدل ومكتب تحقيق الرؤية
 | العربية | English |
 |---|---|
 | منهجية استدامة مشاريع وزارة العدل ومكتب تحقيق الرؤية | MOJ–VRO Project Sustainability Methodology |
-| منهجية لضمان تحقق القيمة المضافة واستمرارية الأعمال بعد تسليم المشاريع، طُبّقت على مشاريع عامَي 2022 و2023. وتشمل بطاقة الاستدامة وضمان تحقيق الأثر، والحقيبة التدريبية، وتوثيق الإجراءات وخرائط سير العمل، وتحديد المهام والمسؤوليات التنظيمية بما فيها سلسلة القيمة ومصفوفة الصلاحيات وآلية تصنيف المشاريع حسب الأولوية. | A methodology for maintaining project outcomes and impact after project closure. It includes the Sustainability & Impact Assurance Card, a training kit, documented procedures and workflows, a value chain, a RACI matrix, defined organizational roles and responsibilities, and a project classification mechanism. |
+| منهجية للحفاظ على مخرجات المشاريع وأثرها بعد إغلاقها، تشمل بطاقة الاستدامة وضمان تحقيق الأثر، والحقيبة التدريبية، وتوثيق الإجراءات وخرائط سير العمل، وسلسلة القيمة، ومصفوفة الصلاحيات (RACI)، وتحديد الأدوار والمسؤوليات التنظيمية، وآلية تصنيف المشاريع. | A methodology for maintaining project outcomes and impact after project closure. It includes the Sustainability & Impact Assurance Card, a training kit, documented procedures and workflows, a value chain, a RACI matrix, defined organizational roles and responsibilities, and a project classification mechanism. |
 | منهجية — معتمد من معالي وزير العدل | Methodology — Approved by the Minister of Justice |
 | 2022–2023 | 2022–2023 |
 
@@ -197,7 +197,7 @@
 | العربية | English |
 |---|---|
 | أدوات مركز التميّز لإدارة التغيير — برنامج تطوير وزارة الحرس الوطني | Change Center of Excellence Toolkits — MNGDP |
-| تصميم وتطوير أدوات إدارة التغيير لمركز التميّز، معتمدة من الرئيس التنفيذي للبرنامج، ومرتبطة ببوابات المحفظة. وتشمل أداة تقييم أثر التغيير، التي تقيس حجم التغيير وطبيعته ومستوى تحمّل وحدات الأعمال، وتحلّل الأثر وسهولة الانتقال وتُخرج لوحات متابعة وخرائط حرارية؛ وأداة تقييم الجاهزية للتغيير، وهي استبانة باللغتين مبنية على نموذج ADKAR، تُطبَّق في مراحل التصميم وما قبل الإطلاق وما بعده. | A set of Change Center of Excellence tools approved by the Program CEO and linked to portfolio gates. The tools include the Change Impact Assessment and Change Readiness Assessment to support change planning, assess readiness, and track change across key project stages. |
+| مجموعة أدوات لمركز التميّز لإدارة التغيير، معتمدة من الرئيس التنفيذي للبرنامج ومرتبطة ببوابات المحفظة، تشمل أداة تقييم أثر التغيير وأداة تقييم الجاهزية للتغيير، لدعم تخطيط التغيير وتقييم الجاهزية ومتابعة التغيير عبر المراحل الرئيسة للمشاريع. | A set of Change Center of Excellence tools approved by the Program CEO and linked to portfolio gates. The tools include the Change Impact Assessment and Change Readiness Assessment to support change planning, assess readiness, and track change across key project stages. |
 | أدوات قياس — معتمد من الرئيس التنفيذي للبرنامج | Assessment tools — Approved by the Program CEO |
 | 2020–2022 | 2020–2022 |
 
