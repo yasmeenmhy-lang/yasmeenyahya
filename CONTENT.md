@@ -54,7 +54,7 @@
 | وزارة العدل – مكتب تحقيق الرؤية | Ministry of Justice – Vision Realization Office (VRO) |
 | سبتمبر 2022 – حتى الآن | Sep 2022 – Present |
 | إدارة تمكين منافع البرامج والمشاريع، بخبرة تجمع بين إدارة التغيير ودعم القرار والتحول الرقمي، ومخرجات معتمدة من القيادة العليا تشمل منهجيات ودراسات وخططًا تنفيذية وحلولًا رقمية. | Managing programmes and projects benefits enablement, combining change management, decision support and digital transformation, with leadership-approved outputs spanning methodologies, studies, execution plans and digital solutions. |
-| تصميم وتطوير حلول رقمية للإدارة العامة للمحاماة، منها الأداة المساعدة لتمكين الظهور الإعلامي للمحامين، ومنصة قاعدة البيانات، وإعادة تصميم النموذج التشغيلي بتوظيف الذكاء الاصطناعي. | Designed and developed digital solutions for the General Directorate of Legal Profession, including the Lawyers’ Media Appearance Enablement Tool, the database platform, and the redesign of the operating model using AI. |
+| تصميم وتطوير حلول رقمية للإدارة العامة للمحاماة، منها الأداة المساعدة لتمكين الظهور الإعلامي للمحامين، ومنصة قاعدة البيانات، وإعادة تصميم النموذج التشغيلي بتوظيف الذكاء الاصطناعي. | Designed and developed digital solutions for the General Directorate of Legal Profession, including the AI Media Compliance Tool for Lawyers, the legal sector data platform and the AI-enabled redesign of the operating model. |
 | إعداد «دراسة تفصيلية للنظر في تزايد عدد المحامين المرخصين»، معتمدة من معالي وزير العدل. | Prepared the Detailed Study on the Increase in the Number of Licensed Lawyers, approved by the Minister of Justice. |
 | إعداد الخطة التنفيذية لتطوير قطاع المحاماة استنادًا إلى تحليل الفجوات وخمس ورش عمل بالتعاون مع الهيئة السعودية للمحامين بمشاركة نحو 82 محاميًا. | Developed the legal profession sector execution plan based on a gap analysis and five workshops held with the Saudi Bar Association with around 82 lawyers. |
 | إعداد العروض التنفيذية لأربعة اجتماعات دورية متتالية مع معالي وزير العدل. | Prepared the executive presentations for four consecutive periodic meetings with H.E. the Minister of Justice. |
@@ -108,8 +108,8 @@
 ### الأداة المساعدة لتمكين الظهور الإعلامي للمحامين
 | العربية | English |
 |---|---|
-| الأداة المساعدة لتمكين الظهور الإعلامي للمحامين | Lawyers’ Media Appearance Enablement Tool |
-| أداة رقمية ضمن مشروع «الإطار التنظيمي للظهور الإعلامي والإعلاني للمحامين»، توظّف الذكاء الاصطناعي في فحص المحتوى الإعلامي والإعلاني قبل نشره، وتُصدر توصيات مستندة إلى نظام المحاماة ولائحته التنفيذية وقواعد السلوك المهني. | A digital tool under the “Regulatory Framework for Lawyers’ Media and Advertising Appearance” project that applies AI to review media and advertising content before publication and issues recommendations based on the Law of Legal Practice, its Implementing Regulations and the Code of Professional Conduct. |
+| الأداة المساعدة لتمكين الظهور الإعلامي للمحامين | AI Media Compliance Tool for Lawyers |
+| أداة رقمية ضمن مشروع «الإطار التنظيمي للظهور الإعلامي والإعلاني للمحامين»، توظّف الذكاء الاصطناعي في فحص المحتوى الإعلامي والإعلاني قبل نشره، وتُصدر توصيات مستندة إلى نظام المحاماة ولائحته التنفيذية وقواعد السلوك المهني. | An AI-powered digital tool, developed under the Regulatory Framework for Lawyers’ Media and Advertising Presence, that reviews lawyers’ media and advertising content prior to publication and provides compliance recommendations grounded in the Law of Legal Practice, its Implementing Regulations and the Code of Professional Conduct. |
 | منصة | Platform |
 | 2026 | 2026 |
 
