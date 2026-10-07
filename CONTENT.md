@@ -126,7 +126,7 @@
 |---|---|
 | المساعد الذكي | AI Assistant |
 | نموذج تشغيلي لتقديم خدمات الإدارة العامة للمحاماة عبر منصة ناجز، يعتمد على الذكاء الاصطناعي لاستقبال طلبات المحامين واستكمال البيانات من خلال التكامل مع الجهات ذات العلاقة، والتحقق من استيفاء المتطلبات وإصدار النتيجة بشكل مباشر، من خلال وكلاء ذكاء اصطناعي متخصصين. | An operating model for delivering the General Directorate’s services through the Najiz platform. The AI Assistant receives lawyers’ applications, retrieves the required information through integration with relevant entities, assesses each application against applicable requirements, and provides an immediate decision. Services are delivered through specialized AI agents. |
-| مقترح جاهز للتطبيق | Ready-to-implement proposal |
+| نموذج تشغيلي | Operating model |
 | 2026 | 2026 |
 
 ### دراسة تزايد أعداد المحامين المرخصين
@@ -157,7 +157,7 @@
 | العربية | English |
 |---|---|
 | اللقاء التعريفي لمكاتب المحاماة الأجنبية | Foreign Law Firms Forum |
-| إعداد خطة للقاء تعريفي وورشة عمل تجمع مكاتب المحاماة الأجنبية المرخصة والجهات الحكومية ذات العلاقة، تشمل هيكلة اللقاء ومحاوره وآلية تنفيذه والمخرجات المستهدفة. | A plan for an introductory forum and workshop bringing together licensed foreign law firms and relevant government entities, including the forum structure, key topics, delivery approach, and target outcomes. |
+| إعداد خطة للقاء تعريفي وورشة عمل بمشاركة مكاتب المحاماة الأجنبية المرخصة والجهات الحكومية ذات العلاقة، تشمل هيكلة اللقاء ومحاوره وآلية تنفيذه والمخرجات المستهدفة. | A plan for an introductory forum and workshop with the participation of licensed foreign law firms and relevant government entities, including the forum structure, key topics, delivery approach, and target outcomes. |
 | لقاء تعريفي | Introductory forum |
 | 2026 | 2026 |
 
