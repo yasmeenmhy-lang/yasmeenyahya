@@ -12,7 +12,7 @@
 ## النبذة
 | العربية | English |
 |---|---|
-| خبرة تتجاوز اثني عشر عامًا في تمكين التحول وإدارة التغيير، في القطاع المصرفي وبرامج التطوير الحكومية والقطاع العدلي. وتشمل إعداد الخطط التنفيذية، وقياس المنافع المتحققة، واستدامة القيمة بعد تسليم المشاريع. ومن أبرز المخرجات ثلاثة مخرجات معتمدة من القيادة: منهجية استدامة المشاريع، والخطة التنفيذية لتمكين المحاكم، وأدوات مركز التميّز لإدارة التغيير. | More than twelve years of experience in transformation enablement and change management across banking, government development programs and the justice sector, covering execution planning, measurement of realized benefits and sustaining value after project handover. Key outputs include three leadership-approved deliverables: the MOJ–VRO Project Sustainability Methodology, the Courts Enablement Execution Plan and the Change Center of Excellence Toolkits. |
+| خبرة تتجاوز اثني عشر عامًا في تمكين التحول وإدارة التغيير، في القطاع المصرفي وبرامج التطوير الحكومية والقطاع العدلي. وتشمل إعداد الخطط التنفيذية، وقياس المنافع المتحققة، واستدامة القيمة بعد تسليم المشاريع. ومن أبرز المخرجات ثلاثة مخرجات معتمدة من القيادة: منهجية استدامة المشاريع، والخطة التنفيذية لتمكين المحاكم، وأدوات مركز التميّز لإدارة التغيير. | More than twelve years of experience in transformation enablement and change management across banking, government development programs and the justice sector, covering execution planning, measurement of realized benefits and sustaining value after project handover. Key outputs include three leadership-approved deliverables: the MOJ–VRO Project Sustainability Methodology, the Courts Enablement Execution Plan and the Change COE Toolkits. |
 
 ## الأرقام الرئيسية
 | العربية | English |
@@ -72,9 +72,9 @@
 | تمكين إدارة التغيير | Change Management Enablement |
 | برنامج تطوير وزارة الحرس الوطني | Ministry of National Guard Development Program (MNGDP) |
 | يناير 2020 – سبتمبر 2022 | Jan 2020 – Sep 2022 |
-| المشاركة في بناء وتطوير استراتيجية مركز التميّز لإدارة التغيير، ومتابعة أنشطة المركز والتحقق منها خلال مراحل الدراسة التفصيلية، بما يضمن حوكمة التغيير واتساقها مع بوابات المحفظة. والعضوية في فريق الإشراف ودمج مخرجات المركز في ميثاق تحوّل الحرس الوطني. | Participated in building and developing the Change Management Center of Excellence (COE) strategy, and monitored and validated COE activities during the deep-dive phases, ensuring change governance aligned with portfolio gates. Member of the oversight team that integrated COE outcomes into the National Guard Transformation Charter. |
-| تصميم وتطوير أدوات مركز التميّز لإدارة التغيير، ومنها أداة تقييم أثر التغيير وأداة تقييم الجاهزية للتغيير المرتبطتان ببوابات المحفظة، معتمدة من الرئيس التنفيذي للبرنامج. | Designed and developed the COE change management tools, including the Change Impact Assessment and Change Readiness Assessment tools, linked to portfolio gates and approved by the Program CEO. |
-| وضع معايير القبول الخاصة بالمركز وتضمينها في مراجعات بوابات المحفظة. | Established COE acceptance criteria and embedded them in portfolio gate reviews. |
+| المشاركة في بناء وتطوير استراتيجية مركز التميّز لإدارة التغيير، ومتابعة أنشطة المركز والتحقق منها خلال مراحل الدراسة التفصيلية، بما يضمن حوكمة التغيير واتساقها مع بوابات المحفظة. وعضو في فريق الإشراف على بناء استراتيجية ميثاق تحوّل وزارة الحرس الوطني. | Participated in building and developing the Change COE strategy, and monitored and validated Change COE activities during the deep-dive phases, ensuring change governance aligned with portfolio gates. Member of the oversight team for building the Ministry of National Guard Transformation Charter Strategy. |
+| تصميم وتطوير أدوات مركز التميّز لإدارة التغيير، ومنها أداة تقييم أثر التغيير وأداة تقييم الجاهزية للتغيير المرتبطتان ببوابات المحفظة، معتمدة من الرئيس التنفيذي للبرنامج. | Designed and developed the Change COE tools, including the Change Impact Assessment and Change Readiness Assessment tools, linked to portfolio gates and approved by the Program CEO. |
+| وضع معايير القبول الخاصة بالمركز وتضمينها في مراجعات بوابات المحفظة. | Established Change COE acceptance criteria and embedded them in portfolio gate reviews. |
 | تقييم الأثر والجاهزية للتغيير في مرحلة التصميم، ورفع النتائج إلى الإدارة العليا. | Assessed change impact and readiness during the design phase and submitted the results to senior management. |
 | المشاركة في تطوير استراتيجيات التغيير وأطره ومراجعتها. | Participated in developing and reviewing change strategies and frameworks. |
 
@@ -195,8 +195,8 @@
 ### أدوات مركز التميز لإدارة التغيير
 | العربية | English |
 |---|---|
-| أدوات مركز التميز لإدارة التغيير | Change Center of Excellence Tools |
-| تصميم وتطوير أدوات مركز التميز لإدارة التغيير، معتمدة من الرئيس التنفيذي للبرنامج ومرتبطة ببوابات المحفظة. وتشمل أداة تقييم أثر التغيير، التي تقيس حجم التغيير وطبيعته، ومستوى قدرة وحدات الأعمال على تحمّل التغيير، والأثر، وسهولة الانتقال، وتُنتج لوحات متابعة وخرائط حرارية؛ وأداة تقييم الجاهزية للتغيير، وهي استبانة باللغتين مبنية على نموذج ADKAR، تُنفَّذ في مراحل التصميم وما قبل الإطلاق وما بعده. | Design and development of the Change Center of Excellence tools, approved by the Program CEO and linked to portfolio gates. The tools include the Change Impact Assessment, which measures the scale and nature of change, business-area change tolerance, impact, and ease of transition, and produces dashboards and heat maps; and the Change Readiness Assessment, a bilingual ADKAR-based survey conducted at the design, pre-launch, and post-launch stages. |
+| أدوات مركز التميز لإدارة التغيير | Change COE Tools |
+| تصميم وتطوير أدوات مركز التميز لإدارة التغيير، معتمدة من الرئيس التنفيذي للبرنامج ومرتبطة ببوابات المحفظة. وتشمل أداة تقييم أثر التغيير، التي تقيس حجم التغيير وطبيعته، ومستوى قدرة وحدات الأعمال على تحمّل التغيير، والأثر، وسهولة الانتقال، وتُنتج لوحات متابعة وخرائط حرارية؛ وأداة تقييم الجاهزية للتغيير، وهي استبانة باللغتين مبنية على نموذج ADKAR، تُنفَّذ في مراحل التصميم وما قبل الإطلاق وما بعده. | Design and development of the Change COE tools, approved by the Program CEO and linked to portfolio gates. The tools include the Change Impact Assessment, which measures the scale and nature of change, business-area change tolerance, impact, and ease of transition, and produces dashboards and heat maps; and the Change Readiness Assessment, a bilingual ADKAR-based survey conducted at the design, pre-launch, and post-launch stages. |
 | أدوات قياس — معتمد من الرئيس التنفيذي للبرنامج | Assessment tools — Approved by the Program CEO |
 | 2020–2022 | 2020–2022 |
 
