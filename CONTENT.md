@@ -108,16 +108,16 @@
 ### الأداة المساعدة لتمكين الظهور الإعلامي للمحامين
 | العربية | English |
 |---|---|
-| الأداة المساعدة لتمكين الظهور الإعلامي للمحامين | AI Media Appearance Compliance Tool for Lawyers |
-| أداة رقمية ضمن مشروع «الإطار التنظيمي للظهور الإعلامي والإعلاني للمحامين»، توظّف الذكاء الاصطناعي في فحص المحتوى الإعلامي والإعلاني قبل نشره، وتُصدر توصيات مستندة إلى نظام المحاماة ولائحته التنفيذية وقواعد السلوك المهني. | An AI-powered digital tool, developed under the Regulatory Framework for Lawyers’ Media and Advertising Presence, that reviews lawyers’ media and advertising content prior to publication and provides compliance recommendations grounded in the Code of Law Practice, its Implementing Regulations and the Code of Professional Conduct. |
+| الأداة المساعدة لتمكين الظهور الإعلامي للمحامين | Lawyers’ Media and Advertising Enablement Tool |
+| أداة رقمية ضمن مشروع «الإطار التنظيمي للظهور الإعلامي والإعلاني للمحامين»، توظّف الذكاء الاصطناعي في فحص المحتوى الإعلامي والإعلاني قبل نشره، وتُصدر توصيات مستندة إلى نظام المحاماة ولائحته التنفيذية وقواعد السلوك المهني. | A digital tool that applies AI to review lawyers’ media and advertising content before publication and provides recommendations based on the Implementing Regulations of the Code of Law Practice and the Rules of Professional Conduct for Lawyers. |
 | منصة | Platform |
 | 2026 | 2026 |
 
 ### منصة بيانات قطاع المحاماة
 | العربية | English |
 |---|---|
-| منصة بيانات قطاع المحاماة | Law Practice Sector Data Platform |
-| منصة رقمية توحّد بيانات قطاع المحاماة في مصدر واحد، ينتج عنها ملف موحّد لكل محامٍ ومتدرب وشركة محاماة وممثل نظامي ومكتب محاماة أجنبي، عبر التكامل مع الجهات ذات العلاقة. وتمكّن القيادات من رصد القطاع عبر لوحة قيادية تجمع المؤشرات، والإشعارات الاستباقية بالحالات التي تستوجب إجراءً، والاستعلام الذكي عن بيانات القطاع. | A digital platform that consolidates law practice sector data into a single source, producing a unified profile for every lawyer, trainee, law firm, statutory representative and foreign law office through integration with relevant stakeholders. It enables leadership to monitor the sector through a dashboard that brings together key indicators, proactive alerts on cases requiring action, and intelligent querying of sector data. |
+| منصة بيانات قطاع المحاماة | Law Practice Data Platform |
+| منصة رقمية توحّد بيانات قطاع المحاماة في مصدر واحد، ينتج عنها ملف موحّد لكل محامٍ ومتدرب وشركة محاماة وممثل نظامي ومكتب محاماة أجنبي، عبر التكامل مع الجهات ذات العلاقة. وتمكّن القيادات من رصد القطاع عبر لوحة قيادية تجمع المؤشرات، والإشعارات الاستباقية بالحالات التي تستوجب إجراءً، والاستعلام الذكي عن بيانات القطاع. | A centralized data platform that brings together information from multiple sources to create a unified profile for each lawyer, trainee lawyer, law firm, representative, and foreign law firm. It provides dashboards, performance indicators, and alerts to support oversight and decision-making. |
 | منصة | Platform |
 | 2026 | 2026 |
 
@@ -125,15 +125,15 @@
 | العربية | English |
 |---|---|
 | المساعد الذكي | AI Assistant |
-| تصميم نموذج تشغيلي لتقديم خدمات الإدارة العامة للمحاماة عبر منصة ناجز، يقوم على مساعد ذكي لاستقبال طلب المحامي، واستكمال بياناته آليًّا من خلال التكامل مع الجهات ذات العلاقة، والتحقق من استيفاء الشروط النظامية وفق نظام المحاماة ولائحته التنفيذية، وإصدار النتيجة فورًا مع بيان أسبابها، وتُدار فيه الخدمات عبر وكلاء رقميين متخصصين. | Design of an operating model for delivering the General Directorate of Law Practice’s services via the Najiz platform, built around an AI assistant that receives the lawyer’s request, auto-populates their data through integration with relevant stakeholders, validates statutory requirements under the Code of Law Practice and its Implementing Regulations, and issues an instant, reasoned decision. Services are orchestrated by specialized digital agents. |
+| تصميم نموذج تشغيلي لتقديم خدمات الإدارة العامة للمحاماة عبر منصة ناجز، يقوم على مساعد ذكي لاستقبال طلب المحامي، واستكمال بياناته آليًّا من خلال التكامل مع الجهات ذات العلاقة، والتحقق من استيفاء الشروط النظامية وفق نظام المحاماة ولائحته التنفيذية، وإصدار النتيجة فورًا مع بيان أسبابها، وتُدار فيه الخدمات عبر وكلاء رقميين متخصصين. | An operating model for delivering the General Directorate’s services through the Najiz platform. The AI Assistant receives lawyers’ applications, retrieves the required information through integration with relevant entities, assesses each application against applicable requirements, and provides an immediate decision. Services are delivered through specialized AI agents. |
 | نموذج تشغيلي | Operating model |
 | 2026 | 2026 |
 
 ### دراسة تفصيلية للنظر في تزايد عدد المحامين المرخصين
 | العربية | English |
 |---|---|
-| دراسة تفصيلية للنظر في تزايد عدد المحامين المرخصين | Detailed Study on the Increase in the Number of Licensed Lawyers |
-| دراسة تحليلية مقارنة لاتجاه التزايد في أعداد المحامين المرخصين وأثره التنظيمي والمهني، تحدد موقع المملكة معياريًا من حيث كثافة المحامين ومعدلات النمو وأنماط السوق مقارنةً بدول المقارنة، وتنتهي إلى توصيات تنفيذية في الدخول إلى المهنة والتصنيف والتطوير المهني المستمر. | A comparative analytical study of the growth in the number of licensed lawyers and its regulatory and professional impact. It benchmarks the Kingdom’s position on lawyer density, growth rates and market patterns against comparator countries, and concludes with executive recommendations on entry into the profession, classification and continuing professional development. |
+| دراسة تفصيلية للنظر في تزايد عدد المحامين المرخصين | Licensed Lawyers Growth Study |
+| دراسة تحليلية مقارنة لاتجاه التزايد في أعداد المحامين المرخصين وأثره التنظيمي والمهني، تحدد موقع المملكة معياريًا من حيث كثافة المحامين ومعدلات النمو وأنماط السوق مقارنةً بدول المقارنة، وتنتهي إلى توصيات تنفيذية في الدخول إلى المهنة والتصنيف والتطوير المهني المستمر. | A study of the growth in the number of licensed lawyers in the Kingdom, covering the number of lawyers relative to the population, growth rates, and market patterns. It also includes comparisons with selected countries to support planning and decision-making. |
 | دراسة — معتمد من معالي وزير العدل | Study — Approved by the Minister of Justice |
 | 2026 | 2026 |
 
@@ -141,47 +141,47 @@
 | العربية | English |
 |---|---|
 | الخطة التنفيذية لتطوير قطاع المحاماة | Law Practice Sector Development Execution Plan |
-| إعداد الخطة التنفيذية لتطوير قطاع المحاماة استنادًا إلى أربعة أسس تنظيمية: الوضوح والشفافية، والمؤسسية وتعميق المهنة وتمكينها، وتأهيل الأفراد وحفظ حقوق العملاء، والعدالة الوقائية. وشمل العمل تحليل الفجوات والمقارنة المعيارية الدولية، وعقد خمس ورش عمل بالتعاون مع الهيئة السعودية للمحامين بمشاركة نحو 82 محاميًا، للتحقق من الفجوات المرصودة ورصد فجوات جديدة وترتيب الأولويات وفق الأثر وإمكانات التنفيذ، وانتهى إلى خطة المشاريع التطويرية ذات الأولوية. | Development of the law practice sector execution plan, built on four regulatory pillars: clarity and transparency; institutionalization, professional depth and enablement; individual capability and protection of client rights; and preventive justice. The work covered gap analysis, international benchmarking and five workshops held with the Saudi Bar Association, attended by around 82 lawyers, to validate identified gaps, capture new ones and prioritize them by impact and feasibility, culminating in the priority development project plan. |
+| إعداد الخطة التنفيذية لتطوير قطاع المحاماة استنادًا إلى أربعة أسس تنظيمية: الوضوح والشفافية، والمؤسسية وتعميق المهنة وتمكينها، وتأهيل الأفراد وحفظ حقوق العملاء، والعدالة الوقائية. وشمل العمل تحليل الفجوات والمقارنة المعيارية الدولية، وعقد خمس ورش عمل بالتعاون مع الهيئة السعودية للمحامين بمشاركة نحو 82 محاميًا، للتحقق من الفجوات المرصودة ورصد فجوات جديدة وترتيب الأولويات وفق الأثر وإمكانات التنفيذ، وانتهى إلى خطة المشاريع التطويرية ذات الأولوية. | An execution plan for developing the law practice sector. The plan was developed through a workshop held at the Saudi Bar Association with participating lawyers and sets out the foundations and initiatives for the development of the sector. |
 | خطة تنفيذية | Execution plan |
 | 2026 | 2026 |
 
 ### إعداد العروض التنفيذية للاجتماعات الدورية مع معالي وزير العدل
 | العربية | English |
 |---|---|
-| إعداد العروض التنفيذية للاجتماعات الدورية مع معالي وزير العدل | Executive Presentations for Periodic Meetings with H.E. the Minister of Justice |
-| إعداد العروض التنفيذية لأربعة اجتماعات دورية متتالية مع معالي وزير العدل، شاملًا هيكلة المحتوى وصياغة الرسائل الرئيسية وتصميم العرض. | Preparation of the executive presentations for four consecutive periodic meetings with H.E. the Minister of Justice, covering content structure, key messages and presentation design. |
+| إعداد العروض التنفيذية للاجتماعات الدورية مع معالي وزير العدل | Presentations for Meetings with H.E. the Minister of Justice |
+| إعداد العروض التنفيذية لأربعة اجتماعات دورية متتالية مع معالي وزير العدل، شاملًا هيكلة المحتوى وصياغة الرسائل الرئيسية وتصميم العرض. | Developed comprehensive presentations for meetings with H.E. the Minister of Justice, covering key topics related to the portfolio and its work. |
 | عروض تنفيذية | Executive presentations |
 | 2025–2026 | 2025–2026 |
 
 ### اللقاء التعريفي لمكاتب المحاماة الأجنبية
 | العربية | English |
 |---|---|
-| اللقاء التعريفي لمكاتب المحاماة الأجنبية | Introductory Forum for Licensed Foreign Law Firms |
-| إعداد لقاء تعريفي وورشة عمل مع مكاتب المحاماة الأجنبية المرخصة بمشاركة الجهات الحكومية ذات العلاقة، لتوحيد الرسائل وتعزيز الامتثال للالتزامات النظامية. ويحدد محاور اللقاء، ومعايير قياس التزامات نقل المعرفة والتوطين، والمخرجات المستهدفة. | Preparation of an introductory forum and workshop for licensed foreign law firms, in coordination with the relevant government entities, to align messaging and strengthen regulatory compliance. It defines the forum agenda, measures to meet knowledge-transfer and localization obligations, and target outcomes. |
+| اللقاء التعريفي لمكاتب المحاماة الأجنبية | Foreign Law Firms Forum |
+| إعداد لقاء تعريفي وورشة عمل مع مكاتب المحاماة الأجنبية المرخصة بمشاركة الجهات الحكومية ذات العلاقة، لتوحيد الرسائل وتعزيز الامتثال للالتزامات النظامية. ويحدد محاور اللقاء، ومعايير قياس التزامات نقل المعرفة والتوطين، والمخرجات المستهدفة. | A concept and plan for a proposed workshop bringing together licensed foreign law firms and relevant government entities, including the workshop structure, key topics, and proposed approach. |
 | لقاء تعريفي | Introductory forum |
 | 2026 | 2026 |
 
 ### بناء تقرير لقياس الأثر العدلي في التقارير السنوية لرؤية السعودية 2030
 | العربية | English |
 |---|---|
-| بناء تقرير لقياس الأثر العدلي في التقارير السنوية لرؤية السعودية 2030 | Judicial Impact Measurement Report for the Saudi Vision 2030 Annual Reports |
-| بناء تقرير لرفع جاهزية الوزارة وتعزيز حضور منجزاتها في التقارير السنوية لرؤية السعودية 2030، استنادًا إلى قراءة تحليلية للتقارير السابقة. ويحدد مسارات الأثر العدلي ببطاقة أثر لكل مسار، وآلية لقياس الأداء المؤسسي. | A report to enhance the Ministry’s readiness and strengthen the visibility of its achievements in the Saudi Vision 2030 annual reports, based on an analytical review of previous reports. It defines judicial impact tracks, each with an impact card, and a mechanism for measuring institutional performance. |
+| بناء تقرير لقياس الأثر العدلي في التقارير السنوية لرؤية السعودية 2030 | Ministry of Justice Contribution to the Saudi Vision 2030 Annual Report |
+| بناء تقرير لرفع جاهزية الوزارة وتعزيز حضور منجزاتها في التقارير السنوية لرؤية السعودية 2030، استنادًا إلى قراءة تحليلية للتقارير السابقة. ويحدد مسارات الأثر العدلي ببطاقة أثر لكل مسار، وآلية لقياس الأداء المؤسسي. | A review of the Ministry of Justice’s contribution to the Saudi Vision 2030 Annual Report, with recommendations to better highlight its achievements, impact, and progress in future reports. |
 | تقرير | Report |
 | 2026 | 2026 |
 
 ### دراسة تنظيمية لتعزيز التنسيق المؤسسي في وزارة العدل
 | العربية | English |
 |---|---|
-| دراسة تنظيمية لتعزيز التنسيق المؤسسي في وزارة العدل | Organizational Study on Strengthening Institutional Coordination at the Ministry of Justice |
-| دراسة لتقييم الحاجة إلى جهة مركزية للتنسيق المؤسسي ترتبط بالقيادة العليا، تشمل تحليل الوضع الراهن والفجوات، والمقارنة المعيارية مع وزارات عدل دولية وجهات محلية، وتحليل الفرص والمخاطر، وتنتهي إلى إطار استراتيجي وهيكل تنظيمي ومؤشرات لقياس الأثر. | A study assessing the need for a central institutional-coordination function reporting to senior leadership. It covers current-state and gap analysis, benchmarking against international justice ministries and local entities, and opportunities and risks, concluding with a strategic framework, an organizational structure and impact indicators. |
+| دراسة تنظيمية لتعزيز التنسيق المؤسسي في وزارة العدل | Interdepartmental Affairs (Institutional Coordination) Study |
+| دراسة لتقييم الحاجة إلى جهة مركزية للتنسيق المؤسسي ترتبط بالقيادة العليا، تشمل تحليل الوضع الراهن والفجوات، والمقارنة المعيارية مع وزارات عدل دولية وجهات محلية، وتحليل الفرص والمخاطر، وتنتهي إلى إطار استراتيجي وهيكل تنظيمي ومؤشرات لقياس الأثر. | A study on establishing an Interdepartmental Affairs Department within the Ministry of Justice to strengthen coordination and integration across the Ministry. |
 | دراسة | Study |
 | 2025 | 2025 |
 
 ### منهجية الخطة التنفيذية لتمكين المحاكم
 | العربية | English |
 |---|---|
-| منهجية الخطة التنفيذية لتمكين المحاكم | Court Empowerment Execution Plan Methodology |
-| منهجية وخطة تفصيلية لزيارات تمكين المحاكم ضمن محفظة القضاء. تستهدف المحاكم وفق مؤشرات العمليات وتذاكر الدعم، وتُنظَّم على ثلاث مراحل: قبل الزيارة (التوعية وتحديد التحديات)، وأثناءها (الدعم ونقل المعرفة)، وبعدها (قياس أثر الزيارة وتحليل نتائجها، وتقديم توصيات التحسين، ومتابعة الأداء). وتشمل الخطة تصنيف المحاكم المستهدفة حسب المناطق، والغرض من كل زيارة وأثرها المتوقع، وبطاقة اعتماد الزيارة. | An execution methodology and detailed plan for court empowerment visits under the Judiciary Portfolio. Courts are targeted using operational indicators and support tickets, and the work runs in three phases: before the visit (raising awareness and identifying challenges), during it (support and knowledge transfer), and after it (measuring and analyzing the visit’s impact, recommending improvements and following up on performance). The plan classifies target courts by region and sets the purpose and expected impact of each visit, with a visit-approval card. |
+| منهجية الخطة التنفيذية لتمكين المحاكم | Courts Enablement Execution Plan |
+| منهجية وخطة تفصيلية لزيارات تمكين المحاكم ضمن محفظة القضاء. تستهدف المحاكم وفق مؤشرات العمليات وتذاكر الدعم، وتُنظَّم على ثلاث مراحل: قبل الزيارة (التوعية وتحديد التحديات)، وأثناءها (الدعم ونقل المعرفة)، وبعدها (قياس أثر الزيارة وتحليل نتائجها، وتقديم توصيات التحسين، ومتابعة الأداء). وتشمل الخطة تصنيف المحاكم المستهدفة حسب المناطق، والغرض من كل زيارة وأثرها المتوقع، وبطاقة اعتماد الزيارة. | A plan for managing court visits across three stages: before, during, and after each visit, with a clear approach for supporting courts and following up on outcomes. |
 | منهجية — معتمد من وكيل الوزارة للشؤون القضائية | Methodology — Approved by the Deputy Minister for Judicial Affairs |
 | 2024 | 2024 |
 
@@ -189,7 +189,7 @@
 | العربية | English |
 |---|---|
 | منهجية استدامة مشاريع وزارة العدل ومكتب تحقيق الرؤية | MOJ–VRO Project Sustainability Methodology |
-| منهجية لضمان تحقق القيمة المضافة واستمرارية الأعمال بعد تسليم المشاريع، طُبّقت على مشاريع عامَي 2022 و2023. وتشمل بطاقة الاستدامة وضمان تحقيق الأثر، والحقيبة التدريبية، وتوثيق الإجراءات وخرائط سير العمل، وتحديد المهام والمسؤوليات التنظيمية بما فيها سلسلة القيمة ومصفوفة الصلاحيات وآلية تصنيف المشاريع حسب الأولوية. | A methodology to secure added value and business continuity after project handover, applied to the 2022 and 2023 projects. It includes the Sustainability & Impact Assurance Card, a training kit, documented procedures and workflow maps, and organizational roles and responsibilities, including the value chain, a RACI matrix and a priority-based project classification mechanism. |
+| منهجية لضمان تحقق القيمة المضافة واستمرارية الأعمال بعد تسليم المشاريع، طُبّقت على مشاريع عامَي 2022 و2023. وتشمل بطاقة الاستدامة وضمان تحقيق الأثر، والحقيبة التدريبية، وتوثيق الإجراءات وخرائط سير العمل، وتحديد المهام والمسؤوليات التنظيمية بما فيها سلسلة القيمة ومصفوفة الصلاحيات وآلية تصنيف المشاريع حسب الأولوية. | A methodology for maintaining project outcomes and impact after project closure. It includes the Sustainability & Impact Assurance Card, a training kit, documented procedures and workflows, a value chain, a RACI matrix, defined organizational roles and responsibilities, and a project classification mechanism. |
 | منهجية — معتمد من معالي وزير العدل | Methodology — Approved by the Minister of Justice |
 | 2022–2023 | 2022–2023 |
 
@@ -197,7 +197,7 @@
 | العربية | English |
 |---|---|
 | أدوات مركز التميّز لإدارة التغيير — برنامج تطوير وزارة الحرس الوطني | Change Center of Excellence Toolkits — MNGDP |
-| تصميم وتطوير أدوات إدارة التغيير لمركز التميّز، معتمدة من الرئيس التنفيذي للبرنامج، ومرتبطة ببوابات المحفظة. وتشمل أداة تقييم أثر التغيير، التي تقيس حجم التغيير وطبيعته ومستوى تحمّل وحدات الأعمال، وتحلّل الأثر وسهولة الانتقال وتُخرج لوحات متابعة وخرائط حرارية؛ وأداة تقييم الجاهزية للتغيير، وهي استبانة باللغتين مبنية على نموذج ADKAR، تُطبَّق في مراحل التصميم وما قبل الإطلاق وما بعده. | Design and development of the Change Center of Excellence tools, approved by the Program CEO and linked to portfolio gates. They include the Change Impact Assessment tool, which measures the size and nature of change and business-area tolerance, analyzes impact and ease of transition, and produces dashboards and heat maps; and the Change Readiness Assessment tool, a bilingual ADKAR-based survey applied at the design, pre-launch and post-launch stages. |
+| تصميم وتطوير أدوات إدارة التغيير لمركز التميّز، معتمدة من الرئيس التنفيذي للبرنامج، ومرتبطة ببوابات المحفظة. وتشمل أداة تقييم أثر التغيير، التي تقيس حجم التغيير وطبيعته ومستوى تحمّل وحدات الأعمال، وتحلّل الأثر وسهولة الانتقال وتُخرج لوحات متابعة وخرائط حرارية؛ وأداة تقييم الجاهزية للتغيير، وهي استبانة باللغتين مبنية على نموذج ADKAR، تُطبَّق في مراحل التصميم وما قبل الإطلاق وما بعده. | A set of Change Center of Excellence tools approved by the Program CEO and linked to portfolio gates. The tools include the Change Impact Assessment and Change Readiness Assessment to support change planning, assess readiness, and track change across key project stages. |
 | أدوات قياس — معتمد من الرئيس التنفيذي للبرنامج | Assessment tools — Approved by the Program CEO |
 | 2020–2022 | 2020–2022 |
 
