@@ -76,6 +76,7 @@
 | تصميم وتطوير أدوات مركز التميّز لإدارة التغيير، ومنها أداة تقييم أثر التغيير وأداة تقييم الجاهزية للتغيير المرتبطتان ببوابات المحفظة، معتمدة من الرئيس التنفيذي للبرنامج. | Designed and developed the Change COE tools, including the Change Impact Assessment and Change Readiness Assessment tools, linked to portfolio gates and approved by the Program CEO. |
 | وضع معايير القبول الخاصة بالمركز وتضمينها في مراجعات بوابات المحفظة. | Established Change COE acceptance criteria and embedded them in portfolio gate reviews. |
 | تقييم الأثر والجاهزية للتغيير في مرحلة التصميم، ورفع النتائج إلى الإدارة العليا. | Assessed change impact and readiness during the design phase and submitted the results to senior management. |
+| المشاركة في بناء ميثاق تحوّل الحرس الوطني ضمن فريق الإشراف، ودمج مخرجات المركز وخطته التنفيذية فيه. | Contributed to building the National Guard Transformation Charter as a member of the oversight team, integrating the Change COE outputs and implementation plan into it. |
 | المشاركة في تطوير استراتيجيات التغيير وأطره ومراجعتها. | Participated in developing and reviewing change strategies and frameworks. |
 
 ### محاضرة جامعية غير متفرّغة — جامعة اليمامة
