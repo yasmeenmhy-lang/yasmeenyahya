@@ -125,7 +125,7 @@
 | العربية | English |
 |---|---|
 | مقترح المساعد الذكي في ناجز محامين | Proposed Smart Assistant for Najiz Lawyers |
-| نموذج تشغيلي جديد يقدّم خدمات الإدارة العامة للمحاماة للمحامي عبر ناجز. يختار المحامي الخدمة، فيستكمل المساعد بياناته آليًّا من الجهات الحكومية، ويتحقق من الشروط النظامية وفق نظام المحاماة ولائحته التنفيذية، ويصدر النتيجة مع بيان أسبابها. وتُدار الخدمات عبر خمسة وكلاء رقميين متخصصين. | A new operating model that delivers the General Directorate of Legal Profession’s services to lawyers through Najiz. The lawyer selects a service, and the assistant completes their data automatically from government sources, checks the statutory conditions against the Code of Law Practice and its implementing regulations, and issues the outcome with its reasons. Services are managed through five specialized digital agents. |
+| تصميم نموذج تشغيلي لتقديم خدمات الإدارة العامة للمحاماة للمحامين عبر منصة ناجز، يختار فيه المحامي الخدمة، فيستكمل المساعد الذكي بياناته آليًّا من الجهات الحكومية، ويتحقق من استيفاء الشروط النظامية وفق نظام المحاماة ولائحته التنفيذية، ثم يُصدر النتيجة فورًا مع بيان أسبابها. وتُدار الخدمات عبر وكلاء رقميين متخصصين. | Design of an operating model that delivers the General Directorate of Legal Profession’s services to lawyers through the Najiz platform. The lawyer selects a service; the smart assistant automatically completes their data from government sources, verifies the statutory conditions under the Code of Law Practice and its implementing regulations, and issues an instant outcome with its reasons. Services are managed by specialized digital agents. |
 | نموذج تشغيلي | Operating model |
 | 2026 | 2026 |
 
