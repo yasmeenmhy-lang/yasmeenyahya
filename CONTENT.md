@@ -113,19 +113,19 @@
 | منصة | Platform |
 | 2026 | 2026 |
 
-### منصة توحيد قاعدة بيانات قطاع المحاماة
+### منصة بيانات قطاع المحاماة
 | العربية | English |
 |---|---|
-| منصة توحيد قاعدة بيانات قطاع المحاماة | Unified Legal Sector Database Platform |
-| مشروع على مرحلتين: الأولى بناء تصوّر يشمل تحليل الفجوات، ونموذج بحيرة بيانات (Data Lakehouse) لتكوين «ملف المحامي الموحد»، ولوحات قيادية على ثلاثة مستويات (الإدارة، الوزارة، المملكة). والثانية تصميم وتطوير نسخة من المنصة: قاعدة بيانات موحّدة للمحامين والمتدربين والمنشآت القانونية، مع التكامل مع الجهات ذات العلاقة. | A two-phase project. Phase one developed the concept: a gap analysis, a data lakehouse model to build the Unified Lawyer Profile, and leadership dashboards at three levels (Directorate, Ministry, Kingdom). Phase two designed and built a version of the platform: a central database of lawyers, trainees and law firms, integrated with the relevant entities. |
+| منصة بيانات قطاع المحاماة | Legal Sector Data Platform |
+| منصة وطنية تمثّل المرجع الموحّد لبيانات قطاع المحاماة في وزارة العدل. تجمع ملفات المحامين والمتدربين والمنشآت القانونية والممثلين النظاميين ومكاتب المحاماة الأجنبية في ملف موحّد لكل كيان، بالتكامل مع ناجز وأبشر والجهات الحكومية والهيئة السعودية للمحامين. وتقدّم لقيادات الإدارة والوزارة لوحة قيادة ترصد القطاع على المستويات الثلاثة، وتشمل مؤشرات الترخيص والقيد والتدريب والامتثال، ورصد مخاطر غسل الأموال وتمويل الإرهاب، وإشعارات استباقية بما يستوجب إجراءً، واستعلامًا ذكيًّا يجيب عن أسئلة القطاع. وتلتزم المنصة بحوكمة توثّق مصدر كل قيمة، وبكود المنصات الحكومية. | A national platform serving as the single reference for legal sector data at the Ministry of Justice. It consolidates the files of lawyers, trainees, law firms, legal representatives and foreign law offices into one unified file per entity, integrated with Najiz, Absher, government entities and the Saudi Bar Association. It gives directorate and ministry leadership a dashboard that monitors the sector at all three levels, covering licensing, registration, training and compliance indicators; anti-money-laundering and counter-terrorist-financing risk monitoring; proactive notifications on matters requiring action; and a smart query that answers questions about the sector. The platform applies governance that traces every value to its source and follows the Digital Government Authority’s Platforms Code. |
 | منصة | Platform |
 | 2026 | 2026 |
 
-### إعادة تصميم النموذج التشغيلي لخدمات الإدارة العامة للمحاماة بتوظيف الذكاء الاصطناعي
+### مقترح المساعد الذكي في ناجز محامين
 | العربية | English |
 |---|---|
-| إعادة تصميم النموذج التشغيلي لخدمات الإدارة العامة للمحاماة بتوظيف الذكاء الاصطناعي | AI-Enabled Redesign of the Operating Model for the General Directorate of Legal Profession Services |
-| إعادة تصميم النموذج التشغيلي لخدمات الإدارة العامة للمحاماة بتوظيف الذكاء الاصطناعي، من خلال نافذة داخل المنصة تحاكي «ناجز محامين» بمسارين متوازيين: مسار الخدمات الإلكترونية الحالي، ومسار المساعد الرقمي الذي يقدّم الخدمات نفسها عبر وكيل ذكي يستقبل الطلب ويستكمله ويتابعه. | AI-enabled redesign of the operating model for the General Directorate of Legal Profession’s services, through a window inside the platform that mirrors “Najiz Lawyers” with two parallel tracks: the current e-services track, and a digital-assistant track that delivers the same services through an intelligent agent which receives, completes and tracks the request. |
+| مقترح المساعد الذكي في ناجز محامين | Proposed Smart Assistant for Najiz Lawyers |
+| نموذج تشغيلي جديد يقدّم خدمات الإدارة العامة للمحاماة للمحامي عبر ناجز. يختار المحامي الخدمة، فيستكمل المساعد بياناته آليًّا من الجهات الحكومية، ويتحقق من الشروط النظامية وفق نظام المحاماة ولائحته التنفيذية، ويصدر النتيجة مع بيان أسبابها. وتُدار الخدمات عبر خمسة وكلاء رقميين متخصصين. | A new operating model that delivers the General Directorate of Legal Profession’s services to lawyers through Najiz. The lawyer selects a service, and the assistant completes their data automatically from government sources, checks the statutory conditions against the Code of Law Practice and its implementing regulations, and issues the outcome with its reasons. Services are managed through five specialized digital agents. |
 | نموذج تشغيلي | Operating model |
 | 2026 | 2026 |
 
