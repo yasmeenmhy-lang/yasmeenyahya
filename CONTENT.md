@@ -54,9 +54,9 @@
 | وزارة العدل – مكتب تحقيق الرؤية | Ministry of Justice – Vision Realization Office (VRO) |
 | سبتمبر 2022 – حتى الآن | Sep 2022 – Present |
 | إدارة تمكين منافع البرامج والمشاريع، بخبرة تجمع بين إدارة التغيير ودعم القرار والتحول الرقمي، ومخرجات معتمدة من القيادة العليا تشمل منهجيات ودراسات وخططًا تنفيذية وحلولًا رقمية. | Leads benefits enablement for programs and projects, integrating change management, decision support and digital transformation, with leadership-approved outputs spanning methodologies, studies, execution plans and digital solutions. |
-| تصميم وتطوير حلول رقمية للإدارة العامة للمحاماة، منها الأداة المساعدة لتمكين الظهور الإعلامي للمحامين، ومنصة قاعدة البيانات، وإعادة تصميم النموذج التشغيلي بتوظيف الذكاء الاصطناعي. | Designed and developed digital solutions for the General Directorate of the Legal Profession, including the AI Media Appearance Compliance Tool for Lawyers, the Legal Sector Data Platform and the AI-enabled redesign of the operating model. |
+| تصميم وتطوير حلول رقمية للإدارة العامة للمحاماة، منها الأداة المساعدة لتمكين الظهور الإعلامي للمحامين، ومنصة قاعدة البيانات، وإعادة تصميم النموذج التشغيلي بتوظيف الذكاء الاصطناعي. | Designed and developed digital solutions for the General Directorate of Law Practice, including the AI Media Appearance Compliance Tool for Lawyers, the Law Practice Sector Data Platform and the AI-enabled redesign of the operating model. |
 | إعداد «دراسة تفصيلية للنظر في تزايد عدد المحامين المرخصين»، معتمدة من معالي وزير العدل. | Prepared the Detailed Study on the Increase in the Number of Licensed Lawyers, approved by the Minister of Justice. |
-| إعداد الخطة التنفيذية لتطوير قطاع المحاماة استنادًا إلى تحليل الفجوات وخمس ورش عمل بالتعاون مع الهيئة السعودية للمحامين بمشاركة نحو 82 محاميًا. | Developed the legal profession sector execution plan based on a gap analysis and five workshops held with the Saudi Bar Association and attended by around 82 lawyers. |
+| إعداد الخطة التنفيذية لتطوير قطاع المحاماة استنادًا إلى تحليل الفجوات وخمس ورش عمل بالتعاون مع الهيئة السعودية للمحامين بمشاركة نحو 82 محاميًا. | Developed the law practice sector execution plan based on a gap analysis and five workshops held with the Saudi Bar Association and attended by around 82 lawyers. |
 | إعداد العروض التنفيذية لأربعة اجتماعات دورية متتالية مع معالي وزير العدل. | Prepared the executive presentations for four consecutive periodic meetings with H.E. the Minister of Justice. |
 | إعداد اللقاء التعريفي لمكاتب المحاماة الأجنبية المرخصة بمشاركة الجهات الحكومية ذات العلاقة. | Prepared the introductory forum for licensed foreign law firms in coordination with the relevant government entities. |
 | بناء تقرير لقياس الأثر العدلي والأداء المؤسسي في التقارير السنوية لرؤية السعودية 2030. | Developed a report to measure judicial impact and institutional performance for the Saudi Vision 2030 annual reports. |
@@ -109,15 +109,15 @@
 | العربية | English |
 |---|---|
 | الأداة المساعدة لتمكين الظهور الإعلامي للمحامين | AI Media Appearance Compliance Tool for Lawyers |
-| أداة رقمية ضمن مشروع «الإطار التنظيمي للظهور الإعلامي والإعلاني للمحامين»، توظّف الذكاء الاصطناعي في فحص المحتوى الإعلامي والإعلاني قبل نشره، وتُصدر توصيات مستندة إلى نظام المحاماة ولائحته التنفيذية وقواعد السلوك المهني. | An AI-powered digital tool, developed under the Regulatory Framework for Lawyers’ Media and Advertising Presence, that reviews lawyers’ media and advertising content prior to publication and provides compliance recommendations grounded in the Law of Legal Practice, its Implementing Regulations and the Code of Professional Conduct. |
+| أداة رقمية ضمن مشروع «الإطار التنظيمي للظهور الإعلامي والإعلاني للمحامين»، توظّف الذكاء الاصطناعي في فحص المحتوى الإعلامي والإعلاني قبل نشره، وتُصدر توصيات مستندة إلى نظام المحاماة ولائحته التنفيذية وقواعد السلوك المهني. | An AI-powered digital tool, developed under the Regulatory Framework for Lawyers’ Media and Advertising Presence, that reviews lawyers’ media and advertising content prior to publication and provides compliance recommendations grounded in the Code of Law Practice, its Implementing Regulations and the Code of Professional Conduct. |
 | منصة | Platform |
 | 2026 | 2026 |
 
 ### منصة بيانات قطاع المحاماة
 | العربية | English |
 |---|---|
-| منصة بيانات قطاع المحاماة | Legal Sector Data Platform |
-| منصة رقمية توحّد بيانات قطاع المحاماة في مصدر واحد، ينتج عنها ملف موحّد لكل محامٍ ومتدرب ومنشأة قانونية وممثل نظامي ومكتب محاماة أجنبي، عبر التكامل مع الجهات ذات العلاقة. وتمكّن القيادات من رصد القطاع عبر لوحة قيادية تجمع المؤشرات، والإشعارات الاستباقية بالحالات التي تستوجب إجراءً، والاستعلام الذكي عن بيانات القطاع. | A digital platform that consolidates legal sector data into a single source, producing a unified profile for every lawyer, trainee, law firm, legal representative and foreign law office through integration with relevant stakeholders. It enables leadership to monitor the sector through a dashboard that brings together key indicators, proactive alerts on cases requiring action, and intelligent querying of sector data. |
+| منصة بيانات قطاع المحاماة | Law Practice Sector Data Platform |
+| منصة رقمية توحّد بيانات قطاع المحاماة في مصدر واحد، ينتج عنها ملف موحّد لكل محامٍ ومتدرب وشركة محاماة وممثل نظامي ومكتب محاماة أجنبي، عبر التكامل مع الجهات ذات العلاقة. وتمكّن القيادات من رصد القطاع عبر لوحة قيادية تجمع المؤشرات، والإشعارات الاستباقية بالحالات التي تستوجب إجراءً، والاستعلام الذكي عن بيانات القطاع. | A digital platform that consolidates law practice sector data into a single source, producing a unified profile for every lawyer, trainee, law firm, statutory representative and foreign law office through integration with relevant stakeholders. It enables leadership to monitor the sector through a dashboard that brings together key indicators, proactive alerts on cases requiring action, and intelligent querying of sector data. |
 | منصة | Platform |
 | 2026 | 2026 |
 
@@ -125,7 +125,7 @@
 | العربية | English |
 |---|---|
 | المساعد الذكي | AI Assistant |
-| تصميم نموذج تشغيلي لتقديم خدمات الإدارة العامة للمحاماة عبر منصة ناجز، يقوم على مساعد ذكي لاستقبال طلب المحامي، واستكمال بياناته آليًّا من خلال التكامل مع الجهات ذات العلاقة، والتحقق من استيفاء الشروط النظامية وفق نظام المحاماة ولائحته التنفيذية، وإصدار النتيجة فورًا مع بيان أسبابها، وتُدار فيه الخدمات عبر وكلاء رقميين متخصصين. | Design of an operating model for delivering the General Directorate of the Legal Profession’s services via the Najiz platform, built around an AI assistant that receives the lawyer’s request, auto-populates their data through integration with relevant stakeholders, validates statutory requirements under the Law of Legal Practice and its Implementing Regulations, and issues an instant, reasoned decision. Services are orchestrated by specialized digital agents. |
+| تصميم نموذج تشغيلي لتقديم خدمات الإدارة العامة للمحاماة عبر منصة ناجز، يقوم على مساعد ذكي لاستقبال طلب المحامي، واستكمال بياناته آليًّا من خلال التكامل مع الجهات ذات العلاقة، والتحقق من استيفاء الشروط النظامية وفق نظام المحاماة ولائحته التنفيذية، وإصدار النتيجة فورًا مع بيان أسبابها، وتُدار فيه الخدمات عبر وكلاء رقميين متخصصين. | Design of an operating model for delivering the General Directorate of Law Practice’s services via the Najiz platform, built around an AI assistant that receives the lawyer’s request, auto-populates their data through integration with relevant stakeholders, validates statutory requirements under the Code of Law Practice and its Implementing Regulations, and issues an instant, reasoned decision. Services are orchestrated by specialized digital agents. |
 | نموذج تشغيلي | Operating model |
 | 2026 | 2026 |
 
@@ -140,8 +140,8 @@
 ### الخطة التنفيذية لتطوير قطاع المحاماة
 | العربية | English |
 |---|---|
-| الخطة التنفيذية لتطوير قطاع المحاماة | Legal Profession Sector Development Execution Plan |
-| إعداد الخطة التنفيذية لتطوير قطاع المحاماة استنادًا إلى أربعة أسس تنظيمية: الوضوح والشفافية، والمؤسسية وتعميق المهنة وتمكينها، وتأهيل الأفراد وحفظ حقوق العملاء، والعدالة الوقائية. وشمل العمل تحليل الفجوات والمقارنة المعيارية الدولية، وعقد خمس ورش عمل بالتعاون مع الهيئة السعودية للمحامين بمشاركة نحو 82 محاميًا، للتحقق من الفجوات المرصودة ورصد فجوات جديدة وترتيب الأولويات وفق الأثر وإمكانات التنفيذ، وانتهى إلى خطة المشاريع التطويرية ذات الأولوية. | Development of the legal profession sector execution plan, built on four regulatory pillars: clarity and transparency; institutionalization, professional depth and enablement; individual capability and protection of client rights; and preventive justice. The work covered gap analysis, international benchmarking and five workshops held with the Saudi Bar Association, attended by around 82 lawyers, to validate identified gaps, capture new ones and prioritize them by impact and feasibility, culminating in the priority development project plan. |
+| الخطة التنفيذية لتطوير قطاع المحاماة | Law Practice Sector Development Execution Plan |
+| إعداد الخطة التنفيذية لتطوير قطاع المحاماة استنادًا إلى أربعة أسس تنظيمية: الوضوح والشفافية، والمؤسسية وتعميق المهنة وتمكينها، وتأهيل الأفراد وحفظ حقوق العملاء، والعدالة الوقائية. وشمل العمل تحليل الفجوات والمقارنة المعيارية الدولية، وعقد خمس ورش عمل بالتعاون مع الهيئة السعودية للمحامين بمشاركة نحو 82 محاميًا، للتحقق من الفجوات المرصودة ورصد فجوات جديدة وترتيب الأولويات وفق الأثر وإمكانات التنفيذ، وانتهى إلى خطة المشاريع التطويرية ذات الأولوية. | Development of the law practice sector execution plan, built on four regulatory pillars: clarity and transparency; institutionalization, professional depth and enablement; individual capability and protection of client rights; and preventive justice. The work covered gap analysis, international benchmarking and five workshops held with the Saudi Bar Association, attended by around 82 lawyers, to validate identified gaps, capture new ones and prioritize them by impact and feasibility, culminating in the priority development project plan. |
 | خطة تنفيذية | Execution plan |
 | 2026 | 2026 |
 
