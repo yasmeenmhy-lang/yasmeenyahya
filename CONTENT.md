@@ -117,7 +117,7 @@
 | العربية | English |
 |---|---|
 | منصة بيانات قطاع المحاماة | Legal Sector Data Platform |
-| منصة تمثّل مرجعًا موحّدًا لبيانات قطاع المحاماة، تضمّ ملفات المحامين والمتدربين والمنشآت القانونية والممثلين النظاميين ومكاتب المحاماة الأجنبية في ملف موحّد لكل كيان، بالتكامل مع الجهات ذات العلاقة. وتقدّم للقيادات لوحة قيادة ترصد القطاع، وتشمل مؤشرات، وإشعارات استباقية بما يستوجب إجراءً، واستعلامًا ذكيًّا يجيب عن أسئلة القطاع. | A unified reference platform for legal sector data that consolidates the records of lawyers, trainees, law firms, legal representatives and foreign law offices into a single profile per entity, integrated with relevant stakeholders. It provides leadership with a sector-monitoring dashboard featuring key indicators, proactive alerts on matters requiring action, and an intelligent query capability for sector insights. |
+| منصة رقمية توحّد بيانات قطاع المحاماة في مصدر واحد، ينتج عنها ملف موحّد لكل محامٍ ومتدرب ومنشأة قانونية وممثل نظامي ومكتب محاماة أجنبي، عبر التكامل مع الجهات ذات العلاقة. وتمكّن القيادات من رصد القطاع عبر لوحة قيادية تجمع المؤشرات، والإشعارات الاستباقية بالحالات التي تستوجب إجراءً، والاستعلام الذكي عن بيانات القطاع. | A digital platform that consolidates legal sector data into a single source, producing a unified profile for every lawyer, trainee, law firm, legal representative and foreign law office through integration with relevant stakeholders. It enables leadership to monitor the sector through a dashboard that brings together key indicators, proactive alerts on cases requiring action, and intelligent querying of sector data. |
 | منصة | Platform |
 | 2026 | 2026 |
 
