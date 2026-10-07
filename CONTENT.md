@@ -193,11 +193,11 @@
 | منهجية — معتمد من معالي وزير العدل | Methodology — Approved by the Minister of Justice |
 | 2022–2023 | 2022–2023 |
 
-### أدوات مركز التميز لإدارة التغيير — برنامج تطوير وزارة الحرس الوطني
+### أدوات مركز التميز لإدارة التغيير
 | العربية | English |
 |---|---|
-| أدوات مركز التميز لإدارة التغيير — برنامج تطوير وزارة الحرس الوطني | Change Center of Excellence Toolkits — MNGDP |
-| تصميم وتطوير أدوات مركز التميز لإدارة التغيير وربطها ببوابات المحفظة، وتشمل أداة تقييم أثر التغيير وأداة تقييم الجاهزية للتغيير، بما يدعم قياس أثر التغيير ومستوى الجاهزية ومتابعتهما عبر مراحل المشروع. | A set of Change Center of Excellence tools approved by the Program CEO and linked to portfolio gates. The tools include the Change Impact Assessment and Change Readiness Assessment to support change planning, assess readiness, and track change across key project stages. |
+| أدوات مركز التميز لإدارة التغيير | Change Center of Excellence Tools |
+| تصميم وتطوير أدوات مركز التميز لإدارة التغيير، معتمدة من الرئيس التنفيذي للبرنامج ومرتبطة ببوابات المحفظة. وتشمل أداة تقييم أثر التغيير، التي تقيس حجم التغيير وطبيعته ومستوى جاهزية وحدات الأعمال، وتحلّل الأثر وسهولة الانتقال، مع لوحات متابعة وخرائط حرارية؛ وأداة تقييم الجاهزية للتغيير، وهي استبانة باللغتين مبنية على نموذج ADKAR، تُطبَّق في مراحل التصميم وما قبل الإطلاق وما بعده. | Design and development of Change Center of Excellence tools, approved by the Program CEO and linked to portfolio gates. The tools include the Change Impact Assessment, which assesses the scale and nature of change, business-area readiness, impact, and ease of transition, with dashboards and heat maps; and the Change Readiness Assessment, a bilingual ADKAR-based survey conducted at the design, pre-launch, and post-launch stages. |
 | أدوات قياس — معتمد من الرئيس التنفيذي للبرنامج | Assessment tools — Approved by the Program CEO |
 | 2020–2022 | 2020–2022 |
 
