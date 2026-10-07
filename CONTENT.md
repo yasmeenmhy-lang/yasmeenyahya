@@ -117,7 +117,7 @@
 | العربية | English |
 |---|---|
 | منصة توحيد قاعدة بيانات قطاع المحاماة | Unified Legal Sector Database Platform |
-| مشروع على مرحلتين: الأولى بناء تصوّر يشمل تحليل الفجوات، ونموذج بحيرة بيانات (Data Lakehouse) لتكوين «ملف المحامي الموحد»، ولوحات قيادية على ثلاثة مستويات (الإدارة، الوزارة، المملكة). والثانية تصميم وتطوير نسخة من المنصة: قاعدة بيانات موحّدة للمحامين والمتدربين والمنشآت القانونية مع محاكاة التكامل مع الجهات ذات العلاقة. | A two-phase project. Phase one developed the concept: a gap analysis, a data lakehouse model to build the Unified Lawyer Profile, and leadership dashboards at three levels (Directorate, Ministry, Kingdom). Phase two designed and built a version of the platform: a central database of lawyers, trainees and law firms, with simulated integration with the relevant entities. |
+| مشروع على مرحلتين: الأولى بناء تصوّر يشمل تحليل الفجوات، ونموذج بحيرة بيانات (Data Lakehouse) لتكوين «ملف المحامي الموحد»، ولوحات قيادية على ثلاثة مستويات (الإدارة، الوزارة، المملكة). والثانية تصميم وتطوير نسخة من المنصة: قاعدة بيانات موحّدة للمحامين والمتدربين والمنشآت القانونية، مع التكامل مع الجهات ذات العلاقة. | A two-phase project. Phase one developed the concept: a gap analysis, a data lakehouse model to build the Unified Lawyer Profile, and leadership dashboards at three levels (Directorate, Ministry, Kingdom). Phase two designed and built a version of the platform: a central database of lawyers, trainees and law firms, integrated with the relevant entities. |
 | منصة | Platform |
 | 2026 | 2026 |
 
