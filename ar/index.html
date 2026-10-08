@@ -136,7 +136,7 @@
   .entry-desc{font-size:14px;margin-top:8px;max-width:76ch}
   .ach-label{margin-top:12px;color:var(--text);font-weight:600;font-size:14px}
   .ach-ul{display:grid;gap:5px;margin-top:6px;padding-inline-start:18px;list-style:disc;font-size:14px} .ach-ul li::marker{color:var(--accent)}
-  .ach-th{display:flex;align-items:center;gap:8px;flex-wrap:wrap} .ach-t{display:block;font-weight:600;color:var(--text)} .ach-ok{display:inline-flex;align-items:center;justify-content:center;width:16px;height:16px;border-radius:50%;background:#2f8f6a;flex:none} .ach-ok::before{content:'';width:3.5px;height:7px;border:solid #fff;border-width:0 1.6px 1.6px 0;transform:rotate(45deg);margin-top:-2px} .ach-sub{margin-top:4px;padding-inline-start:16px;list-style:circle;display:grid;gap:3px} .ach-sub strong{font-weight:600}
+  .form-status{margin:2px 0 0;font-size:14px;min-height:1.2em;color:var(--muted)} .form-status.ok{color:#2f8f6a;font-weight:600} .form-status.err{color:#c0563f} .submit[disabled]{opacity:.6;cursor:progress} .ach-th{display:flex;align-items:center;gap:8px;flex-wrap:wrap} .ach-t{display:block;font-weight:600;color:var(--text)} .ach-ok{display:inline-flex;align-items:center;justify-content:center;width:16px;height:16px;border-radius:50%;background:#2f8f6a;flex:none} .ach-ok::before{content:'';width:3.5px;height:7px;border:solid #fff;border-width:0 1.6px 1.6px 0;transform:rotate(45deg);margin-top:-2px} .ach-sub{margin-top:4px;padding-inline-start:16px;list-style:circle;display:grid;gap:3px} .ach-sub strong{font-weight:600}
 
   .proj{display:grid;grid-template-columns:minmax(0,1fr) 220px;gap:18px;align-items:center;background:var(--pill);border-radius:14px;padding:16px;margin-top:12px;transition:transform .25s var(--ease)} .proj:hover{transform:translateY(-3px)}
   .proj-t{font-size:16px;margin-bottom:6px} .proj-d{font-size:14px}
@@ -413,6 +413,7 @@
         <label class="full"><span data-i18n="f.subject">الموضوع</span><input name="subject" type="text" required></label>
         <label class="full"><span data-i18n="f.msg">الرسالة</span><textarea name="message" rows="5" required></textarea></label>
         <button class="btn-cv submit" type="submit" data-i18n="f.send">إرسال</button>
+        <p class="form-status full" id="form-status" role="status" aria-live="polite"></p>
       </form>
       <p class="visually-hidden" id="copy-status" role="status" aria-live="polite"></p>
     </div>
@@ -750,8 +751,8 @@
   "contact.phone": "Phone"
 };
   var DYN = {
-    ar: { 'edit.code': 'أدخلي رمز التحرير', 'edit.wrong': 'الرمز غير صحيح', 'edit.saved': 'تم حفظ التعديلات على هذا الجهاز. اضغطي «نسخ التعديلات» ثم أرسليها إليّ لنشرها.', 'edit.copied': 'نُسخت التعديلات. الصقيها في المحادثة لنشرها.', 'edit.manual': 'انسخي النص التالي وأرسليه إليّ:', 'edit.none': 'لا توجد تعديلات.', 'edit.resetQ': 'هل تريدين إلغاء جميع التعديلات المحفوظة على هذا الجهاز؟', 'doc.title': 'Yasmeen Bin Yahya | ياسمين بن يحيى', 'lang.switch': 'Switch to English', 'contact.copied': 'تم النسخ', 'contact.copiedMsg': 'تم نسخ البريد الإلكتروني', 'contact.copyFail': 'تعذّر النسخ، يُرجى النسخ يدويًّا' },
-    en: { 'edit.code': 'Enter the edit code', 'edit.wrong': 'Incorrect code', 'edit.saved': 'Edits saved on this device. Press "Copy edits" and send them to me to publish.', 'edit.copied': 'Edits copied. Paste them in the chat to publish.', 'edit.manual': 'Copy the following text and send it to me:', 'edit.none': 'No edits.', 'edit.resetQ': 'Discard all edits saved on this device?', 'doc.title': 'Yasmeen Bin Yahya | ياسمين بن يحيى', 'lang.switch': 'التبديل إلى العربية', 'contact.copied': 'Copied', 'contact.copiedMsg': 'Email address copied', 'contact.copyFail': 'Copy failed, please copy manually' }
+    ar: { 'f.sending': 'جارٍ الإرسال…', 'f.ok': 'تم إرسال رسالتك بنجاح، شكرًا لتواصلك.', 'f.err': 'تعذّر الإرسال، سيُفتح تطبيق البريد لإكمال الرسالة.', 'edit.code': 'أدخلي رمز التحرير', 'edit.wrong': 'الرمز غير صحيح', 'edit.saved': 'تم حفظ التعديلات على هذا الجهاز. اضغطي «نسخ التعديلات» ثم أرسليها إليّ لنشرها.', 'edit.copied': 'نُسخت التعديلات. الصقيها في المحادثة لنشرها.', 'edit.manual': 'انسخي النص التالي وأرسليه إليّ:', 'edit.none': 'لا توجد تعديلات.', 'edit.resetQ': 'هل تريدين إلغاء جميع التعديلات المحفوظة على هذا الجهاز؟', 'doc.title': 'Yasmeen Bin Yahya | ياسمين بن يحيى', 'lang.switch': 'Switch to English', 'contact.copied': 'تم النسخ', 'contact.copiedMsg': 'تم نسخ البريد الإلكتروني', 'contact.copyFail': 'تعذّر النسخ، يُرجى النسخ يدويًّا' },
+    en: { 'f.sending': 'Sending…', 'f.ok': 'Your message has been sent. Thank you for reaching out.', 'f.err': 'Sending failed; your email app will open to complete the message.', 'edit.code': 'Enter the edit code', 'edit.wrong': 'Incorrect code', 'edit.saved': 'Edits saved on this device. Press "Copy edits" and send them to me to publish.', 'edit.copied': 'Edits copied. Paste them in the chat to publish.', 'edit.manual': 'Copy the following text and send it to me:', 'edit.none': 'No edits.', 'edit.resetQ': 'Discard all edits saved on this device?', 'doc.title': 'Yasmeen Bin Yahya | ياسمين بن يحيى', 'lang.switch': 'التبديل إلى العربية', 'contact.copied': 'Copied', 'contact.copiedMsg': 'Email address copied', 'contact.copyFail': 'Copy failed, please copy manually' }
   };
   var AR = {};
   var EDITS = {}; try { EDITS = JSON.parse(localStorage.getItem('pf-edits') || '{}') || {}; } catch (e) { EDITS = {}; }
@@ -875,11 +876,20 @@
 
   /* نموذج التواصل: يفتح بريد الزائر برسالة جاهزة */
   var form = document.getElementById('contact-form');
+  var formStatus = document.getElementById('form-status'), formBtn = form.querySelector('.submit');
   form.addEventListener('submit', function (e) {
     e.preventDefault(); if (!form.reportValidity()) return;
     var f = new FormData(form);
     var body = f.get('message') + '\n\n' + f.get('name') + '\n' + f.get('email');
-    location.href = 'mailto:' + email + '?subject=' + encodeURIComponent(f.get('subject')) + '&body=' + encodeURIComponent(body);
+    function viaMail() { location.href = 'mailto:' + email + '?subject=' + encodeURIComponent(f.get('subject')) + '&body=' + encodeURIComponent(body); }
+    if (!window.fetch) { viaMail(); return; }
+    formBtn.disabled = true; formStatus.className = 'form-status full'; formStatus.textContent = d('f.sending');
+    fetch('https://formsubmit.co/ajax/' + email, { method: 'POST', headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+      body: JSON.stringify({ name: f.get('name'), email: f.get('email'), _replyto: f.get('email'), _subject: 'yasmeenyahya.com — ' + f.get('subject'), message: f.get('message'), _template: 'table', _captcha: 'false' }) })
+      .then(function (r) { return r.json(); })
+      .then(function (j) { if (j && (j.success === true || j.success === 'true')) { formStatus.className = 'form-status full ok'; formStatus.textContent = d('f.ok'); form.reset(); } else { throw new Error('fail'); } })
+      .catch(function () { formStatus.className = 'form-status full err'; formStatus.textContent = d('f.err'); setTimeout(viaMail, 900); })
+      .then(function () { formBtn.disabled = false; });
   });
 
   document.getElementById('year').textContent = new Date().getFullYear();
