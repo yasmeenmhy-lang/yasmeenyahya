@@ -59,7 +59,7 @@
 | الخطة التنفيذية لتطوير قطاع المحاماة: إعداد الخطة التنفيذية لتطوير قطاع المحاماة من خلال خمس ورش عمل في الهيئة السعودية للمحامين بمشاركة نحو 82 محاميًا. | Law Practice Sector Development Execution Plan: Developed the Law Practice Sector Development Execution Plan through five workshops held at the Saudi Bar Association with around 82 participating lawyers. |
 | العروض التنفيذية لمعالي وزير العدل: إعداد العروض التنفيذية للاجتماعات الدورية مع معالي وزير العدل. | Presentations for H.E. the Minister of Justice: Developed the presentations for the periodic meetings with H.E. the Minister of Justice. |
 | اللقاء التعريفي لمكاتب المحاماة الأجنبية: إعداد خطة اللقاء التعريفي لمكاتب المحاماة الأجنبية المرخصة بمشاركة الجهات الحكومية ذات العلاقة. | Foreign Law Firms Forum: Prepared the Foreign Law Firms Forum plan with the participation of relevant government entities. |
-| التقرير السنوي لرؤية السعودية 2030: مراجعة إسهام وزارة العدل في التقرير السنوي لرؤية السعودية 2030، مع توصيات لإبراز منجزاتها وأثرها في التقارير القادمة. | Saudi Vision 2030 Annual Report: Reviewed the Ministry of Justice contribution to the Saudi Vision 2030 Annual Report, with recommendations to better highlight its achievements and impact in future reports. |
+| التقرير السنوي لرؤية السعودية 2030: مراجعة حضور ومنجزات وزارة العدل في التقرير السنوي لرؤية السعودية 2030، مع توصيات لإبراز منجزاتها وأثرها في التقارير القادمة. | Saudi Vision 2030 Annual Report: Reviewed the Ministry of Justice contribution to the Saudi Vision 2030 Annual Report, with recommendations to better highlight its achievements and impact in future reports. |
 | دراسة إدارة الشؤون البينية: إعداد دراسة إدارة الشؤون البينية (التنسيق المؤسسي) لتعزيز التنسيق والتكامل على مستوى الوزارة. | Interdepartmental Affairs Study: Prepared the Interdepartmental Affairs (Institutional Coordination) Study to strengthen coordination and integration across the Ministry. |
 | الخطة التنفيذية لتمكين المحاكم: إعداد الخطة التنفيذية لتمكين المحاكم لإدارة الزيارات على ثلاث مراحل، والمشاركة في الزيارات الميدانية. | Courts Enablement Execution Plan: Prepared the Courts Enablement Execution Plan for managing court visits across three stages, and participated in the field visits. |
 | بوابات ضمان القيمة: تصميم بوابات ضمان القيمة وتطبيقها، لضمان تحقيق القيمة المضافة قبل التسليم واستمرارية الأعمال بعد الإغلاق. | Value-Assurance Gates: Designed and applied value-assurance gates to ensure added value before handover and business continuity after closure. |
@@ -166,10 +166,10 @@
 | لقاء تعريفي | Introductory forum |
 | 2026 | 2026 |
 
-### إسهام وزارة العدل في التقرير السنوي لرؤية السعودية 2030
+### حضور ومنجزات وزارة العدل في التقرير السنوي لرؤية السعودية 2030
 | العربية | English |
 |---|---|
-| إسهام وزارة العدل في التقرير السنوي لرؤية السعودية 2030 | Ministry of Justice Contribution to the Saudi Vision 2030 Annual Report |
+| حضور ومنجزات وزارة العدل في التقرير السنوي لرؤية السعودية 2030 | Ministry of Justice Contribution to the Saudi Vision 2030 Annual Report |
 | مراجعة لتعزيز عرض منجزات وزارة العدل وأثرها ضمن التقرير السنوي لرؤية السعودية 2030، من خلال مراجعة التقارير السابقة وتطوير إطار لعرض الأثر ومؤشرات الأداء بما يعكس منجزات الوزارة بصورة أكثر وضوحًا. | A review of the Ministry of Justice’s contribution to the Saudi Vision 2030 Annual Report, with recommendations to better highlight its achievements, impact, and progress in future reports. |
 | تقرير | Report |
 | 2026 | 2026 |
