@@ -12,7 +12,7 @@
 ## النبذة
 | العربية | English |
 |---|---|
-| خبرة تتجاوز اثني عشر عامًا في تمكين التحول وإدارة التغيير، في القطاع المصرفي وبرامج التطوير الحكومية والقطاع العدلي. وتشمل إعداد الخطط التنفيذية، وقياس المنافع المتحققة، واستدامة القيمة بعد تسليم المشاريع. ومن أبرز المخرجات ثلاثة مخرجات معتمدة من القيادة: منهجية استدامة المشاريع، والخطة التنفيذية لتمكين المحاكم، وأدوات مركز التميّز لإدارة التغيير. | More than twelve years of experience in transformation enablement and change management across banking, government development programs and the justice sector, covering execution planning, measurement of realized benefits and sustaining value after project handover. Key outputs include three leadership-approved deliverables: the MOJ–VRO Project Sustainability Methodology, the Courts Enablement Execution Plan and the Change COE Toolkits. |
+| خبرة تتجاوز اثني عشر عامًا في تمكين التحول وإدارة التغيير، في القطاع المصرفي وبرامج التطوير الحكومية والقطاع العدلي. وتشمل إعداد الخطط التنفيذية، وقياس المنافع المتحققة، واستدامة القيمة بعد تسليم المشاريع. ومن أبرز المخرجات ثلاثة مخرجات معتمدة من القيادة: منهجية استدامة المشاريع، والخطة التنفيذية لتمكين المحاكم، وأدوات مركز التميّز لإدارة التغيير. | More than twelve years of experience in transformation enablement and change management across banking, government development programs and the justice sector, covering execution planning, measurement of realized benefits and sustaining value after project handover. Key outputs include three leadership-approved deliverables: the Project Sustainability Methodology, the Courts Enablement Execution Plan and the Change COE Toolkits. |
 
 ## الأرقام الرئيسية
 | العربية | English |
@@ -64,7 +64,7 @@
 | الخطة التنفيذية لتمكين المحاكم: إعداد الخطة التنفيذية لتمكين المحاكم لإدارة الزيارات على ثلاث مراحل، والمشاركة في الزيارات الميدانية. | Courts Enablement Execution Plan: Prepared the Courts Enablement Execution Plan for managing court visits across three stages, and participated in the field visits. |
 | بوابات ضمان القيمة: تصميم بوابات ضمان القيمة وتطبيقها، لضمان تحقيق القيمة المضافة قبل التسليم واستمرارية الأعمال بعد الإغلاق. | Value-Assurance Gates: Designed and applied value-assurance gates to ensure added value before handover and business continuity after closure. |
 | الحقيبة التدريبية ودليل منهجية الاستدامة: إعداد الحقيبة التدريبية ودليل منهجية الاستدامة، وتدريب منسوبي الوزارة ومديري المشاريع على تطبيقها. | Sustainability Training Kit and Handbook: Prepared the sustainability training kit and methodology handbook, and trained MOJ staff and project managers on their application. |
-| منهجية استدامة المشاريع: تطوير منهجية استدامة مشاريع وزارة العدل ومكتب تحقيق الرؤية، وتطبيقها على مشاريع عامَي 2022 و2023. | Project Sustainability Methodology: Developed the MOJ–VRO Project Sustainability Methodology and applied it to the 2022 and 2023 projects. |
+| منهجية استدامة المشاريع: تطوير منهجية استدامة المشاريع، وتطبيقها على مشاريع عامَي 2022 و2023. | Project Sustainability Methodology: Developed the Project Sustainability Methodology and applied it to the 2022 and 2023 projects. |
 
 ### تمكين إدارة التغيير — برنامج تطوير وزارة الحرس الوطني
 | العربية | English |
@@ -190,10 +190,10 @@
 | خطة تنفيذية — معتمد من القيادة العليا | Execution plan — Approved by senior leadership |
 | 2024 | 2024 |
 
-### منهجية استدامة مشاريع وزارة العدل ومكتب تحقيق الرؤية
+### منهجية استدامة المشاريع
 | العربية | English |
 |---|---|
-| منهجية استدامة مشاريع وزارة العدل ومكتب تحقيق الرؤية | MOJ–VRO Project Sustainability Methodology |
+| منهجية استدامة المشاريع | Project Sustainability Methodology |
 | منهجية لضمان استدامة مخرجات المشاريع وتحقيق أثرها بعد التسليم، تتضمن بطاقة الاستدامة وضمان تحقيق الأثر، والحقيبة التدريبية، والإجراءات وخرائط سير العمل، وسلسلة القيمة، ومصفوفة الصلاحيات، والأدوار والمسؤوليات، وآلية تصنيف المشاريع حسب الأولوية. | A methodology for maintaining project outcomes and impact after project closure. It includes the Sustainability & Impact Assurance Card, a training kit, documented procedures and workflows, a value chain, a RACI matrix, defined organizational roles and responsibilities, and a project classification mechanism. |
 | منهجية — معتمد من القيادة العليا | Methodology — Approved by senior leadership |
 | 2022–2023 | 2022–2023 |
