@@ -102,7 +102,7 @@
 | مبادرات تحوّل الفروع: تنفيذ مبادرات التحوّل على مستوى الفروع ومواءمة إجراءاتها مع الاستراتيجية الجديدة. | Branch Transformation Initiatives: Implemented branch-level transformation initiatives and aligned branch procedures with the new strategy. |
 | التواصل والتوعية ونقل المعرفة: تنفيذ أنشطة التواصل والتوعية ونقل المعرفة لدعم تبنّي الموظفين للتغيير. | Communication, Awareness and Knowledge Transfer: Delivered communication, awareness and knowledge-transfer activities to support employee adoption of change. |
 | الحد من مقاومة التغيير: الحد من مقاومة التغيير عبر زيارات منتظمة للفروع، وتحديد عوائق التبنّي ومخاوف الموظفين، وتوجيه فرق الفروع. | Reducing Resistance to Change: Reduced resistance to change through regular branch visits, identifying adoption barriers and staff concerns, and coaching branch teams. |
-| التنسيق مع مديري الفروع: التنسيق مع مديري الفروع لتنمية الأعمال وتحسين خدمة العملاء وتحقيق مستهدفات الأداء. | Coordination with Branch Managers: Coordinated with branch managers on business growth, customer service and performance targets. |
+| التعاون مع مديري الفروع: التعاون مع مديري الفروع لتنمية الأعمال وتحسين خدمة العملاء وتحقيق مستهدفات الأداء. | Collaboration with Branch Managers: Collaborated with branch managers on business growth, customer service and performance targets. |
 | تحليل بطاقة الأداء المتوازن: تحليل فاعلية بطاقة الأداء المتوازن ورفع التوصيات إلى الإدارة العليا لتحسين الأداء. | Balanced Scorecard Analysis: Analyzed the effectiveness of the balanced scorecard and submitted recommendations to senior management to improve performance. |
 
 ## المشاريع
