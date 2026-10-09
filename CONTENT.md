@@ -57,7 +57,7 @@
 | الحلول الرقمية لقطاع المحاماة: تصميم وتطوير حلول رقمية للإدارة العامة للمحاماة، منها الأداة المساعدة لتمكين الظهور الإعلامي والإعلاني للمحامين، ومنصة بيانات قطاع المحاماة، والمساعد الذكي. | Digital Solutions for Law Practice: Designed and developed digital solutions for the General Directorate of Law Practice, including the Lawyers’ Media and Advertising Enablement Tool, the Law Practice Data Platform and the AI Assistant. |
 | دراسة تزايد أعداد المحامين المرخصين: إعداد دراسة تحليلية لتزايد أعداد المحامين المرخصين في المملكة، تشمل تحليل النمو وأعداد المحامين مقارنة بالسكان وأنماط السوق، والمقارنة مع عدد من الدول، وصولًا إلى نتائج وتوصيات تدعم التخطيط لتطوير القطاع. | Licensed Lawyers Growth Study: Prepared an analytical study of the growth in licensed lawyers in the Kingdom, covering growth rates, lawyer-to-population ratios and market patterns, with comparisons to selected countries and recommendations to support sector development planning. |
 | الخطة التنفيذية لتطوير قطاع المحاماة: إعداد الخطة التنفيذية لتطوير قطاع المحاماة من خلال خمس ورش عمل في الهيئة السعودية للمحامين بمشاركة نحو 82 محاميًا. | Law Practice Sector Development Execution Plan: Developed the Law Practice Sector Development Execution Plan through five workshops held at the Saudi Bar Association with around 82 participating lawyers. |
-| العروض التنفيذية لمعالي وزير العدل: إعداد العروض التنفيذية للاجتماعات الدورية مع معالي وزير العدل. | Presentations for H.E. the Minister of Justice: Developed the presentations for the periodic meetings with H.E. the Minister of Justice. |
+| العروض التنفيذية للاجتماعات الدورية: إعداد العروض التنفيذية للاجتماعات الدورية مع معالي وزير العدل. | Executive Presentations for Periodic Meetings: Developed the presentations for the periodic meetings with H.E. the Minister of Justice. |
 | اللقاء التعريفي لمكاتب المحاماة الأجنبية: إعداد خطة اللقاء التعريفي لمكاتب المحاماة الأجنبية المرخصة بمشاركة الجهات الحكومية ذات العلاقة. | Foreign Law Firms Forum: Prepared the Foreign Law Firms Forum plan with the participation of relevant government entities. |
 | التقرير السنوي لرؤية السعودية 2030: مراجعة حضور ومنجزات وزارة العدل في التقرير السنوي لرؤية السعودية 2030، مع توصيات لإبراز منجزاتها وأثرها في التقارير القادمة. | Saudi Vision 2030 Annual Report: Reviewed the Ministry of Justice contribution to the Saudi Vision 2030 Annual Report, with recommendations to better highlight its achievements and impact in future reports. |
 | دراسة إدارة الشؤون البينية: إعداد دراسة إدارة الشؤون البينية (التنسيق المؤسسي) لتعزيز التنسيق والتكامل على مستوى الوزارة. | Interdepartmental Affairs Study: Prepared the Interdepartmental Affairs (Institutional Coordination) Study to strengthen coordination and integration across the Ministry. |
@@ -150,10 +150,10 @@
 | خطة تنفيذية | Execution plan |
 | 2026 | 2026 |
 
-### إعداد العروض التنفيذية للاجتماعات الدورية مع معالي وزير العدل
+### إعداد العروض التنفيذية للاجتماعات الدورية
 | العربية | English |
 |---|---|
-| إعداد العروض التنفيذية للاجتماعات الدورية مع معالي وزير العدل | Presentations for Meetings with H.E. the Minister of Justice |
+| إعداد العروض التنفيذية للاجتماعات الدورية | Executive Presentations for Periodic Meetings |
 | إعداد وتطوير العروض التنفيذية للاجتماعات الدورية مع معالي وزير العدل، من خلال بناء المحتوى وصياغته وتنظيمه وإخراجه بما يضمن عرض الموضوعات والملفات ذات العلاقة بصورة واضحة ومتكاملة. | Developed comprehensive presentations for meetings with H.E. the Minister of Justice, covering key topics related to the portfolio and its work. |
 | عروض تنفيذية | Executive presentations |
 | 2025–2026 | 2025–2026 |
