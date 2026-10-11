@@ -12,7 +12,7 @@
 ## النبذة
 | العربية | English |
 |---|---|
-| خبرة تتجاوز اثني عشر عامًا في تمكين التحول وإدارة التغيير، في القطاع الحكومي بصورة رئيسة إلى جانب القطاع الخاص. وتشمل إعداد الخطط التنفيذية، وقياس المنافع المتحققة، واستدامة القيمة بعد تسليم المشاريع. ومن أبرز المخرجات ثلاثة مخرجات معتمدة من القيادة: منهجية استدامة المشاريع، والخطة التنفيذية لتمكين المحاكم، وأدوات مركز التميّز لإدارة التغيير. | More than twelve years of experience in transformation enablement and change management, primarily in the public sector as well as the private sector, covering execution planning, measurement of realized benefits and sustaining value after project handover. Key outputs include three leadership-approved deliverables: the Project Sustainability Methodology, the Courts Enablement Execution Plan and the Change COE Toolkits. |
+| خبرة تتجاوز اثني عشر عامًا في تمكين التحول وإدارة التغيير، في القطاعين الحكومي والخاص. وتشمل إعداد الخطط التنفيذية، وقياس المنافع المتحققة، واستدامة القيمة بعد تسليم المشاريع. ومن أبرز المخرجات ثلاثة مخرجات معتمدة من القيادة: منهجية استدامة المشاريع، والخطة التنفيذية لتمكين المحاكم، وأدوات مركز التميّز لإدارة التغيير. | More than twelve years of experience in transformation enablement and change management in the public and private sectors, covering execution planning, measurement of realized benefits and sustaining value after project handover. Key outputs include three leadership-approved deliverables: the Project Sustainability Methodology, the Courts Enablement Execution Plan and the Change COE Toolkits. |
 
 ## الأرقام الرئيسية
 | العربية | English |
