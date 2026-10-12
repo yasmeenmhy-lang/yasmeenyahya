@@ -798,7 +798,7 @@
   introPlay.addEventListener('click', playIntro);
   /* يُعرض العرض التعريفي أولًا عند فتح الموقع، مرة واحدة في الجلسة */
   /* العرض التعريفي هو الصفحة الرئيسية: يُعرض عند كل فتح للموقع */
-  if (!location.hash) playIntro();
+  /* intro plays only from the Play intro button */
   intro.addEventListener('click', function (e) { if (e.target === intro || e.target.classList.contains('iscene')) stopIntro(); });
   document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && !intro.hidden) stopIntro(); });
   var editBar = document.getElementById('edit-bar'), editBtn = document.getElementById('edit-open');
