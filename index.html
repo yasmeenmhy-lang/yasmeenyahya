@@ -179,15 +179,16 @@
   .lb-nav{position:absolute;top:50%;transform:translateY(-50%);width:44px;height:44px;border-radius:50%;border:1px solid rgba(255,255,255,.25);background:rgba(255,255,255,.1);color:#fff;cursor:pointer;display:none;place-items:center} .lb-nav svg{width:20px;height:20px;stroke:currentColor;fill:none;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round} .lb-nav:hover{background:rgba(255,255,255,.22)} .lb-nav:focus-visible{outline:2px solid #fff;outline-offset:2px} .lb-prev{inset-inline-start:16px} .lb-next{inset-inline-end:16px} .lb.has-nav .lb-nav{display:grid} html[dir="rtl"] .lb-nav svg{transform:scaleX(-1)}
   .lb-cap{position:absolute;bottom:18px;inset-inline:0;text-align:center;color:#fff;font-size:14px;opacity:.9;padding:0 70px}
   .btn-intro{display:flex;align-items:center;justify-content:center;gap:8px;width:100%;margin-top:10px;padding:12px;border-radius:12px;border:1px solid var(--line);background:transparent;color:var(--text);font:inherit;font-size:14px;font-weight:600;cursor:pointer;transition:background .2s,border-color .2s} .btn-intro:hover{background:var(--pill);border-color:var(--accent)} .btn-intro svg{width:16px;height:16px;fill:var(--accent)}
-  .intro{position:fixed;inset:0;z-index:200;background:var(--bg);color:var(--text);overflow:hidden;display:block} .intro[hidden]{display:none}
+  .intro{position:fixed;inset:0;z-index:200;background:var(--bg);color:var(--text);overflow:hidden;display:block;touch-action:none;user-select:none;-webkit-user-select:none;-webkit-touch-callout:none} .intro[hidden]{display:none}
   .intro-glow{position:absolute;width:90vmax;height:90vmax;left:50%;top:50%;border-radius:50%;background:radial-gradient(circle,rgba(134,138,221,.22),transparent 60%);filter:blur(30px);animation:iglow 24s linear both}
   @keyframes iglow{from{transform:translate(-40%,-60%) scale(.9)}to{transform:translate(-60%,-40%) scale(1.1)}}
-  .intro-skip{position:absolute;top:18px;inset-inline-end:18px;z-index:2;background:rgba(255,255,255,.08);border:1px solid var(--line);color:var(--text);border-radius:999px;padding:8px 18px;font:inherit;font-size:13px;cursor:pointer} .intro-skip:hover{background:rgba(255,255,255,.16)}
-  .intro-bar{position:absolute;left:0;bottom:0;height:4px;background:linear-gradient(90deg,var(--accent),#5457b8);width:0;animation:ibar 24s linear both}
+  .intro-skip{position:absolute;top:28px;inset-inline-end:18px;z-index:3;background:rgba(255,255,255,.08);border:1px solid var(--line);color:var(--text);border-radius:999px;padding:8px 18px;font:inherit;font-size:13px;cursor:pointer} .intro-skip:hover{background:rgba(255,255,255,.16)}
+  .intro-segs{position:absolute;top:12px;left:12px;right:12px;z-index:3;display:flex;gap:5px;direction:ltr} .iseg{flex:1;height:3px;border-radius:3px;background:color-mix(in srgb,var(--text) 22%,transparent);overflow:hidden} .iseg i{display:block;height:100%;width:0;background:var(--text);border-radius:3px} .iseg.done i{width:100%} .iseg.cur i{animation:ibar var(--d,5s) linear forwards} .intro.paused .iseg.cur i,.intro.paused .iel{animation-play-state:paused}
+  html[dir="rtl"] .intro-segs{direction:rtl}
   @keyframes ibar{to{width:100%}}
-  .iscene{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:24px;opacity:0;animation:iscene var(--d) both;animation-delay:var(--s)}
+  .iscene{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:24px;opacity:0;visibility:hidden;transition:opacity .35s ease,visibility 0s .35s} .iscene.on{opacity:1;visibility:visible;transition:opacity .35s ease}
   @keyframes iscene{0%{opacity:0;transform:scale(1)}10%{opacity:1}90%{opacity:1;transform:scale(1)}100%{opacity:0;transform:scale(1.03)}}
-  .iel{opacity:0;animation:irise .9s var(--ease) both;animation-delay:calc(var(--s) + .25s + var(--i) * .18s)}
+  .iel{opacity:0} .iscene.on .iel{animation:irise .9s var(--ease) both;animation-delay:calc(.15s + var(--i) * .16s)}
   @keyframes irise{from{opacity:0;transform:translateY(28px)}to{opacity:1;transform:none}}
   .ilogo{width:clamp(64px,8vw,88px);height:auto;margin-bottom:18px;border-radius:22%;box-shadow:0 10px 34px rgba(84,87,184,.35)}
   .ikicker{letter-spacing:.22em;color:var(--accent);font-weight:600;font-size:clamp(12px,1.2vw,16px);margin-bottom:14px} html[lang="ar"] .ikicker{letter-spacing:0;font-family:var(--font-ar)}
@@ -253,7 +254,7 @@
   <section class="iscene" style="--s:9.5s;--d:5s"><h3 class="ih iel" style="--i:0" data-i18n="doing.title">مجالات العمل</h3><div class="igrid"><div class="icard iel" style="--i:1"><span class="icard-t" data-i18n="d1.t">الاستراتيجية والتنفيذ</span><span class="icard-d" data-i18n="d1.d">إعداد الخطط التنفيذية والمبادرات وقياس أدائها.</span></div><div class="icard iel" style="--i:2"><span class="icard-t" data-i18n="d2.t">إدارة التغيير</span><span class="icard-d" data-i18n="d2.d">تقييم الأثر والجاهزية، وإشراك أصحاب المصلحة، وتخطيط التواصل.</span></div><div class="icard iel" style="--i:3"><span class="icard-t" data-i18n="d3.t">تحقيق المنافع والاستدامة</span><span class="icard-d" data-i18n="d3.d">إعداد منهجيات لاستدامة القيمة بعد تسليم المشاريع إلى الجهات المشغّلة.</span></div><div class="icard iel" style="--i:4"><span class="icard-t" data-i18n="d4.t">دعم القرار التنفيذي</span><span class="icard-d" data-i18n="d4.d">إعداد دراسات ومواد داعمة لقرارات القيادة العليا، منها دراسات معتمدة من القيادة العليا.</span></div></div></section>
   <section class="iscene" style="--s:14.5s;--d:5s"><h3 class="ih iel" style="--i:0" data-i18n="projects.title">المشاريع والإنجازات</h3><div class="igrid"><div class="iproj iel" style="--i:1"><span class="iproj-n latin">01</span><span class="iproj-t" data-i18n="c1.i1.t">الأداة المساعدة لتمكين الظهور الإعلامي والإعلاني للمحامين</span></div><div class="iproj iel" style="--i:2"><span class="iproj-n latin">02</span><span class="iproj-t" data-i18n="p4.t">دراسة تزايد أعداد المحامين المرخصين</span></div><div class="iproj iel" style="--i:3"><span class="iproj-n latin">03</span><span class="iproj-t" data-i18n="x3.t">حضور ومنجزات وزارة العدل في التقرير السنوي لرؤية المملكة 2030</span></div><div class="iproj iel" style="--i:4"><span class="iproj-n latin">04</span><span class="iproj-t" data-i18n="c1.i3.t">المساعد الذكي</span></div></div></section>
   <section class="iscene" style="--s:19.5s;--d:4.5s"><h3 class="ih iel" style="--i:0" data-i18n="orgs.title">الجهات</h3><div class="iorgs"><div class="iorg iel" style="--i:1"><span class="org-logo has-img"><img src="assets/logo-moj.png" alt="شعار وزارة العدل" data-i18n-alt="alt.org1"></span><span data-i18n="c1.org">وزارة العدل – مكتب تحقيق الرؤية</span></div><div class="iorg iel" style="--i:2"><span class="org-logo has-img"><img src="assets/logo-mngdp.png" alt="شعار برنامج تطوير وزارة الحرس الوطني" data-i18n-alt="alt.org2"></span><span data-i18n="c2.org">برنامج تطوير وزارة الحرس الوطني</span></div><div class="iorg iel" style="--i:3"><span class="org-logo has-img"><img src="assets/logo-yu.png" alt="شعار جامعة اليمامة" data-i18n-alt="alt.org3"></span><span data-i18n="c3.org">جامعة اليمامة</span></div><div class="iorg iel" style="--i:4"><span class="org-logo has-img"><img src="assets/logo-anb.png" alt="شعار البنك العربي الوطني" data-i18n-alt="alt.org4"></span><span data-i18n="c4.org">البنك العربي الوطني</span></div></div></section>
-  <div class="intro-bar"></div>
+  <div class="intro-segs" aria-hidden="true"><span class="iseg"><i></i></span><span class="iseg"><i></i></span><span class="iseg"><i></i></span><span class="iseg"><i></i></span><span class="iseg"><i></i></span></div>
 </div>
 <div class="container layout" id="top">
   <aside class="card side reveal" aria-label="ياسمين بن يحيى">
@@ -787,18 +788,49 @@
 
   /* التبويبات */
   var reduce = window.matchMedia('(prefers-reduced-motion: reduce)');
-  var intro = document.getElementById('intro'), introSkip = document.getElementById('intro-skip'), introPlay = document.getElementById('intro-play'), introTimer = null, introCountTimer = null, INTRO_MS = 24000;
-  function introCount() { clearTimeout(introCountTimer); introCountTimer = setTimeout(function () { intro.querySelectorAll('.icount').forEach(function (el) { var n = +el.getAttribute('data-count'), t0 = null; function step(ts) { if (!t0) t0 = ts; var p = Math.min(1, (ts - t0) / 1400), e = 1 - Math.pow(1 - p, 3); el.textContent = Math.round(n * e); if (p < 1) requestAnimationFrame(step); } requestAnimationFrame(step); }); }, 5600); }
-  function playIntro() { if (reduce.matches) return; clearTimeout(introTimer); intro.querySelectorAll('.icount').forEach(function (el) { el.textContent = '0'; }); intro.hidden = true; void intro.offsetWidth; intro.hidden = false; document.body.classList.add('lb-lock'); introCount(); introTimer = setTimeout(stopIntro, INTRO_MS); introSkip.focus(); }
-  function stopIntro() { clearTimeout(introTimer); clearTimeout(introCountTimer); intro.hidden = true; document.body.classList.remove('lb-lock'); try { sessionStorage.setItem('pf-intro', '1'); } catch (e) {} }
-
-  introSkip.addEventListener('click', stopIntro);
+  var intro = document.getElementById('intro'), introSkip = document.getElementById('intro-skip'), introPlay = document.getElementById('intro-play');
+  var scenes = Array.prototype.slice.call(intro.querySelectorAll('.iscene')), segs = Array.prototype.slice.call(intro.querySelectorAll('.iseg'));
+  var DUR = [5000, 4500, 5000, 5000, 4500], cur = -1, stTimer = null, remain = 0, t0 = 0, paused = false, holdTimer = null, held = false, px = 0, py = 0;
+  function introCount() { intro.querySelectorAll('.icount').forEach(function (el) { var n = +el.getAttribute('data-count'), s0 = null; el.textContent = '0'; function step(ts) { if (!s0) s0 = ts + 400; var p = Math.max(0, Math.min(1, (ts - s0) / 1400)), e = 1 - Math.pow(1 - p, 3); el.textContent = Math.round(n * e); if (p < 1) requestAnimationFrame(step); } requestAnimationFrame(step); }); }
+  function schedule(ms) { clearTimeout(stTimer); remain = ms; t0 = Date.now(); stTimer = setTimeout(function () { showScene(cur + 1); }, ms); }
+  function showScene(n) {
+    if (n < 0) n = 0;
+    if (n >= scenes.length) { stopIntro(); return; }
+    cur = n; paused = false; intro.classList.remove('paused');
+    scenes.forEach(function (sc, k) { sc.classList.toggle('on', k === n); });
+    segs.forEach(function (g, k) { g.className = 'iseg' + (k < n ? ' done' : (k === n ? ' cur' : '')); g.style.setProperty('--d', DUR[k] + 'ms'); var bar = g.firstChild; bar.style.animation = 'none'; void bar.offsetWidth; bar.style.animation = ''; });
+    if (n === 1) introCount();
+    schedule(DUR[n]);
+  }
+  function pauseIntro() { if (paused) return; paused = true; clearTimeout(stTimer); remain -= Date.now() - t0; intro.classList.add('paused'); }
+  function resumeIntro() { if (!paused) return; paused = false; intro.classList.remove('paused'); schedule(Math.max(200, remain)); }
+  function playIntro() { if (reduce.matches) return; intro.hidden = false; document.body.classList.add('lb-lock'); showScene(0); introSkip.focus(); }
+  function stopIntro() { clearTimeout(stTimer); clearTimeout(holdTimer); paused = false; intro.classList.remove('paused'); scenes.forEach(function (sc) { sc.classList.remove('on'); }); intro.hidden = true; document.body.classList.remove('lb-lock'); }
+  function isRtl() { return document.documentElement.getAttribute('dir') === 'rtl'; }
+  introSkip.addEventListener('click', function (e) { e.stopPropagation(); stopIntro(); });
+  introSkip.addEventListener('pointerdown', function (e) { e.stopPropagation(); });
   introPlay.addEventListener('click', playIntro);
-  /* يُعرض العرض التعريفي أولًا عند فتح الموقع، مرة واحدة في الجلسة */
-  /* العرض التعريفي هو الصفحة الرئيسية: يُعرض عند كل فتح للموقع */
   /* intro plays only from the Play intro button */
-  intro.addEventListener('click', function (e) { if (e.target === intro || e.target.classList.contains('iscene')) stopIntro(); });
-  document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && !intro.hidden) stopIntro(); });
+  /* Story controls: tap forward side = next, tap back side = previous, hold = pause, swipe down = close */
+  intro.addEventListener('pointerdown', function (e) { if (e.button > 0) return; px = e.clientX; py = e.clientY; held = false; clearTimeout(holdTimer); holdTimer = setTimeout(function () { held = true; pauseIntro(); }, 220); });
+  intro.addEventListener('pointerup', function (e) {
+    if (intro.hidden) return; clearTimeout(holdTimer);
+    var dx = e.clientX - px, dy = e.clientY - py, w = intro.clientWidth;
+    if (dy > 90 && Math.abs(dy) > Math.abs(dx)) { stopIntro(); return; }
+    if (Math.abs(dx) > 60 && Math.abs(dx) > Math.abs(dy)) { var fwdSwipe = isRtl() ? dx > 0 : dx < 0; showScene(cur + (fwdSwipe ? 1 : -1)); return; }
+    if (held) { resumeIntro(); return; }
+    var back = isRtl() ? (e.clientX > w * 0.7) : (e.clientX < w * 0.3);
+    showScene(cur + (back ? -1 : 1));
+  });
+  intro.addEventListener('pointercancel', function () { clearTimeout(holdTimer); resumeIntro(); });
+  intro.addEventListener('contextmenu', function (e) { e.preventDefault(); });
+  document.addEventListener('keydown', function (e) {
+    if (intro.hidden) return;
+    if (e.key === 'Escape') stopIntro();
+    else if (e.key === 'ArrowRight') showScene(cur + (isRtl() ? -1 : 1));
+    else if (e.key === 'ArrowLeft') showScene(cur + (isRtl() ? 1 : -1));
+    else if (e.key === ' ') { e.preventDefault(); if (paused) resumeIntro(); else pauseIntro(); }
+  });
   var editBar = document.getElementById('edit-bar'), editBtn = document.getElementById('edit-open');
   if (/(^|[#&])edit($|&)/.test(location.hash.slice(1)) || (function(){try{return localStorage.getItem('pf-edits');}catch(e){return null;}})()) editBtn.hidden = false;
   var _unused = 0, editCount = document.getElementById('edit-count'), editing = false;
